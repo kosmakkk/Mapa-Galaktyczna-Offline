@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1790358770014,
-  "published_at": "2026-09-28T08:36:41.269Z",
+  "published_at": "2026-09-28T09:10:42.758Z",
   "source_data_updated_at": "2026-09-25T17:52:50.014Z",
   "entities": {
     "Planet": [
@@ -419,7 +419,7 @@
         "manual_trait_removals": [],
         "trait_rules_version": 2,
         "hyperspace_routes": [
-          "Unknown Planet",
+          "unknown-planet-5aced6219a8ba972",
           "Genetia",
           "Xala"
         ],
@@ -524,7 +524,12 @@
         "is_hidden": true,
         "angle": 254.2314499127344,
         "radius_pct": 88.53924717245101,
-        "display_scale": 1
+        "display_scale": 1,
+        "hyperspace_routes": [
+          "unknown-planet-aafff60bd754afe3",
+          "Agaris",
+          "Xala"
+        ]
       },
       {
         "id": "6a0e92ef1e79fbb719868687",
@@ -12421,7 +12426,7 @@
         "trait_rules_version": 2,
         "hyperspace_routes": [
           "Agaris",
-          "Unknown Planet",
+          "unknown-planet-5aced6219a8ba972",
           "Batuu",
           "Pam'ba"
         ],
@@ -21285,7 +21290,7 @@
         "manual_trait_removals": [],
         "trait_rules_version": 2,
         "hyperspace_routes": [
-          "Unknown Planet",
+          "unknown-planet-f4cf326ac1f89585",
           "Codia",
           "Csilla",
           "Jedha"
@@ -22196,7 +22201,7 @@
         "manual_trait_removals": [],
         "trait_rules_version": 2,
         "hyperspace_routes": [
-          "Unknown Planet",
+          "unknown-planet-9c05fa3477a09cd9",
           "Csilla",
           "Ilum"
         ],
@@ -34475,7 +34480,7 @@
         "trait_rules_version": 2,
         "hyperspace_routes": [
           "Endovar",
-          "Unknown Planet"
+          "unknown-planet-841f1b53909dd169"
         ],
         "campaign_objectives": [],
         "high_value_targets": [],
@@ -34561,7 +34566,10 @@
         "is_hidden": true,
         "angle": 269.91978574901646,
         "radius_pct": 47.183249039340566,
-        "display_scale": 0.5
+        "display_scale": 0.5,
+        "hyperspace_routes": [
+          "Tanoa"
+        ]
       },
       {
         "id": "planet_1787601087047_h31u47m63",
@@ -34919,7 +34927,11 @@
         "is_hidden": true,
         "angle": 285,
         "radius_pct": 80,
-        "display_scale": 1
+        "display_scale": 1,
+        "hyperspace_routes": [
+          "unknown-planet-3d8e41841ee11e30",
+          "Zonama Sekot"
+        ]
       },
       {
         "id": "unknown-planet-3d8e41841ee11e30",
@@ -34928,7 +34940,10 @@
         "is_hidden": true,
         "angle": 277.10356422187385,
         "radius_pct": 87.98950328257631,
-        "display_scale": 0.5
+        "display_scale": 0.5,
+        "hyperspace_routes": [
+          "unknown-planet-9c05fa3477a09cd9"
+        ]
       },
       {
         "id": "unknown-planet-f4cf326ac1f89585",
@@ -34937,7 +34952,11 @@
         "is_hidden": true,
         "angle": 276,
         "radius_pct": 72,
-        "display_scale": 1
+        "display_scale": 1,
+        "hyperspace_routes": [
+          "unknown-planet-aafff60bd754afe3",
+          "Sandstorm"
+        ]
       },
       {
         "id": "unknown-planet-aafff60bd754afe3",
@@ -34946,7 +34965,11 @@
         "is_hidden": true,
         "angle": 269,
         "radius_pct": 81,
-        "display_scale": 1
+        "display_scale": 1,
+        "hyperspace_routes": [
+          "unknown-planet-f4cf326ac1f89585",
+          "unknown-planet-5aced6219a8ba972"
+        ]
       },
       {
         "id": "unknown-planet-256fa269fcf4b6d9",
@@ -34955,7 +34978,10 @@
         "is_hidden": true,
         "angle": 279,
         "radius_pct": 89,
-        "display_scale": 1
+        "display_scale": 1,
+        "hyperspace_routes": [
+          "Stratis"
+        ]
       },
       {
         "id": "planet_1787605346400_p4u6xbpfx",
@@ -34981,7 +35007,7 @@
         "hyperspace_routes": [
           "Coruscant",
           "N'Zoth",
-          "Unknown Planet"
+          "unknown-planet-256fa269fcf4b6d9"
         ],
         "campaign_objectives": [],
         "high_value_targets": [],
@@ -38818,272 +38844,270 @@
         "icon_url": ""
       }
     },
-    "AppSettings": [
-      {
-        "id": "6986a916d70fdb8646418766",
-        "public_settings": "public_without_login",
-        "strategic_state": {
-          "current_turn": 4,
-          "revision": 118,
-          "market_prices": {
-            "durasteel": 1.51,
-            "minerals": 1.71,
-            "multipliers": {
-              "durasteel": 1.26,
-              "minerals": 1.14
-            }
-          },
-          "economic_ledger": [
-            {
-              "turn": 1,
-              "timestamp": 1789502055223,
-              "factions": {
-                "Republic": {
-                  "credits": 494337,
-                  "durasteel": 241966,
-                  "minerals": 96674,
-                  "totalDebt": 0,
-                  "tradeRevenue": 4481,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "CIS": {
-                  "credits": 20016,
-                  "durasteel": 6363,
-                  "minerals": 2398,
-                  "totalDebt": 0,
-                  "tradeRevenue": 4005,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Hutt Cartel": {
-                  "credits": 76085,
-                  "durasteel": 32775,
-                  "minerals": 14518,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Neutral": {
-                  "credits": 0,
-                  "durasteel": 0,
-                  "minerals": 0,
-                  "totalDebt": 0,
-                  "tradeRevenue": 1434,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "UNSC": {
-                  "credits": 36032,
-                  "durasteel": 14500,
-                  "minerals": 6468,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                }
-              },
-              "marketPrices": {
-                "durasteel": 1.39,
-                "minerals": 1.6,
-                "multipliers": {
-                  "durasteel": 1.16,
-                  "minerals": 1.07
-                }
-              },
-              "totalTradeVolume": 9911
-            },
-            {
-              "turn": 2,
-              "timestamp": 1789502754167,
-              "factions": {
-                "Republic": {
-                  "credits": 527549,
-                  "durasteel": 252522,
-                  "minerals": 100982,
-                  "totalDebt": 0,
-                  "tradeRevenue": 5847,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "CIS": {
-                  "credits": 46268,
-                  "durasteel": 13206,
-                  "minerals": 5166,
-                  "totalDebt": 0,
-                  "tradeRevenue": 5550,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Hutt Cartel": {
-                  "credits": 61140,
-                  "durasteel": 25990,
-                  "minerals": 9044,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Neutral": {
-                  "credits": 0,
-                  "durasteel": 0,
-                  "minerals": 0,
-                  "totalDebt": 0,
-                  "tradeRevenue": 1897,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "UNSC": {
-                  "credits": 31864,
-                  "durasteel": 11625,
-                  "minerals": 4486,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                }
-              },
-              "marketPrices": {
-                "durasteel": 1.54,
-                "minerals": 1.73,
-                "multipliers": {
-                  "durasteel": 1.29,
-                  "minerals": 1.15
-                }
-              },
-              "totalTradeVolume": 13259
-            },
-            {
-              "turn": 3,
-              "timestamp": 1789505707178,
-              "factions": {
-                "Republic": {
-                  "credits": 562055,
-                  "durasteel": 263413,
-                  "minerals": 105440,
-                  "totalDebt": 0,
-                  "tradeRevenue": 6452,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "CIS": {
-                  "credits": 75684,
-                  "durasteel": 20049,
-                  "minerals": 7934,
-                  "totalDebt": 0,
-                  "tradeRevenue": 6206,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Hutt Cartel": {
-                  "credits": 64060,
-                  "durasteel": 27145,
-                  "minerals": 9525,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "Neutral": {
-                  "credits": 0,
-                  "durasteel": 0,
-                  "minerals": 0,
-                  "totalDebt": 0,
-                  "tradeRevenue": 2094,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                },
-                "UNSC": {
-                  "credits": 34196,
-                  "durasteel": 12250,
-                  "minerals": 4804,
-                  "totalDebt": 0,
-                  "tradeRevenue": 0,
-                  "activeLoansCount": 0,
-                  "hasDefaultedLoans": false,
-                  "doctrine": null
-                }
-              },
-              "marketPrices": {
-                "durasteel": 1.51,
-                "minerals": 1.71,
-                "multipliers": {
-                  "durasteel": 1.26,
-                  "minerals": 1.14
-                }
-              },
-              "totalTradeVolume": 14742
-            }
-          ],
-          "sector_governance": {
-            "Hutt Cartel": {
-              "69d6a68cd494f5e61417930b": {
-                "version": 1,
-                "pending_focus": "military_production",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69e8bf915f05fa027addbaf3": {
-                "version": 1,
-                "pending_focus": "fortress_line",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69d6a3a907a133cdeabb3581": {
-                "version": 1,
-                "pending_focus": "balanced",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69d69680d4ad4178174473dd": {
-                "version": 1,
-                "pending_focus": "balanced",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69d6a46179a14f8c2ee340d9": {
-                "version": 1,
-                "pending_focus": "balanced",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69d69478ebf3de7df48d0f6a": {
-                "version": 1,
-                "pending_focus": "balanced",
-                "apply_turn": 4,
-                "updated_turn": 4
-              },
-              "69d6a4f659dae4aed98d31f8": {
-                "version": 1,
-                "pending_focus": "balanced",
-                "apply_turn": 4,
-                "updated_turn": 4
-              }
-            }
+    "AppSettings": {
+      "id": "6986a916d70fdb8646418766",
+      "public_settings": "public_without_login",
+      "strategic_state": {
+        "current_turn": 4,
+        "revision": 118,
+        "market_prices": {
+          "durasteel": 1.51,
+          "minerals": 1.71,
+          "multipliers": {
+            "durasteel": 1.26,
+            "minerals": 1.14
           }
         },
-        "military_version": 1,
-        "independent_worlds_version": 1,
-        "specialization_version": 1,
-        "administration_version": 1,
-        "updated_date": "2026-09-16T18:15:38.624Z"
-      }
-    ],
+        "economic_ledger": [
+          {
+            "turn": 1,
+            "timestamp": 1789502055223,
+            "factions": {
+              "Republic": {
+                "credits": 494337,
+                "durasteel": 241966,
+                "minerals": 96674,
+                "totalDebt": 0,
+                "tradeRevenue": 4481,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "CIS": {
+                "credits": 20016,
+                "durasteel": 6363,
+                "minerals": 2398,
+                "totalDebt": 0,
+                "tradeRevenue": 4005,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Hutt Cartel": {
+                "credits": 76085,
+                "durasteel": 32775,
+                "minerals": 14518,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Neutral": {
+                "credits": 0,
+                "durasteel": 0,
+                "minerals": 0,
+                "totalDebt": 0,
+                "tradeRevenue": 1434,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "UNSC": {
+                "credits": 36032,
+                "durasteel": 14500,
+                "minerals": 6468,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              }
+            },
+            "marketPrices": {
+              "durasteel": 1.39,
+              "minerals": 1.6,
+              "multipliers": {
+                "durasteel": 1.16,
+                "minerals": 1.07
+              }
+            },
+            "totalTradeVolume": 9911
+          },
+          {
+            "turn": 2,
+            "timestamp": 1789502754167,
+            "factions": {
+              "Republic": {
+                "credits": 527549,
+                "durasteel": 252522,
+                "minerals": 100982,
+                "totalDebt": 0,
+                "tradeRevenue": 5847,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "CIS": {
+                "credits": 46268,
+                "durasteel": 13206,
+                "minerals": 5166,
+                "totalDebt": 0,
+                "tradeRevenue": 5550,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Hutt Cartel": {
+                "credits": 61140,
+                "durasteel": 25990,
+                "minerals": 9044,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Neutral": {
+                "credits": 0,
+                "durasteel": 0,
+                "minerals": 0,
+                "totalDebt": 0,
+                "tradeRevenue": 1897,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "UNSC": {
+                "credits": 31864,
+                "durasteel": 11625,
+                "minerals": 4486,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              }
+            },
+            "marketPrices": {
+              "durasteel": 1.54,
+              "minerals": 1.73,
+              "multipliers": {
+                "durasteel": 1.29,
+                "minerals": 1.15
+              }
+            },
+            "totalTradeVolume": 13259
+          },
+          {
+            "turn": 3,
+            "timestamp": 1789505707178,
+            "factions": {
+              "Republic": {
+                "credits": 562055,
+                "durasteel": 263413,
+                "minerals": 105440,
+                "totalDebt": 0,
+                "tradeRevenue": 6452,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "CIS": {
+                "credits": 75684,
+                "durasteel": 20049,
+                "minerals": 7934,
+                "totalDebt": 0,
+                "tradeRevenue": 6206,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Hutt Cartel": {
+                "credits": 64060,
+                "durasteel": 27145,
+                "minerals": 9525,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "Neutral": {
+                "credits": 0,
+                "durasteel": 0,
+                "minerals": 0,
+                "totalDebt": 0,
+                "tradeRevenue": 2094,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              },
+              "UNSC": {
+                "credits": 34196,
+                "durasteel": 12250,
+                "minerals": 4804,
+                "totalDebt": 0,
+                "tradeRevenue": 0,
+                "activeLoansCount": 0,
+                "hasDefaultedLoans": false,
+                "doctrine": null
+              }
+            },
+            "marketPrices": {
+              "durasteel": 1.51,
+              "minerals": 1.71,
+              "multipliers": {
+                "durasteel": 1.26,
+                "minerals": 1.14
+              }
+            },
+            "totalTradeVolume": 14742
+          }
+        ],
+        "sector_governance": {
+          "Hutt Cartel": {
+            "69d6a68cd494f5e61417930b": {
+              "version": 1,
+              "pending_focus": "military_production",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69e8bf915f05fa027addbaf3": {
+              "version": 1,
+              "pending_focus": "fortress_line",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69d6a3a907a133cdeabb3581": {
+              "version": 1,
+              "pending_focus": "balanced",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69d69680d4ad4178174473dd": {
+              "version": 1,
+              "pending_focus": "balanced",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69d6a46179a14f8c2ee340d9": {
+              "version": 1,
+              "pending_focus": "balanced",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69d69478ebf3de7df48d0f6a": {
+              "version": 1,
+              "pending_focus": "balanced",
+              "apply_turn": 4,
+              "updated_turn": 4
+            },
+            "69d6a4f659dae4aed98d31f8": {
+              "version": 1,
+              "pending_focus": "balanced",
+              "apply_turn": 4,
+              "updated_turn": 4
+            }
+          }
+        }
+      },
+      "military_version": 1,
+      "independent_worlds_version": 1,
+      "specialization_version": 1,
+      "administration_version": 1,
+      "updated_date": "2026-09-16T18:15:38.624Z"
+    },
     "HighPriorityTarget": [
       {
         "id": "hpt_geonosis_sun_fac",
@@ -39134,7 +39158,7 @@
         "label": "REPUBLIC CONTROL",
         "color": "#60a5fa",
         "icon": "/images/factions/republic.webp",
-        "fleet_icon": "/images/placeholders/public-remote-image.svg",
+        "fleet_icon": "/images/fleets/1787562231628_obraz_2026-08-24_110351597.webp",
         "transport_icon": "/images/transports/1787589471489_obraz_2026-08-24_183751460.webp",
         "treasury": {
           "credits": 562055,
@@ -40136,7 +40160,12 @@
         "faction": "Unknown",
         "is_hidden": true,
         "map_marker_enabled": true,
-        "operational_status": "unknown"
+        "operational_status": "unknown",
+        "public_position": {
+          "x": -0.471832,
+          "y": 0.000661
+        },
+        "public_orbiting": true
       },
       {
         "id": "unknown-fleet-3c157ecdecff3ae8",
@@ -40145,7 +40174,11 @@
         "is_hidden": true,
         "map_marker_enabled": true,
         "operational_status": "unknown",
-        "current_planet": "Unknown Planet"
+        "public_position": {
+          "x": -0.772741,
+          "y": -0.207055
+        },
+        "public_orbiting": true
       },
       {
         "id": "unknown-fleet-c35f8a389d45ea83",
@@ -40153,7 +40186,12 @@
         "faction": "Unknown",
         "is_hidden": true,
         "map_marker_enabled": true,
-        "operational_status": "unknown"
+        "operational_status": "unknown",
+        "public_position": {
+          "x": -0.751916,
+          "y": 0.292186
+        },
+        "public_orbiting": true
       },
       {
         "id": "unknown-fleet-18ee34e3dafb97eb",
@@ -40162,7 +40200,11 @@
         "is_hidden": true,
         "map_marker_enabled": true,
         "operational_status": "unknown",
-        "current_planet": "Unknown Planet"
+        "public_position": {
+          "x": -0.716056,
+          "y": -0.07526
+        },
+        "public_orbiting": true
       },
       {
         "id": "unknown-fleet-454bf1f09b500896",
@@ -40171,7 +40213,11 @@
         "is_hidden": true,
         "map_marker_enabled": true,
         "operational_status": "unknown",
-        "current_planet": "Unknown Planet"
+        "public_position": {
+          "x": -0.873141,
+          "y": -0.108811
+        },
+        "public_orbiting": true
       },
       {
         "id": "unknown-fleet-fc929f39ce5970bd",
@@ -40180,7 +40226,11 @@
         "is_hidden": true,
         "map_marker_enabled": true,
         "operational_status": "unknown",
-        "current_planet": "Unknown Planet"
+        "public_position": {
+          "x": -0.772741,
+          "y": -0.207055
+        },
+        "public_orbiting": true
       },
       {
         "id": "fleet_1787752039211_crpk6prqy",
