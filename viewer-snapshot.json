@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1790358770014,
-  "published_at": "2026-09-28T16:36:15.165Z",
+  "published_at": "2026-09-28T18:30:35.391Z",
   "source_data_updated_at": "2026-09-25T17:52:50.014Z",
   "entities": {
     "Planet": [
@@ -67201,7 +67201,7 @@
         "homeworld_name": "Kuat",
         "headquarters_planet_id": "6986b22de39e92190260836f",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/kuat-drive-yards.svg",
         "description": "Premier Republic capital-ship and orbital-yard contractor.",
         "benefit": {
           "key": "fleet_repair_output",
@@ -67232,7 +67232,7 @@
         "homeworld_name": "Rendili",
         "headquarters_planet_id": "6991250fff1b83bb0f5effc8",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/rendili-stardrive.svg",
         "description": "Cost-conscious naval contractor operating through a campaign office on Fondor.",
         "benefit": {
           "key": "shipyard_upkeep",
@@ -67267,7 +67267,7 @@
         "homeworld_name": "Corellia",
         "headquarters_planet_id": "6986b22de39e92190260836b",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/corellian-engineering.svg",
         "description": "Flexible civilian and military starship engineering conglomerate.",
         "benefit": {
           "key": "fleet_repair_output",
@@ -67299,7 +67299,7 @@
         "homeworld_name": "Kessel",
         "headquarters_planet_id": "6986b22de39e921902608384",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/hoersch-kessel.svg",
         "description": "Separatist-aligned drive and warship contractor.",
         "benefit": {
           "key": "fleet_repair_output",
@@ -67329,7 +67329,7 @@
         "homeworld_name": "Mars",
         "headquarters_planet_id": "planet_1788169711069_efk28mw4o",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/sinoviet.png",
         "description": "Heavy engineering supplier for UNSC naval infrastructure.",
         "benefit": {
           "key": "fleet_repair_output",
@@ -67359,7 +67359,7 @@
         "homeworld_name": "Sanghelios",
         "headquarters_planet_id": "unknown-planet-256fa269fcf4b6d9",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/kolaar-manufactorum.png",
         "description": "Campaign manufactorum serving Covenant naval forces.",
         "benefit": {
           "key": "fleet_repair_output",
@@ -67390,7 +67390,7 @@
         "homeworld_name": "Rothana",
         "headquarters_planet_id": "69c2db35a3a75a7b3941e9b9",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/kuat-drive-yards.svg",
         "description": "Heavy materiel partner of the Grand Army of the Republic.",
         "benefit": {
           "key": "clone_production_speed",
@@ -67425,7 +67425,7 @@
         "homeworld_name": "Coruscant",
         "headquarters_planet_id": "6986b22de39e92190260836a",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/blastech.svg",
         "description": "Mass-market military small-arms supplier.",
         "benefit": {
           "key": "reinforcement_credit_cost",
@@ -67460,7 +67460,7 @@
         "homeworld_name": "Coruscant",
         "headquarters_planet_id": "6986b22de39e92190260836a",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/merr-sonn.svg",
         "description": "Specialist battlefield munitions and defensive systems supplier.",
         "benefit": {
           "key": "ground_defense",
@@ -67491,7 +67491,7 @@
         "homeworld_name": "Geonosis",
         "headquarters_planet_id": "6986b22de39e921902608373",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/baktoid.svg",
         "description": "Armored vehicle and battle-droid systems contractor.",
         "benefit": {
           "key": "droid_production_speed",
@@ -67521,7 +67521,7 @@
         "homeworld_name": "Mars",
         "headquarters_planet_id": "planet_1788169711069_efk28mw4o",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/misriah-armory.png",
         "description": "Primary UNSC arms and vehicle manufacturer.",
         "benefit": {
           "key": "reinforcement_credit_cost",
@@ -67551,7 +67551,7 @@
         "homeworld_name": "High Charity",
         "headquarters_planet_id": "unknown-planet-841f1b53909dd169",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/sacred-promissory.png",
         "description": "Covenant munitions forge represented by a campaign facility on Unknown Planet.",
         "benefit": {
           "key": "unit_production_speed",
@@ -67582,7 +67582,7 @@
         "homeworld_name": "Skako Minor",
         "headquarters_planet_id": "6986b22de39e921902608370",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/techno-union.svg",
         "description": "Technology guild operating a campaign industrial office on Balmorra.",
         "benefit": {
           "key": "construction_speed",
@@ -67613,7 +67613,7 @@
         "homeworld_name": "Murkhana",
         "headquarters_planet_id": "6a1d4d4002644518c294f4e4",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/corporate-alliance.png",
         "description": "Confederate industrial combine built around aggressive consolidation.",
         "benefit": {
           "key": "construction_cost",
@@ -67648,7 +67648,7 @@
         "homeworld_name": "Sullust",
         "headquarters_planet_id": "6986b22de39e921902608378",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/sorosuub.svg",
         "description": "Diversified industrial conglomerate with extensive resource processing capacity.",
         "benefit": {
           "key": "resource_income",
@@ -67683,7 +67683,7 @@
         "homeworld_name": "Pijal",
         "headquarters_planet_id": "6993931525eeede1e3fd4196",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/czerka.svg",
         "description": "Expansionist contractor known for rapid and socially costly projects.",
         "benefit": {
           "key": "construction_speed",
@@ -67713,7 +67713,7 @@
         "homeworld_name": "Earth",
         "headquarters_planet_id": "planet_1788169587141_w4obs2q1u",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/traxus-heavy-industries.png",
         "description": "Large-scale human industrial and infrastructure supplier.",
         "benefit": {
           "key": "resource_income",
@@ -67743,7 +67743,7 @@
         "homeworld_name": "High Charity",
         "headquarters_planet_id": "unknown-planet-3d8e41841ee11e30",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/assembly-forges-high-charity.png",
         "description": "Primary Covenant assembly-forge network represented by a campaign complex.",
         "benefit": {
           "key": "construction_cost",
@@ -67776,7 +67776,7 @@
         "homeworld_name": "Cato Neimoidia",
         "headquarters_planet_id": "6986b261e39e9219026083b5",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/trade-federation.svg",
         "description": "Interstellar shipping combine with influence on both sides of the Clone Wars.",
         "benefit": {
           "key": "trade_revenue",
@@ -67809,7 +67809,7 @@
         "homeworld_name": "Castell",
         "headquarters_planet_id": "6986b261e39e9219026083c0",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/commerce-guild.svg",
         "description": "Commodity cartel operating through an Ord Mantell campaign office.",
         "benefit": {
           "key": "commodity_sale_price",
@@ -67844,7 +67844,7 @@
         "homeworld_name": "Scipio",
         "headquarters_planet_id": "69d536dee8888bd3043e5a6f",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/intergalactic-banking-clan.svg",
         "description": "Galactic lender offering preferred financing to strategic clients.",
         "benefit": {
           "key": "loan_interest_points",
@@ -67877,7 +67877,7 @@
         "homeworld_name": "Nal Hutta",
         "headquarters_planet_id": "6986b22de39e921902608381",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/hutt-smuggling-syndicate.jpg",
         "description": "Campaign syndicate coordinating shadow-market logistics.",
         "benefit": {
           "key": "smuggling_cost",
@@ -67907,7 +67907,7 @@
         "homeworld_name": "Harvest",
         "headquarters_planet_id": "6a0e924c1aff1834cfb1a2d8",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/amg-transport-dynamics.png",
         "description": "UNSC-aligned transport and campaign logistics provider.",
         "benefit": {
           "key": "trade_revenue",
@@ -67937,7 +67937,7 @@
         "homeworld_name": "Qikost",
         "headquarters_planet_id": "unknown-planet-9c05fa3477a09cd9",
         "fallback_planet_ids": [],
-        "logo_url": "",
+        "logo_url": "/images/corporations/merchants-of-qikost.png",
         "description": "Covenant merchant network represented by a campaign enclave.",
         "benefit": {
           "key": "commodity_buy_price",

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">InterGalactic Banking Clan emblem</title>
+  <desc id="desc">A clean campaign emblem derived from the gold banking glyph visible in the Core Five chamber.</desc>
+  <circle cx="256" cy="256" r="218" fill="#15100b" stroke="#d69d3a" stroke-width="24"/>
+  <circle cx="256" cy="256" r="162" fill="none" stroke="#765323" stroke-width="18"/>
+  <path fill="#d69d3a" d="M156 166h200v42H209v27h118v42H209v27h147v42H156V166Zm0 69h53v42h-53v-42Z"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#f4cf77" stroke-width="5" opacity=".55"/>
+</svg>

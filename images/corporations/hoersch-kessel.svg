@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 600 600">
+	<rect fill="#ffe004" width="600" height="600"/>
+	<circle fill="#fff" cx="300" cy="300" r="262.5"/>
+	<path id="star" fill="#931602" d="M300,214.1129l-22.5302,63.3569-63.3569,22.5302,63.3569,22.4546,22.5302,63.4325,22.4546-63.4325,63.4325-22.4546-63.4325-22.5302-22.4546-63.3569Z"/>
+	<use href="#star" transform="translate(-131.8548,-68.9516)"/>
+	<use href="#star" transform="translate(131.8548,68.9516)"/>
+</svg>
