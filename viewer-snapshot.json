@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1790358770014,
-  "published_at": "2026-09-28T19:54:15.312Z",
-  "source_data_updated_at": "2026-09-25T17:52:50.014Z",
+  "campaign_version": 1790625360351,
+  "published_at": "2026-09-28T19:57:10.850Z",
+  "source_data_updated_at": "2026-09-28T19:56:00.351Z",
   "entities": {
     "Planet": [
       {
@@ -29606,25 +29606,38 @@
           "durasteel": 0,
           "minerals": 0
         },
+        "infrastructure_profile": {
+          "key": "profile_capital_economic",
+          "faction_key": "Republic",
+          "version": 2,
+          "automation_enabled": true,
+          "status": "active",
+          "blocked_reason": null,
+          "assigned_turn": 4,
+          "last_funded_turn": null,
+          "next_change_turn": 7
+        },
         "slot_expansions": 2,
         "administration": {
           "version": 1,
-          "profile_key": null,
+          "profile_key": "profile_capital_economic",
           "governor": {
-            "archetype_key": "temporary_governor",
-            "status": "caretaker",
-            "appointed_turn": null,
+            "archetype_key": "industrial_overseer",
+            "status": "active",
+            "appointed_turn": 4,
             "active_from_turn": 4,
-            "integrity_status": "not_applicable"
+            "integrity_status": "cleared",
+            "appointment_id": "capital:capital_1790619712874_8x9fy5mv:6986b22de39e92190260836a:governor"
           },
           "commander": {
-            "archetype_key": "temporary_commander",
-            "status": "caretaker",
-            "appointed_turn": null,
-            "active_from_turn": 4
+            "archetype_key": "logistics_commander",
+            "status": "active",
+            "appointed_turn": 4,
+            "active_from_turn": 4,
+            "appointment_id": "capital:capital_1790619712874_8x9fy5mv:6986b22de39e92190260836a:commander"
           },
           "pending": null,
-          "next_change_turn": 0,
+          "next_change_turn": 7,
           "audit": null,
           "public_adjustment": {
             "credits_multiplier": 1,
@@ -29675,7 +29688,7 @@
         "gar_deployments": [],
         "angle": 336.0643907763411,
         "radius_pct": 12.06748255509185,
-        "updated_date": "2026-09-04T15:39:40.057Z"
+        "updated_date": "2026-09-28T18:21:52.880Z"
       },
       {
         "id": "6986b22de39e921902608376",
@@ -34942,7 +34955,8 @@
         "radius_pct": 87.98950328257631,
         "display_scale": 0.5,
         "hyperspace_routes": [
-          "unknown-planet-9c05fa3477a09cd9"
+          "unknown-planet-9c05fa3477a09cd9",
+          "unknown-planet-256fa269fcf4b6d9"
         ]
       },
       {
@@ -34980,7 +34994,7 @@
         "radius_pct": 89,
         "display_scale": 1,
         "hyperspace_routes": [
-          "Stratis"
+          "unknown-planet-3d8e41841ee11e30"
         ]
       },
       {
@@ -35006,8 +35020,7 @@
         "trait_rules_version": 2,
         "hyperspace_routes": [
           "Coruscant",
-          "N'Zoth",
-          "unknown-planet-256fa269fcf4b6d9"
+          "N'Zoth"
         ],
         "campaign_objectives": [],
         "high_value_targets": [],
@@ -35124,7 +35137,7 @@
         "gar_deployments": [],
         "angle": 304.970450702055,
         "radius_pct": 12.666843340816856,
-        "updated_date": "2026-09-15T07:03:53.444Z"
+        "updated_date": "2026-09-28T19:54:05.075Z"
       },
       {
         "id": "planet_1788169587141_w4obs2q1u",
@@ -38849,7 +38862,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 118,
+        "revision": 132,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -39100,7 +39113,9 @@
               "updated_turn": 4
             }
           }
-        }
+        },
+        "corporate_lobby_discounts": {},
+        "corporate_history": []
       },
       "military_version": 1,
       "independent_worlds_version": 1,
@@ -39221,7 +39236,50 @@
         "total_local_defense_units": 8517059,
         "legacy_total_garrison_units": 10000000,
         "local_defense_region": "__faction_controlled__",
-        "updated_date": "2026-09-10T19:11:27.375Z"
+        "capital_state": {
+          "version": 1,
+          "status": "active",
+          "planet_id": "6986b22de39e92190260836a",
+          "variant": "economic",
+          "established_turn": 4,
+          "pending_planet_id": null,
+          "pending_variant": null,
+          "started_turn": null,
+          "completion_turn": null,
+          "former_capital_profile_key": null,
+          "former_capital_automation_enabled": null,
+          "cost_snapshot": {
+            "credits": 0,
+            "durasteel": 0,
+            "minerals": 0
+          },
+          "settled_turns": 0,
+          "retry_blocked_until_turn": 0
+        },
+        "corporate_contracts_version": 1,
+        "corporate_contracts": {
+          "naval": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "ground": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "industry": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "commerce": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          }
+        },
+        "updated_date": "2026-09-28T18:21:52.880Z"
       },
       {
         "id": "faction_cis",
@@ -39262,6 +39320,49 @@
         "total_local_defense_units": 3519894,
         "legacy_total_garrison_units": 1000000000,
         "local_defense_region": "__faction_controlled__",
+        "capital_state": {
+          "version": 1,
+          "status": "setup_required",
+          "planet_id": null,
+          "variant": null,
+          "established_turn": null,
+          "pending_planet_id": null,
+          "pending_variant": null,
+          "started_turn": null,
+          "completion_turn": null,
+          "former_capital_profile_key": null,
+          "former_capital_automation_enabled": null,
+          "cost_snapshot": {
+            "credits": 0,
+            "durasteel": 0,
+            "minerals": 0
+          },
+          "settled_turns": 0,
+          "retry_blocked_until_turn": 0
+        },
+        "corporate_contracts_version": 1,
+        "corporate_contracts": {
+          "naval": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "ground": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "industry": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "commerce": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          }
+        },
         "updated_date": "2026-09-04T15:39:40.057Z"
       },
       {
@@ -39293,6 +39394,49 @@
         "total_garrison_units": 0,
         "total_local_defense_units": 0,
         "legacy_total_garrison_units": 0,
+        "capital_state": {
+          "version": 1,
+          "status": "setup_required",
+          "planet_id": null,
+          "variant": null,
+          "established_turn": null,
+          "pending_planet_id": null,
+          "pending_variant": null,
+          "started_turn": null,
+          "completion_turn": null,
+          "former_capital_profile_key": null,
+          "former_capital_automation_enabled": null,
+          "cost_snapshot": {
+            "credits": 0,
+            "durasteel": 0,
+            "minerals": 0
+          },
+          "settled_turns": 0,
+          "retry_blocked_until_turn": 0
+        },
+        "corporate_contracts_version": 1,
+        "corporate_contracts": {
+          "naval": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "ground": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "industry": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "commerce": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          }
+        },
         "updated_date": "2026-09-16T17:52:55.482Z"
       },
       {
@@ -39365,6 +39509,49 @@
         "total_local_defense_units": 1154,
         "legacy_total_garrison_units": 121252862,
         "local_defense_region": "__faction_controlled__",
+        "capital_state": {
+          "version": 1,
+          "status": "setup_required",
+          "planet_id": null,
+          "variant": null,
+          "established_turn": null,
+          "pending_planet_id": null,
+          "pending_variant": null,
+          "started_turn": null,
+          "completion_turn": null,
+          "former_capital_profile_key": null,
+          "former_capital_automation_enabled": null,
+          "cost_snapshot": {
+            "credits": 0,
+            "durasteel": 0,
+            "minerals": 0
+          },
+          "settled_turns": 0,
+          "retry_blocked_until_turn": 0
+        },
+        "corporate_contracts_version": 1,
+        "corporate_contracts": {
+          "naval": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "ground": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "industry": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          },
+          "commerce": {
+            "active": null,
+            "pending": null,
+            "locked_until_turn": 0
+          }
+        },
         "updated_date": "2026-09-04T15:39:40.057Z"
       },
       {
@@ -67176,6 +67363,12 @@
           }
         },
         "updated_date": "2026-09-25T17:52:42.272Z"
+      },
+      {
+        "id": "capital_1790619712874_8x9fy5mv",
+        "type": "capital",
+        "turn": 4,
+        "updated_date": "2026-09-28T18:21:52.880Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -67956,8 +68149,12 @@
     "version": 1,
     "timelineEpoch": 1,
     "turn": 4,
-    "revision": 73,
+    "revision": 87,
     "senatePlanetId": "6986b22de39e92190260836a",
+    "corporateLobbying": {
+      "pending": {},
+      "discounts": {}
+    },
     "targets": {
       "senate": {
         "shares": {
@@ -68397,6 +68594,22 @@
         "pending": 0
       }
     },
-    "bills": []
+    "bills": [
+      {
+        "id": "1790620062843-g6j9ep1cji7-s4yennl33nr",
+        "author": "GIGA SENATOR",
+        "faction": "UNSC",
+        "title": "zmienić rozdzielczość mapy",
+        "body": "proszem",
+        "effect": "bardzo",
+        "status": "proposed",
+        "turn": 4,
+        "counts": {
+          "for": 0,
+          "against": 0,
+          "abstain": 0
+        }
+      }
+    ]
   }
 }
