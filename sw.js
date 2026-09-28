@@ -1,5 +1,5 @@
 /* Generated public viewer service worker. */
-const VERSION = "1790358770014-1790586642758";
+const VERSION = "1790358770014-1790587089477";
 const CACHE_PREFIX = 'galaxy-public-viewer-';
 const FINAL_CACHE = CACHE_PREFIX + VERSION;
 const TEMP_CACHE = FINAL_CACHE + '-installing';
@@ -36,11 +36,12 @@ async function populateAtomicCache() {
     }
     await caches.delete(TEMP_CACHE);
     await notify({ type: 'CACHE_READY', completed, total: FILES.length });
+    return true;
   } catch (error) {
     await caches.delete(TEMP_CACHE);
     await caches.delete(FINAL_CACHE);
     await notify({ type: 'CACHE_ERROR', message: error?.message || String(error), completed, total: FILES.length });
-    throw error;
+    return false;
   }
 }
 
@@ -50,24 +51,44 @@ self.addEventListener('install', event => {
 
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
+    const ready = await caches.has(FINAL_CACHE);
     const names = await caches.keys();
-    await Promise.all(names
-      .filter(name => name.startsWith(CACHE_PREFIX) && name !== FINAL_CACHE)
-      .map(name => caches.delete(name)));
+    if (ready) {
+      await Promise.all(names
+        .filter(name => name.startsWith(CACHE_PREFIX) && name !== FINAL_CACHE)
+        .map(name => caches.delete(name)));
+    }
     await self.clients.claim();
-    await notify({ type: 'CACHE_READY', completed: FILES.length, total: FILES.length });
+    await notify(ready
+      ? { type: 'CACHE_READY', completed: FILES.length, total: FILES.length }
+      : { type: 'CACHE_ERROR', message: 'Pełna kopia offline nie zmieściła się w pamięci przeglądarki. Aktualna mapa nadal działa online.', completed: 0, total: FILES.length });
   })());
 });
 
 self.addEventListener('message', event => {
   if (event.data?.type === 'GET_CACHE_STATUS') {
     event.waitUntil(caches.has(FINAL_CACHE).then(ready => notify({
-      type: ready ? 'CACHE_READY' : 'CACHE_MISSING',
+      type: ready ? 'CACHE_READY' : 'CACHE_ERROR',
       completed: ready ? FILES.length : 0,
       total: FILES.length,
+      ...(!ready ? { message: 'Pełna kopia offline nie jest dostępna. Aktualna mapa nadal działa online.' } : {}),
     })));
   }
 });
+
+const cachedFallback = async (request, navigation = false) => {
+  const names = (await caches.keys())
+    .filter(name => name.startsWith(CACHE_PREFIX) && !name.endsWith('-installing'))
+    .sort((left, right) => right.localeCompare(left));
+  for (const name of names) {
+    const cache = await caches.open(name);
+    const cached = navigation
+      ? await cache.match(scopedUrl('index.html'))
+      : await cache.match(request, { ignoreSearch: true });
+    if (cached) return cached;
+  }
+  return null;
+};
 
 self.addEventListener('fetch', event => {
   const request = event.request;
@@ -79,12 +100,12 @@ self.addEventListener('fetch', event => {
   }
   if (url.origin !== self.location.origin || !url.href.startsWith(self.registration.scope)) return;
   if (request.mode === 'navigate') {
-    event.respondWith(caches.open(FINAL_CACHE).then(cache =>
-      cache.match(scopedUrl('index.html')).then(cached => cached || fetch(request))
+    event.respondWith(fetch(request, { cache: 'no-store' }).catch(async () =>
+      (await cachedFallback(request, true)) || new Response('Offline viewer shell unavailable.', { status: 503 })
     ));
     return;
   }
-  event.respondWith(caches.open(FINAL_CACHE).then(cache =>
-    cache.match(request, { ignoreSearch: true }).then(cached => cached || fetch(request))
+  event.respondWith(fetch(request, { cache: 'no-store' }).catch(async () =>
+    (await cachedFallback(request)) || new Response('Offline asset unavailable.', { status: 503 })
   ));
 });
