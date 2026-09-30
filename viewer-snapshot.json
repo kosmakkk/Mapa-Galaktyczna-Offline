@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1790625360351,
-  "published_at": "2026-09-30T14:39:18.859Z",
+  "published_at": "2026-09-30T16:23:59.640Z",
   "source_data_updated_at": "2026-09-28T19:56:00.351Z",
   "entities": {
     "Planet": [
@@ -39582,14 +39582,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
         "route": [
           "Geonosis"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "fleet_1787741263095_9fuw5djvd",
         "supported_gar_formation_id": "gar_legacy_corps",
         "temporary_gar_assignment_id": "",
@@ -39611,14 +39611,14 @@
         "id": "fleet_1787568224564_8q6xlqqsf",
         "name": "Geonoziańska flota obronna",
         "faction": "CIS",
+        "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
         "route": [
           "Geonosis"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "shield_hp": 100,
         "shield_hp_max": 100,
         "armor_hp": 100,
@@ -39644,14 +39644,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e92190260837c",
         "origin_planet": "Kamino",
         "destination_planet": "",
         "route": [
           "Kamino"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "gar_legacy_sector_army",
         "temporary_gar_assignment_id": "",
@@ -39684,14 +39684,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e92190260836c",
         "origin_planet": "Duro",
         "destination_planet": "",
         "route": [
           "Duro"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "gar_sector_army_1787741437610_navlw",
         "temporary_gar_assignment_id": "",
@@ -39724,14 +39724,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b275e39e9219026083e9",
         "origin_planet": "Jedha",
         "destination_planet": "",
         "route": [
           "Jedha"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "gar_sector_army_1787744079993_epfbc",
         "temporary_gar_assignment_id": "",
@@ -39764,14 +39764,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e92190260837f",
         "origin_planet": "Kashyyyk",
         "destination_planet": "",
         "route": [
           "Kashyyyk"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "fleet_1787744142642_ac8kep8x0",
         "supported_gar_formation_id": "gar_corps_1787741608541_898w9",
         "temporary_gar_assignment_id": "",
@@ -39804,14 +39804,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b261e39e9219026083c3",
         "origin_planet": "Onderon",
         "destination_planet": "",
         "route": [
           "Onderon"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "fleet_1787744178542_5hl08yra0",
         "supported_gar_formation_id": "gar_corps_1787745495080_btalt",
         "temporary_gar_assignment_id": "",
@@ -39844,14 +39844,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "69d7947ec8c5d98553baa40f",
         "origin_planet": "Iberius",
         "destination_planet": "",
         "route": [
           "Iberius"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -39884,14 +39884,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "planet_1787601087047_h31u47m63",
         "origin_planet": "Eridanus Secundus",
         "destination_planet": "",
         "route": [
           "Eridanus Secundus"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -39924,14 +39924,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "69b759696e0943e106675d16",
         "origin_planet": "Blood Gulch",
         "destination_planet": "",
         "route": [
           "Blood Gulch"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -39964,14 +39964,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b261e39e9219026083ba",
         "origin_planet": "Gridlock",
         "destination_planet": "",
         "route": [
           "Gridlock"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40004,14 +40004,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "69b759696e0943e106675d16",
         "origin_planet": "Blood Gulch",
         "destination_planet": "",
         "route": [
           "Blood Gulch"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40044,14 +40044,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6a0e929bce0281b134d809a3",
         "origin_planet": "Malden",
         "destination_planet": "",
         "route": [
           "Malden"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40084,14 +40084,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b261e39e9219026083ba",
         "origin_planet": "Gridlock",
         "destination_planet": "",
         "route": [
           "Gridlock"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40124,14 +40124,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "planet_1787601087047_h31u47m63",
         "origin_planet": "Eridanus Secundus",
         "destination_planet": "",
         "route": [
           "Eridanus Secundus"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40160,7 +40160,7 @@
           "x": -0.471832,
           "y": 0.000661
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "unknown-fleet-3c157ecdecff3ae8",
@@ -40173,7 +40173,7 @@
           "x": -0.772741,
           "y": -0.207055
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "unknown-fleet-c35f8a389d45ea83",
@@ -40186,7 +40186,7 @@
           "x": -0.751916,
           "y": 0.292186
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "unknown-fleet-18ee34e3dafb97eb",
@@ -40199,7 +40199,7 @@
           "x": -0.716056,
           "y": -0.07526
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "unknown-fleet-454bf1f09b500896",
@@ -40212,7 +40212,7 @@
           "x": -0.873141,
           "y": -0.108811
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "unknown-fleet-fc929f39ce5970bd",
@@ -40225,7 +40225,7 @@
           "x": -0.772741,
           "y": -0.207055
         },
-        "public_orbiting": true
+        "public_orbiting": false
       },
       {
         "id": "fleet_1787752039211_crpk6prqy",
@@ -40242,14 +40242,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b275e39e9219026083e4",
         "origin_planet": "Muunilinst",
         "destination_planet": "",
         "route": [
           "Muunilinst"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40282,14 +40282,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
         "route": [
           "Geonosis"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40322,14 +40322,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "69d6909eb567b1620d1afbde",
         "origin_planet": "Arkanis",
         "destination_planet": "",
         "route": [
           "Arkanis"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40362,14 +40362,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b275e39e9219026083e4",
         "origin_planet": "Muunilinst",
         "destination_planet": "",
         "route": [
           "Muunilinst"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40402,14 +40402,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e92190260838b",
         "origin_planet": "Ryloth",
         "destination_planet": "",
         "route": [
           "Ryloth"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40442,14 +40442,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b261e39e9219026083d3",
         "origin_planet": "Ord Cestus",
         "destination_planet": "",
         "route": [
           "Ord Cestus"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40482,14 +40482,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b261e39e9219026083c0",
         "origin_planet": "Ord Mantell",
         "destination_planet": "",
         "route": [
           "Ord Mantell"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "",
         "supported_gar_formation_id": "",
         "temporary_gar_assignment_id": "",
@@ -40522,14 +40522,14 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
+        "planet_id": "6986b22de39e921902608375",
         "origin_planet": "Naboo",
         "destination_planet": "",
         "route": [
           "Naboo"
         ],
         "waypoints": [],
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "parent_fleet_id": "fleet_1787744178542_5hl08yra0",
         "supported_gar_formation_id": "gar_corps_1787745495080_btalt",
         "temporary_gar_assignment_id": "",
@@ -40574,8 +40574,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40608,8 +40607,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40642,8 +40640,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
@@ -40677,8 +40674,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
@@ -40712,8 +40708,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40746,8 +40741,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40780,8 +40774,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40814,8 +40807,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40848,8 +40840,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40882,8 +40873,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
@@ -40916,8 +40906,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40950,8 +40939,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -40984,8 +40972,7 @@
         "planet_id": "6986b22de39e92190260836a",
         "origin_planet": "Coruscant",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Coruscant"
         ],
@@ -41018,8 +41005,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
@@ -41052,8 +41038,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
@@ -41086,8 +41071,7 @@
         "planet_id": "6986b22de39e921902608373",
         "origin_planet": "Geonosis",
         "destination_planet": "",
-        "departure_date": "",
-        "arrival_date": "",
+        "movement_order": null,
         "route": [
           "Geonosis"
         ],
