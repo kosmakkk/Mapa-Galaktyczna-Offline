@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1790794537109,
-  "published_at": "2026-09-30T18:56:55.044Z",
-  "source_data_updated_at": "2026-09-30T18:55:37.109Z",
+  "campaign_version": 1790795168154,
+  "published_at": "2026-09-30T19:07:15.358Z",
+  "source_data_updated_at": "2026-09-30T19:06:08.154Z",
   "entities": {
     "Planet": [
       {
@@ -39154,7 +39154,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 137,
+        "revision": 140,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -39407,13 +39407,68 @@
           }
         },
         "corporate_lobby_discounts": {},
-        "corporate_history": []
+        "corporate_history": [
+          {
+            "id": "corporation_1790795131197_eyw3qv1a",
+            "type": "sign",
+            "faction_key": "CIS",
+            "category": "ground",
+            "corporation_id": "corp_baktoid",
+            "turn": 4,
+            "quote": {
+              "grossCreditIncome": 0,
+              "baseSigningFee": 500,
+              "lobbyDiscountPct": 0,
+              "signingFee": 500,
+              "upkeepPerTurn": 50,
+              "signedTurn": 4,
+              "activationTurn": 5,
+              "minimumEndTurn": 8
+            }
+          },
+          {
+            "id": "corporation_1790795140143_5fn6b9cr",
+            "type": "sign",
+            "faction_key": "CIS",
+            "category": "commerce",
+            "corporation_id": "corp_trade_federation",
+            "turn": 4,
+            "quote": {
+              "grossCreditIncome": 0,
+              "baseSigningFee": 500,
+              "lobbyDiscountPct": 0,
+              "signingFee": 500,
+              "upkeepPerTurn": 50,
+              "signedTurn": 4,
+              "activationTurn": 5,
+              "minimumEndTurn": 8
+            }
+          },
+          {
+            "id": "corporation_1790795154102_3wpt863w",
+            "type": "sign",
+            "faction_key": "CIS",
+            "category": "industry",
+            "corporation_id": "corp_techno_union",
+            "turn": 4,
+            "quote": {
+              "grossCreditIncome": 0,
+              "baseSigningFee": 500,
+              "lobbyDiscountPct": 0,
+              "signingFee": 500,
+              "upkeepPerTurn": 50,
+              "signedTurn": 4,
+              "activationTurn": 5,
+              "minimumEndTurn": 8
+            }
+          }
+        ]
       },
       "military_version": 1,
       "independent_worlds_version": 1,
       "specialization_version": 1,
       "administration_version": 1,
-      "updated_date": "2026-09-16T18:15:38.624Z"
+      "updated_date": "2026-09-30T19:05:54.108Z"
     },
     "HighPriorityTarget": [
       {
@@ -39584,7 +39639,7 @@
         "transport_icon": "/images/transports/1787589542654_obraz_2026-08-24_183902631.webp",
         "is_hidden": false,
         "treasury": {
-          "credits": 75684,
+          "credits": 74184,
           "durasteel": 20049,
           "minerals": 7934
         },
@@ -39641,21 +39696,99 @@
           },
           "ground": {
             "active": null,
-            "pending": null,
+            "pending": {
+              "corporation_id": "corp_baktoid",
+              "corporation_version": 1,
+              "category": "ground",
+              "status": "pending",
+              "signed_turn": 4,
+              "activation_turn": 5,
+              "minimum_end_turn": 8,
+              "base_signing_fee": 500,
+              "signing_fee": 500,
+              "upkeep_per_turn": 50,
+              "lobby_discount_pct": 0,
+              "missed_payments": 0,
+              "effect_snapshot": {
+                "benefit": {
+                  "key": "droid_production_speed",
+                  "value": 0.2
+                },
+                "drawback": {
+                  "key": "reinforcement_mineral_cost",
+                  "value": 0.1
+                }
+              },
+              "headquarters_planet_id": "6986b22de39e921902608373",
+              "headquarters_status": "operational",
+              "evacuation_turns_remaining": 0
+            },
             "locked_until_turn": 0
           },
           "industry": {
             "active": null,
-            "pending": null,
+            "pending": {
+              "corporation_id": "corp_techno_union",
+              "corporation_version": 1,
+              "category": "industry",
+              "status": "pending",
+              "signed_turn": 4,
+              "activation_turn": 5,
+              "minimum_end_turn": 8,
+              "base_signing_fee": 500,
+              "signing_fee": 500,
+              "upkeep_per_turn": 50,
+              "lobby_discount_pct": 0,
+              "missed_payments": 0,
+              "effect_snapshot": {
+                "benefit": {
+                  "key": "construction_speed",
+                  "value": 0.2
+                },
+                "drawback": {
+                  "key": "structure_upkeep",
+                  "value": 0.1
+                }
+              },
+              "headquarters_planet_id": "6986b22de39e921902608370",
+              "headquarters_status": "operational",
+              "evacuation_turns_remaining": 0
+            },
             "locked_until_turn": 0
           },
           "commerce": {
             "active": null,
-            "pending": null,
+            "pending": {
+              "corporation_id": "corp_trade_federation",
+              "corporation_version": 1,
+              "category": "commerce",
+              "status": "pending",
+              "signed_turn": 4,
+              "activation_turn": 5,
+              "minimum_end_turn": 8,
+              "base_signing_fee": 500,
+              "signing_fee": 500,
+              "upkeep_per_turn": 50,
+              "lobby_discount_pct": 0,
+              "missed_payments": 0,
+              "effect_snapshot": {
+                "benefit": {
+                  "key": "trade_revenue",
+                  "value": 0.25
+                },
+                "drawback": {
+                  "key": "structure_upkeep",
+                  "value": 0.1
+                }
+              },
+              "headquarters_planet_id": "6986b261e39e9219026083b5",
+              "headquarters_status": "operational",
+              "evacuation_turns_remaining": 0
+            },
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-09-30T18:53:32.823Z"
+        "updated_date": "2026-09-30T19:05:54.108Z"
       },
       {
         "id": "faction_hutt_cartel",
@@ -67379,6 +67512,24 @@
         "type": "capital",
         "turn": 4,
         "updated_date": "2026-09-30T18:55:32.275Z"
+      },
+      {
+        "id": "corporation_1790795131197_eyw3qv1a",
+        "type": "corporation",
+        "turn": 4,
+        "updated_date": "2026-09-30T19:05:31.204Z"
+      },
+      {
+        "id": "corporation_1790795140143_5fn6b9cr",
+        "type": "corporation",
+        "turn": 4,
+        "updated_date": "2026-09-30T19:05:40.148Z"
+      },
+      {
+        "id": "corporation_1790795154102_3wpt863w",
+        "type": "corporation",
+        "turn": 4,
+        "updated_date": "2026-09-30T19:05:54.108Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -68159,7 +68310,7 @@
     "version": 1,
     "timelineEpoch": 1,
     "turn": 4,
-    "revision": 92,
+    "revision": 95,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
