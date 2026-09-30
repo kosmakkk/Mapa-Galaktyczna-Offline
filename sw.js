@@ -1,5 +1,5 @@
 /* Generated public viewer service worker. */
-const VERSION = "1790625360351-1790793768358";
+const VERSION = "1790625360351-1790793900939";
 const CACHE_PREFIX = 'galaxy-public-viewer-';
 const FINAL_CACHE = CACHE_PREFIX + VERSION;
 const TEMP_CACHE = FINAL_CACHE + '-installing';
