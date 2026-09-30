@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1790625360351,
-  "published_at": "2026-09-30T18:51:31.185Z",
-  "source_data_updated_at": "2026-09-28T19:56:00.351Z",
+  "campaign_version": 1790794537109,
+  "published_at": "2026-09-30T18:56:55.044Z",
+  "source_data_updated_at": "2026-09-30T18:55:37.109Z",
   "entities": {
     "Planet": [
       {
@@ -140,6 +140,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 54.834349151779,
         "radius_pct": 80.66240874875128,
         "updated_date": "2026-09-25T17:51:47.189Z"
@@ -261,6 +262,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 45.402955183576864,
         "radius_pct": 63.526457736857246,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -392,6 +394,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 34.61325222045226,
         "radius_pct": 33.90853872517223,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -513,6 +516,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 230.69854861812416,
         "radius_pct": 48.17233152325722,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -651,6 +655,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 293.9391172526385,
         "radius_pct": 71.65000952538207,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -760,6 +765,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 320.5193103643653,
         "radius_pct": 45.49915638698167,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -875,6 +881,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 312.19464676685857,
         "radius_pct": 56.14325337249586,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -983,6 +990,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 319.51123900843703,
         "radius_pct": 55.63771178101483,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1107,6 +1115,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 320.3249801589048,
         "radius_pct": 64.7004393204104,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1219,6 +1228,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 284.17979291228596,
         "radius_pct": 40.63512995197138,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1339,6 +1349,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 221.30998800032407,
         "radius_pct": 54.27244197974835,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -1448,6 +1459,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 201.93526341908947,
         "radius_pct": 46.96173691750039,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1559,6 +1571,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 202.09609377910806,
         "radius_pct": 38.30681548586347,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1666,6 +1679,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 292.93075212035274,
         "radius_pct": 33.68689358440716,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1773,6 +1787,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 252.74739306877774,
         "radius_pct": 22.435179163851373,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1880,6 +1895,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 270.48038816359497,
         "radius_pct": 26.956583422975534,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -1990,6 +2006,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 290.52510242984437,
         "radius_pct": 23.007251382596284,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -2112,6 +2129,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 150.99633332532784,
         "radius_pct": 32.525857180777166,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -2231,6 +2249,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 345.20337493347506,
         "radius_pct": 81.1348012723093,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -2334,6 +2353,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 2.6934230928496277,
         "radius_pct": 31.373149611178334,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -2473,6 +2493,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 71.99412521230303,
         "radius_pct": 69.47877505682376,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -2611,6 +2632,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 66.82047673201242,
         "radius_pct": 69.76704117567188,
         "updated_date": "2026-09-25T17:51:19.674Z"
@@ -2755,6 +2777,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 70.82361205677836,
         "radius_pct": 32.04821817031964,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -2864,6 +2887,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 67.71431720663875,
         "radius_pct": 50.751149456197645,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -2975,6 +2999,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 92.36771649873408,
         "radius_pct": 32.46544526148107,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3091,6 +3116,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 317.89807427934016,
         "radius_pct": 80.65974509677712,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -3218,6 +3244,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 327.95795422172915,
         "radius_pct": 71.25409966084308,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3338,6 +3365,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 101.91000219950644,
         "radius_pct": 70.3528051483487,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3449,6 +3477,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 125,
         "radius_pct": 42,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3557,6 +3586,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 124.77982148271713,
         "radius_pct": 34.9487574913819,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3664,6 +3694,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 144,
         "radius_pct": 23,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -3783,6 +3814,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 147.10677584988144,
         "radius_pct": 59.09721283647027,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -3914,6 +3946,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 134.26751655490688,
         "radius_pct": 85.74572213291782,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -4039,6 +4072,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 144.06754490996377,
         "radius_pct": 77.28557060331698,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -4180,6 +4214,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 163.95511781421598,
         "radius_pct": 87.30448829294977,
         "updated_date": "2026-09-25T17:50:20.726Z"
@@ -4323,6 +4358,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 163.75663311720498,
         "radius_pct": 80.49097492992894,
         "updated_date": "2026-09-25T17:50:44.954Z"
@@ -4459,6 +4495,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 164.93410245905062,
         "radius_pct": 39.8773007342384,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -4600,6 +4637,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 149.39185429566118,
         "radius_pct": 69.7356304441117,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -4708,6 +4746,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 153.72799185368365,
         "radius_pct": 62.645824376946976,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -4836,6 +4875,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 148.99524272110378,
         "radius_pct": 84.47457526736912,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -4972,6 +5012,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 153.14943009924423,
         "radius_pct": 88.24143834842491,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -5087,6 +5128,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 155.60019337403358,
         "radius_pct": 87.73206841987505,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -5216,6 +5258,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 143.97053012970852,
         "radius_pct": 83.22493812446133,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -5375,6 +5418,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 154.54245977869127,
         "radius_pct": 76.08318957462706,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -5499,6 +5543,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 75.56056834827157,
         "radius_pct": 85.12200014287338,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -5619,6 +5664,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 82.819604702128,
         "radius_pct": 88.81504406725946,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -5743,6 +5789,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 78.17326371584736,
         "radius_pct": 86.87927687574579,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -5874,6 +5921,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 73.86437291108477,
         "radius_pct": 78.98130315046687,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -6013,6 +6061,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 58.76660965540145,
         "radius_pct": 77.30585790496262,
         "updated_date": "2026-09-25T17:51:50.722Z"
@@ -6133,6 +6182,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 81.88332366352628,
         "radius_pct": 77.0131183751777,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -6271,6 +6321,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 87.36092556099243,
         "radius_pct": 75.89744514227857,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -6392,6 +6443,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 87.33908147003929,
         "radius_pct": 89.87758917712921,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -6526,6 +6578,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 91.18259104406623,
         "radius_pct": 88.0623199288748,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -6654,6 +6707,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 27.708384221795058,
         "radius_pct": 76.3549766418294,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -6786,6 +6840,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 36.772926084005285,
         "radius_pct": 69.12265058648357,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -6905,6 +6960,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 41.609291894332586,
         "radius_pct": 70.90473172374303,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -7034,6 +7090,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 47.44301509991167,
         "radius_pct": 72.54568764599341,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -7163,6 +7220,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 8.155334552227671,
         "radius_pct": 56.19354118152275,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -7293,6 +7351,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 14.827854597202546,
         "radius_pct": 80.65219749104126,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -7427,6 +7486,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 10.08049507349044,
         "radius_pct": 85.35503890910866,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -7560,6 +7620,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 5.219298733805616,
         "radius_pct": 86.3225053547898,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -7681,6 +7742,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 1.2802769337585715,
         "radius_pct": 77.28102335203413,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -7812,6 +7874,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 354.68451587638657,
         "radius_pct": 79.0978769223862,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -7939,6 +8002,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 350.7606408560882,
         "radius_pct": 80.80807174016174,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8045,6 +8109,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.98214869909502,
         "radius_pct": 84.00101146996472,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8192,6 +8257,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 48.88640938050472,
         "radius_pct": 77.8988683951061,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8330,6 +8396,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 69.39938824433183,
         "radius_pct": 83.84373939386359,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -8461,6 +8528,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 82.86148805527755,
         "radius_pct": 70.86354619717845,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8593,6 +8661,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 94.07140695425626,
         "radius_pct": 59.80682026009051,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -8725,6 +8794,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 70.05851991863976,
         "radius_pct": 60.789474317094076,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8846,6 +8916,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 98.37345459397135,
         "radius_pct": 78.98606172724365,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -8969,6 +9040,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 101.84268028236184,
         "radius_pct": 81.56079594502398,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9101,6 +9173,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 105.29387364361075,
         "radius_pct": 81.34816769421172,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9213,6 +9286,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 104.559884664049,
         "radius_pct": 89.44316706842986,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9337,6 +9411,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 110.45737394409977,
         "radius_pct": 59.24708644365353,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9467,6 +9542,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 120.83105663290745,
         "radius_pct": 51.74020777655226,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9600,6 +9676,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 130.67759425426053,
         "radius_pct": 48.01785585594844,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9721,6 +9798,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 121.53793644298926,
         "radius_pct": 70.7117802016269,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -9862,6 +9940,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 127.62004010855014,
         "radius_pct": 62.85448565799815,
         "updated_date": "2026-09-25T17:45:22.031Z"
@@ -9991,6 +10070,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 116.39759918575791,
         "radius_pct": 62.69230522862724,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10110,6 +10190,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 349.416868655431,
         "radius_pct": 75.37191563531174,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -10244,6 +10325,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 335.81949062982767,
         "radius_pct": 70.77588713442256,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10351,6 +10433,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 338.1839928256263,
         "radius_pct": 61.74810757654112,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10480,6 +10563,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 4.555583362654957,
         "radius_pct": 67.32167830598704,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10720,6 +10804,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 340.73860822963303,
         "radius_pct": 51.06832027596289,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10858,6 +10943,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 254.18267492129408,
         "radius_pct": 70.75628763929264,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -10968,6 +11054,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 220.90420271846472,
         "radius_pct": 87.20529874433048,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11077,6 +11164,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 211.7022106293278,
         "radius_pct": 77.10158833611699,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11208,6 +11296,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 204.91718684771917,
         "radius_pct": 62.71155948957969,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -11316,6 +11405,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 207.5688665934282,
         "radius_pct": 69.3745283777782,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11444,6 +11534,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 201.8044730244323,
         "radius_pct": 78.53793128519884,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11559,6 +11650,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 200.12748859637992,
         "radius_pct": 72.90101940908741,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -11666,6 +11758,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 201.0343477683911,
         "radius_pct": 69.38070127575796,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11780,6 +11873,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 213.5265173566538,
         "radius_pct": 69.55635265476687,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11899,6 +11993,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 237.78035097855928,
         "radius_pct": 65.29660074213103,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12015,6 +12110,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 237.19976700203568,
         "radius_pct": 55.2892421276311,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -12149,6 +12245,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 243.30447614513974,
         "radius_pct": 59.71276450848715,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12281,6 +12378,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 246.87915133757528,
         "radius_pct": 69.64085355446122,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12402,6 +12500,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 263.8548405804829,
         "radius_pct": 62.485163990747694,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12540,6 +12639,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 248.7644553905136,
         "radius_pct": 80.66906838987953,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12688,6 +12788,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 243.83223886561075,
         "radius_pct": 82.49723872839722,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12816,6 +12917,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 237.57823180807398,
         "radius_pct": 77.3318494868257,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12950,6 +13052,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 242.64446397040422,
         "radius_pct": 88.1193481242922,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -13084,6 +13187,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 237.05937273048315,
         "radius_pct": 83.97047010629808,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -13200,6 +13304,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 226.64651295371456,
         "radius_pct": 81.57091408242911,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -13308,6 +13413,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 221.83746718085132,
         "radius_pct": 71.08688506081447,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13439,6 +13545,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 35.528560677930244,
         "radius_pct": 62.34004840057593,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13551,6 +13658,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 200.9500714739816,
         "radius_pct": 54.84801865010763,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13659,6 +13767,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 221.031544604509,
         "radius_pct": 46.52456893591165,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13762,6 +13871,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 212.73630287834186,
         "radius_pct": 39.16539389356909,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13870,6 +13980,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 219.04804624805348,
         "radius_pct": 39.4281105888864,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -13985,6 +14096,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 229.03274441204516,
         "radius_pct": 36.142853695529894,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -14113,6 +14225,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 192.1796088028085,
         "radius_pct": 38.26112772921649,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14220,6 +14333,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 54.82614152927663,
         "radius_pct": 42.37051257276371,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14327,6 +14441,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 46.57929191367511,
         "radius_pct": 31.504728640718188,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14437,6 +14552,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 20.74468959053992,
         "radius_pct": 23.019691837995847,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14560,6 +14676,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.38094841318545,
         "radius_pct": 59.03891973970865,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -14699,6 +14816,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 26.823591115017905,
         "radius_pct": 89.35452893077863,
         "updated_date": "2026-09-25T17:52:30.040Z"
@@ -14808,6 +14926,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 24.682534662498398,
         "radius_pct": 41.3108151858704,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14922,6 +15041,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.544485087386192,
         "radius_pct": 33.30258286113981,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15044,6 +15164,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 104.90787036170923,
         "radius_pct": 61.30416884273765,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15176,6 +15297,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 104.6254865816731,
         "radius_pct": 54.29826014853491,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15297,6 +15419,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 108.52280440929208,
         "radius_pct": 36.3808386363766,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15407,6 +15530,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 114.02648088032737,
         "radius_pct": 25.41720134515611,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15523,6 +15647,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 151.45932751828065,
         "radius_pct": 39.75695866581795,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15652,6 +15777,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 153.93854664915645,
         "radius_pct": 49.53963720503158,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -15797,6 +15923,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 162.7470859440001,
         "radius_pct": 52.4496971762708,
         "updated_date": "2026-09-25T17:50:54.833Z"
@@ -15925,6 +16052,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 180.98237366067474,
         "radius_pct": 70.65938187366761,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16056,6 +16184,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 186.1713720127441,
         "radius_pct": 79.43637154541013,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16186,6 +16315,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 173.45691699388266,
         "radius_pct": 66.57574282021321,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16316,6 +16446,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174,
         "radius_pct": 55,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16441,6 +16572,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 184.56198654834782,
         "radius_pct": 65.6639301108902,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16571,6 +16703,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174.25962420569647,
         "radius_pct": 48.70810515960294,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16701,6 +16834,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 192.0876222800301,
         "radius_pct": 88.59943377102452,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16836,6 +16970,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 192.14051254543102,
         "radius_pct": 83.3654919820151,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -16965,6 +17100,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 192,
         "radius_pct": 77,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17093,6 +17229,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 192,
         "radius_pct": 70,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17226,6 +17363,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 191,
         "radius_pct": 61,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -17355,6 +17493,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 188.91239199818082,
         "radius_pct": 54.221189932731164,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17483,6 +17622,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 184.6665600624432,
         "radius_pct": 47.95058586397915,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17617,6 +17757,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 178.9902764340506,
         "radius_pct": 41.55312054275595,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17737,6 +17878,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 31.11880968560832,
         "radius_pct": 10.028704281312514,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17869,6 +18011,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 170.20511036649316,
         "radius_pct": 32.3379153520997,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -17980,6 +18123,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 164.36831365482473,
         "radius_pct": 23.164027426940965,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18094,6 +18238,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 137.3748344782855,
         "radius_pct": 42.15458161030916,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18208,6 +18353,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 135.66806549485398,
         "radius_pct": 32.4668397586249,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18331,6 +18477,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 138.4718579857132,
         "radius_pct": 49.21473351749367,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -18460,6 +18607,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 139.89824353115523,
         "radius_pct": 54.76258149284205,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18592,6 +18740,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 138.05371728524045,
         "radius_pct": 63.81469714938637,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18739,6 +18888,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 135.33906491864118,
         "radius_pct": 69.4452827187881,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -18889,6 +19039,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 141.6207186739281,
         "radius_pct": 60.912793313159256,
         "updated_date": "2026-09-25T17:45:05.989Z"
@@ -19031,6 +19182,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 141.90467831783678,
         "radius_pct": 69.97299131278528,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19164,6 +19316,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 120.92360764368452,
         "radius_pct": 89.14796276186459,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -19284,6 +19437,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 202.3522284583356,
         "radius_pct": 27.04447003928272,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19392,6 +19546,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 30.637611421314745,
         "radius_pct": 68.51699521448742,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19504,6 +19659,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 113.64138300221626,
         "radius_pct": 79.74381804013936,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19614,6 +19770,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 14.349036613185291,
         "radius_pct": 40.13779654287601,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19721,6 +19878,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 2.9912902899303617,
         "radius_pct": 40.02414316498828,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19837,6 +19995,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 339.34937640686115,
         "radius_pct": 38.18804837411362,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -19958,6 +20117,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 324.28765071406417,
         "radius_pct": 37.66208582669667,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20118,6 +20278,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 85.87526394091535,
         "radius_pct": 54.73233339059803,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -20238,6 +20399,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 301.05427111635277,
         "radius_pct": 46.873376450794794,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20344,6 +20506,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 226.38066874253516,
         "radius_pct": 25.545801087728233,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20454,6 +20617,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 2.014733771684007,
         "radius_pct": 22.14344982410821,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20563,6 +20727,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 320.99236573777034,
         "radius_pct": 28.529408581989586,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20685,6 +20850,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 338.4238396979039,
         "radius_pct": 23.550211269373932,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -20805,6 +20971,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 305.59996984950897,
         "radius_pct": 23.868831782429268,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -20919,6 +21086,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 185.88573858742996,
         "radius_pct": 24.34451872971302,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21038,6 +21206,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 129.42460939158278,
         "radius_pct": 22.57022669084456,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21148,6 +21317,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 204.03761396839326,
         "radius_pct": 21.451352032936637,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21263,6 +21433,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174.8329102299926,
         "radius_pct": 21.98819877015634,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21385,6 +21556,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 275.7660719950146,
         "radius_pct": 64.43553451996247,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21508,6 +21680,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 216.4089140330152,
         "radius_pct": 14.115905498025343,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21627,6 +21800,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 251.16693504449918,
         "radius_pct": 12.794383410701721,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -21751,6 +21925,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 278.03427379462516,
         "radius_pct": 12.720635769557246,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -21907,6 +22082,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 43.93882812381363,
         "radius_pct": 49.15400787611481,
         "updated_date": "2026-09-16T17:54:38.248Z"
@@ -22032,6 +22208,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 182.81650848009212,
         "radius_pct": 13.392484151460444,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -22174,6 +22351,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 84.61816538488321,
         "radius_pct": 23.06357528705395,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -22294,6 +22472,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 295.26297394346886,
         "radius_pct": 87.24629278074943,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -22426,6 +22605,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 353.5130631445271,
         "radius_pct": 83.63523340927802,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -22547,6 +22727,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 39.08707826821179,
         "radius_pct": 77.15672188262911,
         "updated_date": "2026-09-14T05:16:20.575Z"
@@ -22679,6 +22860,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 72.80981967804388,
         "radius_pct": 75.52689630293479,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -22811,6 +22993,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 32.06053373303172,
         "radius_pct": 76.13261545536916,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -22924,6 +23107,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 308.5211484177365,
         "radius_pct": 88.23672782658672,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23061,6 +23245,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 186.54298927305388,
         "radius_pct": 88.36493112385622,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -23189,6 +23374,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 332.4164907043535,
         "radius_pct": 89.0610506448789,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23320,6 +23506,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 344.920585129292,
         "radius_pct": 88.89646966486808,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23461,6 +23648,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 180.71879218375798,
         "radius_pct": 76.85811626114297,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23589,6 +23777,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 33.32702462121986,
         "radius_pct": 81.48785686379236,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23698,6 +23887,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 278.6055990392189,
         "radius_pct": 49.614642553849905,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23827,6 +24017,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 35.57677499229049,
         "radius_pct": 88.07064176768132,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -23957,6 +24148,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 42.9060723333791,
         "radius_pct": 90.33812447399369,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24096,6 +24288,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 50.095915670729596,
         "radius_pct": 81.3627223086048,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -24204,6 +24397,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 86.5572845901855,
         "radius_pct": 38.85266528553755,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24312,6 +24506,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 214.19681299194013,
         "radius_pct": 63.63636706818608,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24443,6 +24638,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 187.45120007017633,
         "radius_pct": 32.837361144017436,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24557,6 +24753,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 109.7269173835149,
         "radius_pct": 69.80179761377624,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24680,6 +24877,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 333.2375245386925,
         "radius_pct": 5.211625068930558,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -24844,6 +25042,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.225443106661828,
         "radius_pct": 76.32635513209173,
         "updated_date": "2026-09-25T17:52:42.272Z"
@@ -24960,6 +25159,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 351.47935612800154,
         "radius_pct": 88.65756909026713,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25093,6 +25293,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 358.3081111569918,
         "radius_pct": 65.54867850800424,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25241,6 +25442,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 56.24575009088138,
         "radius_pct": 62.81066390295017,
         "updated_date": "2026-09-25T17:51:29.827Z"
@@ -25372,6 +25574,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 67.1661533815886,
         "radius_pct": 41.94631459980441,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25500,6 +25703,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 34.533651154559095,
         "radius_pct": 45.998361465820956,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25621,6 +25825,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 358.1169253804748,
         "radius_pct": 86.8090562144573,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -25761,6 +25966,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 66.28014817952361,
         "radius_pct": 45.41081798307301,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25881,6 +26087,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 96.24322214647785,
         "radius_pct": 86.15350187272311,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -25949,25 +26156,38 @@
           "durasteel": 0,
           "minerals": 0
         },
+        "infrastructure_profile": {
+          "key": "profile_capital_economic",
+          "faction_key": "CIS",
+          "version": 2,
+          "automation_enabled": true,
+          "status": "active",
+          "blocked_reason": null,
+          "assigned_turn": 4,
+          "last_funded_turn": null,
+          "next_change_turn": 7
+        },
         "slot_expansions": 0,
         "administration": {
           "version": 1,
-          "profile_key": null,
+          "profile_key": "profile_capital_economic",
           "governor": {
-            "archetype_key": "temporary_governor",
-            "status": "caretaker",
-            "appointed_turn": null,
+            "archetype_key": "industrial_overseer",
+            "status": "active",
+            "appointed_turn": 4,
             "active_from_turn": 4,
-            "integrity_status": "not_applicable"
+            "integrity_status": "cleared",
+            "appointment_id": "capital:capital_1790794412816_g2en32lm:6986b261e39e9219026083d8:governor"
           },
           "commander": {
-            "archetype_key": "temporary_commander",
-            "status": "caretaker",
-            "appointed_turn": null,
-            "active_from_turn": 4
+            "archetype_key": "logistics_commander",
+            "status": "active",
+            "appointed_turn": 4,
+            "active_from_turn": 4,
+            "appointment_id": "capital:capital_1790794412816_g2en32lm:6986b261e39e9219026083d8:commander"
           },
           "pending": null,
-          "next_change_turn": 0,
+          "next_change_turn": 7,
           "audit": null,
           "public_adjustment": {
             "credits_multiplier": 1,
@@ -26012,9 +26232,10 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 53.48357521531382,
         "radius_pct": 85.1901144490521,
-        "updated_date": "2026-09-04T15:39:40.057Z"
+        "updated_date": "2026-09-30T18:53:32.823Z"
       },
       {
         "id": "6986b261e39e9219026083d9",
@@ -26149,6 +26370,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 56.284042566447965,
         "radius_pct": 85.70266591827263,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26272,6 +26494,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 245.63285297674489,
         "radius_pct": 36.84365646836874,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26405,6 +26628,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 353.75947536564877,
         "radius_pct": 48.72705290745875,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -26536,6 +26760,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 15.023978946727354,
         "radius_pct": 46.085404955204005,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26643,6 +26868,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 83.49002910487178,
         "radius_pct": 47.83686582688129,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26776,6 +27002,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 166.31700729874188,
         "radius_pct": 68.02511922674934,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26886,6 +27113,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 354.65680095891145,
         "radius_pct": 89.341390996397,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -26998,6 +27226,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 154.11547969713195,
         "radius_pct": 28.15756000602408,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -27142,6 +27371,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 54.65291529153204,
         "radius_pct": 88.22817158642427,
         "updated_date": "2026-09-25T17:52:00.536Z"
@@ -27281,6 +27511,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 40.23502974893502,
         "radius_pct": 85.34467617237324,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -27408,6 +27639,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 54.606525604603334,
         "radius_pct": 74.87565776678491,
         "updated_date": "2026-09-25T17:51:38.227Z"
@@ -27559,6 +27791,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.43983645115108,
         "radius_pct": 15.095847470682159,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -27694,6 +27927,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 17.188883007732542,
         "radius_pct": 70.95532173542158,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -27810,6 +28044,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 39.590818157327575,
         "radius_pct": 23.828138955008964,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -27917,6 +28152,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 342.9810952445542,
         "radius_pct": 64.74858713657933,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28042,6 +28278,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 213.5128324766468,
         "radius_pct": 5.27778023602781,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28161,6 +28398,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 101.4670341599181,
         "radius_pct": 27.759902884112876,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28290,6 +28528,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 16.51732243367772,
         "radius_pct": 86.57031598830815,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28435,6 +28674,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 103.39453846214775,
         "radius_pct": 46.53396714078348,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -28554,6 +28794,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 309.17949571983394,
         "radius_pct": 37.322393472213406,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -28666,6 +28907,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.45673963140004,
         "radius_pct": 89.24065759862053,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28780,6 +29022,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 10.18245913000672,
         "radius_pct": 71.81509822814812,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -28901,6 +29144,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 25.276938467582355,
         "radius_pct": 51.66759946610142,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -29051,6 +29295,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 56.689409250421036,
         "radius_pct": 51.63693210308231,
         "updated_date": "2026-09-14T06:00:26.062Z"
@@ -29180,6 +29425,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 87.1405984774035,
         "radius_pct": 16.945227743440416,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -29286,6 +29532,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 84.38497952470776,
         "radius_pct": 64.76014986421474,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -29412,6 +29659,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 51.08805282500298,
         "radius_pct": 90.47267068731675,
         "updated_date": "2026-09-25T17:52:07.351Z"
@@ -29546,6 +29794,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 125.56794451288852,
         "radius_pct": 78.8098448849651,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -29686,6 +29935,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 336.0643907763411,
         "radius_pct": 12.06748255509185,
         "updated_date": "2026-09-28T18:21:52.880Z"
@@ -29820,6 +30070,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 157.08448074251305,
         "radius_pct": 80.5542019446836,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -29948,6 +30199,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 63.00343230157341,
         "radius_pct": 86.01500956917705,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -30080,6 +30332,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 94.37569447028734,
         "radius_pct": 76.1654254374763,
         "updated_date": "2026-09-16T17:53:20.139Z"
@@ -30214,6 +30467,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 231.25021452215844,
         "radius_pct": 89.20323003305796,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -30339,6 +30593,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 144.34798323230797,
         "radius_pct": 12.885202453099259,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -30469,6 +30724,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 39.76593041029004,
         "radius_pct": 53.93320284834561,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -30607,6 +30863,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 167.79363224149728,
         "radius_pct": 87.48032118996474,
         "updated_date": "2026-09-25T17:50:30.368Z"
@@ -30744,6 +31001,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 93.48157809181863,
         "radius_pct": 10.803080158243953,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -30882,6 +31140,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 59.1451561661572,
         "radius_pct": 89.35604040031298,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -31005,6 +31264,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 135.02650942104464,
         "radius_pct": 75.84546493460937,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -31127,6 +31387,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 87.4904513968014,
         "radius_pct": 84.35072089603273,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -31422,6 +31683,7 @@
           "unittransport_1788086790682_ap2zgoubn",
           "unittransport_1788092216557_ujhmoyllt"
         ],
+        "active_decisions": [],
         "angle": 128.71072710786666,
         "radius_pct": 86.45847673676698,
         "updated_date": "2026-09-15T06:50:47.684Z"
@@ -31543,6 +31805,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 94.4043315535468,
         "radius_pct": 70.01706190664481,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -31667,6 +31930,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 197.04758895058447,
         "radius_pct": 85.38690884050853,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -31800,6 +32064,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 57.8866779107008,
         "radius_pct": 23.327724035022495,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -31934,6 +32199,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 45.85847966303885,
         "radius_pct": 53.828892283132454,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -32076,6 +32342,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 22.626189435269808,
         "radius_pct": 65.11655651167197,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -32199,6 +32466,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174.2857452870836,
         "radius_pct": 81.91286000417996,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -32313,6 +32581,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 118.76360516914994,
         "radius_pct": 79.5057454900924,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -32457,6 +32726,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 113.46791190930533,
         "radius_pct": 88.15169962859406,
         "updated_date": "2026-09-15T07:03:59.046Z"
@@ -32505,34 +32775,34 @@
           "minerals": 0
         },
         "infrastructure_profile": {
-          "key": "profile_defense",
+          "key": "profile_capital_economic",
           "faction_key": "Hutt Cartel",
           "version": 2,
+          "automation_enabled": true,
           "status": "active",
           "blocked_reason": null,
           "assigned_turn": 4,
           "last_funded_turn": null,
-          "automation_enabled": true,
           "next_change_turn": 7
         },
         "slot_expansions": 0,
         "administration": {
           "version": 1,
-          "profile_key": "profile_defense",
+          "profile_key": "profile_capital_economic",
           "governor": {
-            "archetype_key": "security_prefect",
+            "archetype_key": "industrial_overseer",
             "status": "active",
             "appointed_turn": 4,
             "active_from_turn": 4,
             "integrity_status": "cleared",
-            "appointment_id": "legacy:6986b22de39e921902608381:governor"
+            "appointment_id": "capital:capital_1790794438106_a0uu49rb:6986b22de39e921902608381:governor"
           },
           "commander": {
-            "archetype_key": "fortress_strategist",
+            "archetype_key": "logistics_commander",
             "status": "active",
             "appointed_turn": 4,
             "active_from_turn": 4,
-            "appointment_id": "legacy:6986b22de39e921902608381:commander"
+            "appointment_id": "capital:capital_1790794438106_a0uu49rb:6986b22de39e921902608381:commander"
           },
           "pending": null,
           "next_change_turn": 7,
@@ -32580,9 +32850,10 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 91.69081434512094,
         "radius_pct": 75.54210655365678,
-        "updated_date": "2026-09-16T17:52:55.482Z"
+        "updated_date": "2026-09-30T18:53:58.112Z"
       },
       {
         "id": "6986b22de39e92190260838b",
@@ -32744,6 +33015,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 137.77031058154725,
         "radius_pct": 87.68573180331883,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -32880,6 +33152,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 161.69902601312424,
         "radius_pct": 75.94509146320956,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -33003,6 +33276,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 53.47790127384066,
         "radius_pct": 15.191986857236126,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -33126,6 +33400,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 82.20660645601933,
         "radius_pct": 62.68438607788316,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -33264,6 +33539,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174.11439902442103,
         "radius_pct": 75.82575190954893,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -33398,6 +33674,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 47.717142185507,
         "radius_pct": 84.80145703716576,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -33524,6 +33801,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 111.88655673758348,
         "radius_pct": 79.34536990759146,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -33690,6 +33968,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 140.267881747197,
         "radius_pct": 76.12215160940703,
         "updated_date": "2026-09-25T17:45:38.285Z"
@@ -33824,6 +34103,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 38.316599562832835,
         "radius_pct": 52.11544857621339,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -33963,6 +34243,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 181.02383754634178,
         "radius_pct": 87.3665279112656,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34098,6 +34379,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 197.16405074670598,
         "radius_pct": 79.67957224927025,
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -34212,6 +34494,7 @@
         "republic_units": 0,
         "republic_legion_id": "",
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 157.42418336032978,
         "radius_pct": 68.16262045389016,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34339,6 +34622,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 28.20599210514016,
         "radius_pct": 70.02912032260373,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34472,6 +34756,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 174.54140008125546,
         "radius_pct": 88.30525841278262,
         "updated_date": "2026-09-14T05:56:37.168Z"
@@ -34568,6 +34853,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 270,
         "radius_pct": 45,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34700,6 +34986,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 282.9367828564837,
         "radius_pct": 38.56298825720212,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34815,6 +35102,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 287,
         "radius_pct": 42,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -34929,6 +35217,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 333,
         "radius_pct": 48,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -35135,6 +35424,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 304.970450702055,
         "radius_pct": 12.666843340816856,
         "updated_date": "2026-09-28T19:54:05.075Z"
@@ -35173,37 +35463,37 @@
           "minerals": 0
         },
         "infrastructure_profile": {
-          "key": "profile_fleet",
+          "key": "profile_capital_fortress",
           "faction_key": "UNSC",
           "version": 2,
+          "automation_enabled": true,
           "status": "active",
           "blocked_reason": null,
-          "assigned_turn": 1,
+          "assigned_turn": 4,
           "last_funded_turn": null,
-          "automation_enabled": true,
-          "next_change_turn": 0
+          "next_change_turn": 7
         },
         "slot_expansions": 0,
         "administration": {
           "version": 1,
-          "profile_key": "profile_fleet",
+          "profile_key": "profile_capital_fortress",
           "governor": {
-            "archetype_key": "orbital_administrator",
+            "archetype_key": "security_prefect",
             "status": "active",
             "appointed_turn": 4,
             "active_from_turn": 4,
             "integrity_status": "cleared",
-            "appointment_id": "legacy:planet_1788169587141_w4obs2q1u:governor"
+            "appointment_id": "capital:capital_1790794491139_fpprgh9f:planet_1788169587141_w4obs2q1u:governor"
           },
           "commander": {
-            "archetype_key": "dock_commander",
+            "archetype_key": "fortress_strategist",
             "status": "active",
             "appointed_turn": 4,
             "active_from_turn": 4,
-            "appointment_id": "legacy:planet_1788169587141_w4obs2q1u:commander"
+            "appointment_id": "capital:capital_1790794491139_fpprgh9f:planet_1788169587141_w4obs2q1u:commander"
           },
           "pending": null,
-          "next_change_turn": 0,
+          "next_change_turn": 7,
           "audit": null,
           "public_adjustment": {
             "credits_multiplier": 1,
@@ -35225,9 +35515,10 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 275.22927487416575,
         "radius_pct": 33.77375908883614,
-        "updated_date": "2026-09-04T15:39:40.057Z"
+        "updated_date": "2026-09-30T18:54:51.145Z"
       },
       {
         "id": "planet_1788169711069_efk28mw4o",
@@ -35326,6 +35617,7 @@
         "military_version": 1,
         "republic_units": 0,
         "gar_deployments": [],
+        "active_decisions": [],
         "angle": 271.98411510204414,
         "radius_pct": 37.84808387501866,
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -38862,7 +39154,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 132,
+        "revision": 137,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -39322,10 +39614,10 @@
         "local_defense_region": "__faction_controlled__",
         "capital_state": {
           "version": 1,
-          "status": "setup_required",
-          "planet_id": null,
-          "variant": null,
-          "established_turn": null,
+          "status": "active",
+          "planet_id": "6986b261e39e9219026083d8",
+          "variant": "economic",
+          "established_turn": 4,
           "pending_planet_id": null,
           "pending_variant": null,
           "started_turn": null,
@@ -39363,7 +39655,7 @@
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-09-04T15:39:40.057Z"
+        "updated_date": "2026-09-30T18:53:32.823Z"
       },
       {
         "id": "faction_hutt_cartel",
@@ -39396,10 +39688,10 @@
         "legacy_total_garrison_units": 0,
         "capital_state": {
           "version": 1,
-          "status": "setup_required",
-          "planet_id": null,
-          "variant": null,
-          "established_turn": null,
+          "status": "active",
+          "planet_id": "6986b22de39e921902608381",
+          "variant": "economic",
+          "established_turn": 4,
           "pending_planet_id": null,
           "pending_variant": null,
           "started_turn": null,
@@ -39437,7 +39729,7 @@
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-09-16T17:52:55.482Z"
+        "updated_date": "2026-09-30T18:53:58.112Z"
       },
       {
         "id": "faction_neutral",
@@ -39511,10 +39803,10 @@
         "local_defense_region": "__faction_controlled__",
         "capital_state": {
           "version": 1,
-          "status": "setup_required",
-          "planet_id": null,
-          "variant": null,
-          "established_turn": null,
+          "status": "active",
+          "planet_id": "planet_1788169587141_w4obs2q1u",
+          "variant": "fortress",
+          "established_turn": 4,
           "pending_planet_id": null,
           "pending_variant": null,
           "started_turn": null,
@@ -39552,7 +39844,7 @@
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-09-04T15:39:40.057Z"
+        "updated_date": "2026-09-30T18:54:51.145Z"
       },
       {
         "id": "unknown-faction",
@@ -67063,6 +67355,30 @@
         "type": "capital",
         "turn": 4,
         "updated_date": "2026-09-28T18:21:52.880Z"
+      },
+      {
+        "id": "capital_1790794412816_g2en32lm",
+        "type": "capital",
+        "turn": 4,
+        "updated_date": "2026-09-30T18:53:32.823Z"
+      },
+      {
+        "id": "capital_1790794438106_a0uu49rb",
+        "type": "capital",
+        "turn": 4,
+        "updated_date": "2026-09-30T18:53:58.112Z"
+      },
+      {
+        "id": "capital_1790794491139_fpprgh9f",
+        "type": "capital",
+        "turn": 4,
+        "updated_date": "2026-09-30T18:54:51.145Z"
+      },
+      {
+        "id": "capital_1790794532269_hhe22nn3",
+        "type": "capital",
+        "turn": 4,
+        "updated_date": "2026-09-30T18:55:32.275Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -67843,11 +68159,15 @@
     "version": 1,
     "timelineEpoch": 1,
     "turn": 4,
-    "revision": 87,
+    "revision": 92,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
       "discounts": {}
+    },
+    "planetaryDecisionLobbying": {
+      "pending": {},
+      "support": {}
     },
     "targets": {
       "senate": {
