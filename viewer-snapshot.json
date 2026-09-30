@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1790795168154,
-  "published_at": "2026-09-30T19:07:15.358Z",
-  "source_data_updated_at": "2026-09-30T19:06:08.154Z",
+  "campaign_version": 1790795208935,
+  "published_at": "2026-09-30T19:08:46.452Z",
+  "source_data_updated_at": "2026-09-30T19:06:48.935Z",
   "entities": {
     "Planet": [
       {
@@ -39154,7 +39154,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 140,
+        "revision": 141,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -68310,7 +68310,7 @@
     "version": 1,
     "timelineEpoch": 1,
     "turn": 4,
-    "revision": 95,
+    "revision": 96,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
@@ -68759,22 +68759,6 @@
         "pending": 0
       }
     },
-    "bills": [
-      {
-        "id": "1790620062843-g6j9ep1cji7-s4yennl33nr",
-        "author": "GIGA SENATOR",
-        "faction": "UNSC",
-        "title": "zmienić rozdzielczość mapy",
-        "body": "proszem",
-        "effect": "bardzo",
-        "status": "proposed",
-        "turn": 4,
-        "counts": {
-          "for": 0,
-          "against": 0,
-          "abstain": 0
-        }
-      }
-    ]
+    "bills": []
   }
 }
