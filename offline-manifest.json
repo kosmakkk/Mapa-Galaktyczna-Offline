@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "version": "1790795208935-1790795326452",
-  "campaign_version": 1790795208935,
-  "published_at": "2026-09-30T19:08:46.452Z",
+  "version": "1790863461098-1790863526104",
+  "campaign_version": 1790863461098,
+  "published_at": "2026-10-01T14:05:26.104Z",
   "base_path": "/Mapa-Galaktyczna-Offline/",
   "total_files": 645,
-  "total_bytes": 64502940,
+  "total_bytes": 65384433,
   "files": [
     ".nojekyll",
     "404.html",
