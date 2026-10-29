@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793283833067,
-  "published_at": "2026-10-29T14:25:26.196Z",
-  "source_data_updated_at": "2026-10-29T14:23:53.067Z",
+  "campaign_version": 1793288156453,
+  "published_at": "2026-10-29T15:37:13.951Z",
+  "source_data_updated_at": "2026-10-29T15:35:56.453Z",
   "entities": {
     "Planet": [
       {
@@ -42247,7 +42247,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 219,
+        "revision": 225,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -42560,7 +42560,7 @@
           "version": 1,
           "calendar": "campaign_gregorian_grs",
           "epoch_date": "2021-11-06",
-          "current_date": null,
+          "current_date": "2026-10-29",
           "default_turn_days": 7
         }
       },
@@ -42571,7 +42571,7 @@
       "independent_worlds_version": 1,
       "specialization_version": 1,
       "administration_version": 1,
-      "updated_date": "2026-10-12T13:25:38.121Z"
+      "updated_date": "2026-10-29T14:40:54.703Z"
     },
     "HighPriorityTarget": [
       {
@@ -44654,7 +44654,37 @@
       }
     ],
     "FleetOrder": [],
-    "NavalBattle": [],
+    "NavalBattle": [
+      {
+        "id": "naval_battle_fleet_1793284276508_nasbs2z6",
+        "naval_battle_version": 2,
+        "planet_id": "6986b22de39e921902608373",
+        "status": "paused",
+        "rounds_completed": 0,
+        "next_round_approved": true,
+        "started_turn": 4,
+        "sides": {
+          "attacker": {
+            "faction_keys": [
+              "Republic"
+            ],
+            "fleet_ids": [
+              "fleet_1787557051705_grr5y58hc"
+            ]
+          },
+          "defender": {
+            "faction_keys": [
+              "CIS"
+            ],
+            "fleet_ids": [
+              "fleet_1787568224564_8q6xlqqsf"
+            ]
+          }
+        },
+        "reports": [],
+        "retreats": []
+      }
+    ],
     "UnitTransport": [],
     "GARFormation": [
       {
@@ -96527,9 +96557,9 @@
   "politics": {
     "campaignId": "4e608dfd-1768-4f97-b1b2-3c94a6cebb58",
     "version": 1,
-    "timelineEpoch": 3,
+    "timelineEpoch": 4,
     "turn": 4,
-    "revision": 153,
+    "revision": 156,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
@@ -96543,11 +96573,11 @@
       {
         "planetId": "6986b22de39e921902608373",
         "sides": {
-          "defender": [
-            "CIS"
-          ],
           "attacker": [
             "Republic"
+          ],
+          "defender": [
+            "CIS"
           ]
         }
       }
