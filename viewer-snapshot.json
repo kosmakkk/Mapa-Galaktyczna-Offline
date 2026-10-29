@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793288156453,
-  "published_at": "2026-10-29T15:47:58.180Z",
-  "source_data_updated_at": "2026-10-29T15:35:56.453Z",
+  "campaign_version": 1793289291800,
+  "published_at": "2026-10-29T16:28:34.000Z",
+  "source_data_updated_at": "2026-10-29T15:54:51.800Z",
   "entities": {
     "Planet": [
       {
@@ -41655,6 +41655,273 @@
         "display_order": 1,
         "updated_date": "2026-10-29T13:28:54.289Z",
         "publication_status": "outdated"
+      },
+      {
+        "id": "holonet_post_altis_01_refugees",
+        "date_posted": "2021-11-20T11:00:00.000Z",
+        "campaign_date": "2021-11-20",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Tysiące mieszkańców Altis szukają schronienia w systemach Republiki, a pomoc humanitarna staje się pierwszym politycznym sprawdzianem rozpoczętej wojny.",
+        "description": "CORUSCANT — Pierwsze zorganizowane transporty z mieszkańcami Altis dotarły do portów w systemach Rdzenia. Na pokładach znalazły się rodziny rozdzielone podczas ewakuacji, ranni obrońcy oraz urzędnicy, którzy wynieśli fragmenty planetarnych rejestrów. Mandaloriańskie klany utrzymują własny most powietrzny, lecz liczba oczekujących wciąż przekracza możliwości dostępnych statków.\n\nSenat przyjął tymczasowy pakiet pomocy obejmujący zakwaterowanie, opiekę medyczną i odtworzenie dokumentów. Głosowanie nie było jednak jednomyślne. Przedstawiciele części światów granicznych obawiają się, że przyjęcie uchodźców przeciąży lokalne budżety, podczas gdy senatorowie z Altis odpowiadają, że planeta zapłaciła cenę za bezpieczeństwo całej Republiki.\n\nW portach pojawiły się również spory o status mandaloriańskich formacji, które przybyły razem z cywilami. Dowództwo chce kierować zdolnych do walki ochotników do punktów mobilizacyjnych, lecz starszyzna klanowa domaga się zachowania własnej struktury dowodzenia. Negocjacje trwają, a każda kolejna doba zwiększa presję na obie strony.\n\nDla wielu mieszkańców Rdzenia wojna przestała być odległą wiadomością dopiero wtedy, gdy zobaczyli kolejki pod szpitalami i prowizoryczne kwatery w hangarach. Upadek Altis zmienił mapę, ale jego długofalowe skutki będą mierzone nie tylko utraconym terytorium. Republika musi teraz udowodnić, że potrafi chronić ludzi również wtedy, gdy nie zdołała ochronić ich świata.",
+        "category_key": "politics",
+        "category_color": "#06b6d4",
+        "category": "POLITICS",
+        "title": "Altis nie kończy się na mapie: pierwsza fala uchodźców dociera do Rdzenia",
+        "headline": "Altis nie kończy się na mapie: pierwsza fala uchodźców dociera do Rdzenia",
+        "body": "CORUSCANT — Pierwsze zorganizowane transporty z mieszkańcami Altis dotarły do portów w systemach Rdzenia. Na pokładach znalazły się rodziny rozdzielone podczas ewakuacji, ranni obrońcy oraz urzędnicy, którzy wynieśli fragmenty planetarnych rejestrów. Mandaloriańskie klany utrzymują własny most powietrzny, lecz liczba oczekujących wciąż przekracza możliwości dostępnych statków.\n\nSenat przyjął tymczasowy pakiet pomocy obejmujący zakwaterowanie, opiekę medyczną i odtworzenie dokumentów. Głosowanie nie było jednak jednomyślne. Przedstawiciele części światów granicznych obawiają się, że przyjęcie uchodźców przeciąży lokalne budżety, podczas gdy senatorowie z Altis odpowiadają, że planeta zapłaciła cenę za bezpieczeństwo całej Republiki.\n\nW portach pojawiły się również spory o status mandaloriańskich formacji, które przybyły razem z cywilami. Dowództwo chce kierować zdolnych do walki ochotników do punktów mobilizacyjnych, lecz starszyzna klanowa domaga się zachowania własnej struktury dowodzenia. Negocjacje trwają, a każda kolejna doba zwiększa presję na obie strony.\n\nDla wielu mieszkańców Rdzenia wojna przestała być odległą wiadomością dopiero wtedy, gdy zobaczyli kolejki pod szpitalami i prowizoryczne kwatery w hangarach. Upadek Altis zmienił mapę, ale jego długofalowe skutki będą mierzone nie tylko utraconym terytorium. Republika musi teraz udowodnić, że potrafi chronić ludzi również wtedy, gdy nie zdołała ochronić ich świata.",
+        "planet": "Altis",
+        "sector": "",
+        "faction_keys": [
+          "Neutral",
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 24,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_02_tanoa_liberated",
+        "date_posted": "2022-04-30T10:00:00.000Z",
+        "campaign_date": "2022-04-30",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Republika odzyskała Tanoa po długiej kampanii w dżungli. Dla 41st zwycięstwo oznacza zakończenie pierwszego prawdziwego sprawdzianu bojowego.",
+        "description": "TANOA — Dowództwo Republiki potwierdziło odzyskanie ostatnich umocnionych pozycji separatystów. Kampania, która miała zakończyć się szybkim przełamaniem, trwała ponad pięć miesięcy. Gęsta dżungla, rozproszone wyspy i ciągłe ataki na szlaki zaopatrzenia zmusiły klony do prowadzenia wojny na krótkim dystansie, często bez wsparcia ciężkiego sprzętu.\n\nNajwiększy ciężar walk spoczął na 41st. Legion, którego początki sięgają pierwszej bitwy o Altis, na Tanoa po raz pierwszy działał przez wiele tygodni jako samodzielna siła. Żołnierze zabezpieczali przeprawy, odbudowywali lądowiska i odpierali nocne kontrataki, podczas gdy flota utrzymywała nieregularny korytarz dostaw.\n\nSeparatyści wycofali ocalałe oddziały po utracie centralnych magazynów i sieci łączności. Saperzy ostrzegają, że część dżungli pozostaje zaminowana, a pojedyncze grupy droidów nadal mogą działać bez kontaktu z dowództwem. Administracja planetarna rozpoczyna przywracanie energii, wody i transportu między wyspami.\n\nZwycięstwo nie zostało osiągnięte bez kosztów. Listy poległych są wciąż uzupełniane, a wiele pododdziałów 41st wymaga odtworzenia stanów. Mimo to na Tanoa narodziła się reputacja legionu, który potrafi walczyć w izolacji i utrzymać pozycję mimo przewagi przeciwnika. Dla Republiki jest to pierwsze długotrwałe zwycięstwo po katastrofie Altis — i dowód, że wojna może zostać wygrana wytrwałością, nie tylko siłą ognia.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Tanoa wyzwolona po pięciu miesiącach walk",
+        "headline": "Depesze Wojenne: Tanoa wyzwolona po pięciu miesiącach walk",
+        "body": "TANOA — Dowództwo Republiki potwierdziło odzyskanie ostatnich umocnionych pozycji separatystów. Kampania, która miała zakończyć się szybkim przełamaniem, trwała ponad pięć miesięcy. Gęsta dżungla, rozproszone wyspy i ciągłe ataki na szlaki zaopatrzenia zmusiły klony do prowadzenia wojny na krótkim dystansie, często bez wsparcia ciężkiego sprzętu.\n\nNajwiększy ciężar walk spoczął na 41st. Legion, którego początki sięgają pierwszej bitwy o Altis, na Tanoa po raz pierwszy działał przez wiele tygodni jako samodzielna siła. Żołnierze zabezpieczali przeprawy, odbudowywali lądowiska i odpierali nocne kontrataki, podczas gdy flota utrzymywała nieregularny korytarz dostaw.\n\nSeparatyści wycofali ocalałe oddziały po utracie centralnych magazynów i sieci łączności. Saperzy ostrzegają, że część dżungli pozostaje zaminowana, a pojedyncze grupy droidów nadal mogą działać bez kontaktu z dowództwem. Administracja planetarna rozpoczyna przywracanie energii, wody i transportu między wyspami.\n\nZwycięstwo nie zostało osiągnięte bez kosztów. Listy poległych są wciąż uzupełniane, a wiele pododdziałów 41st wymaga odtworzenia stanów. Mimo to na Tanoa narodziła się reputacja legionu, który potrafi walczyć w izolacji i utrzymać pozycję mimo przewagi przeciwnika. Dla Republiki jest to pierwsze długotrwałe zwycięstwo po katastrofie Altis — i dowód, że wojna może zostać wygrana wytrwałością, nie tylko siłą ognia.",
+        "planet": "Tanoa",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "41sT eLITE LEGION"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 23,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_03_tanoa_generation",
+        "date_posted": "2022-05-03T10:00:00.000Z",
+        "campaign_date": "2022-05-03",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Kampania na Tanoa pozostawiła 41st z własnymi metodami walki, pamięcią o poległych i tożsamością wykraczającą poza numer legionu.",
+        "description": "TANOA — Wojskowi analitycy opisują zakończoną kampanię jako moment, w którym 41st przestał być jednostką istniejącą głównie w rozkazach mobilizacyjnych. Wielomiesięczne walki stworzyły wspólne doświadczenie żołnierzy, dowódców i personelu wsparcia. W legionie coraz częściej mówi się nie o służbie „na Tanoa”, lecz o należeniu do „pokolenia Tanoa”.\n\nDżungla wymusiła odejście od sztywnych schematów. Młodsi dowódcy otrzymywali większą swobodę działania, patrole dzielono na mniejsze zespoły, a technicy modyfikowali wyposażenie pod kątem wilgoci i ograniczonej widoczności. Łączność często zanikała, dlatego powodzenie operacji zależało od inicjatywy pojedynczych sekcji, a nie od idealnie zsynchronizowanego natarcia.\n\nTa elastyczność ma jednak drugą stronę. Weterani wracają z frontu wyczerpani, część pododdziałów utraciła doświadczonych specjalistów, a szybkie uzupełnienia nie znają jeszcze nieformalnych zasad wypracowanych w dżungli. Dowództwo rozpoczęło spisywanie doświadczeń kampanii, aby nie pozostały jedynie zbiorem opowieści przekazywanych między żołnierzami.\n\nTanoa stała się dla 41st czymś więcej niż zwycięstwem. To tam legion nauczył się funkcjonować jako wspólnota, w której reputacja wynika z niezawodności pod ostrzałem, a nie z miejsca w tabeli organizacyjnej. Republika zyskała formację zahartowaną w trudnym terenie, lecz jednocześnie otrzymała obowiązek odbudowania ludzi, których wytrzymałość uczyniła to zwycięstwo możliwym.",
+        "category_key": "analysis",
+        "category_color": "#60a5fa",
+        "category": "ANALYSIS",
+        "title": "Pokolenie Tanoa: jak dżungla ukształtowała 41st",
+        "headline": "Pokolenie Tanoa: jak dżungla ukształtowała 41st",
+        "body": "TANOA — Wojskowi analitycy opisują zakończoną kampanię jako moment, w którym 41st przestał być jednostką istniejącą głównie w rozkazach mobilizacyjnych. Wielomiesięczne walki stworzyły wspólne doświadczenie żołnierzy, dowódców i personelu wsparcia. W legionie coraz częściej mówi się nie o służbie „na Tanoa”, lecz o należeniu do „pokolenia Tanoa”.\n\nDżungla wymusiła odejście od sztywnych schematów. Młodsi dowódcy otrzymywali większą swobodę działania, patrole dzielono na mniejsze zespoły, a technicy modyfikowali wyposażenie pod kątem wilgoci i ograniczonej widoczności. Łączność często zanikała, dlatego powodzenie operacji zależało od inicjatywy pojedynczych sekcji, a nie od idealnie zsynchronizowanego natarcia.\n\nTa elastyczność ma jednak drugą stronę. Weterani wracają z frontu wyczerpani, część pododdziałów utraciła doświadczonych specjalistów, a szybkie uzupełnienia nie znają jeszcze nieformalnych zasad wypracowanych w dżungli. Dowództwo rozpoczęło spisywanie doświadczeń kampanii, aby nie pozostały jedynie zbiorem opowieści przekazywanych między żołnierzami.\n\nTanoa stała się dla 41st czymś więcej niż zwycięstwem. To tam legion nauczył się funkcjonować jako wspólnota, w której reputacja wynika z niezawodności pod ostrzałem, a nie z miejsca w tabeli organizacyjnej. Republika zyskała formację zahartowaną w trudnym terenie, lecz jednocześnie otrzymała obowiązek odbudowania ludzi, których wytrzymałość uczyniła to zwycięstwo możliwym.",
+        "planet": "Tanoa",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "41sT eLITE LEGION"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 22,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_04_kholo",
+        "date_posted": "2022-05-16T10:00:00.000Z",
+        "campaign_date": "2022-05-16",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "UNSC odzyskało Kholo z rąk CIS dzięki uderzeniu przeprowadzonemu wspólnie z 327th. Krótka operacja otworzyła nowy rozdział współpracy wojskowej.",
+        "description": "KHOLO — Po siedmiu dniach walk UNSC odzyskało główne ośrodki planety z rąk Konfederacji. Operację przeprowadzono przy bezpośrednim wsparciu 327th, którego oddziały uderzyły na umocnione pozycje CIS i otworzyły korytarze dla sił UNSC. Dowództwa obu stron potwierdziły zakończenie zorganizowanego oporu w najważniejszych rejonach.\n\nSzybkość natarcia była możliwa dzięki podziałowi zadań. Jednostki UNSC zabezpieczały miasta, węzły komunikacyjne i obiekty administracyjne, podczas gdy 327th przełamywał linie droidów oraz osłaniał lądowiska. Wspólne zespoły łącznikowe powstały dopiero w trakcie walk, dlatego część rozkazów przekazywano za pośrednictwem improwizowanych kanałów.\n\nSeparatyści pozostawili po sobie uszkodzoną infrastrukturę i rozproszone grupy bojowe. Patrole nadal sprawdzają tereny przemysłowe, a inżynierowie rozbrajają pułapki w opuszczonych magazynach. Władze UNSC zapowiedziały, że priorytetem będzie przywrócenie dostaw energii i odnalezienie mieszkańców zatrzymanych podczas okupacji.\n\nBitwa o Kholo była krótka, lecz jej znaczenie wykracza poza odzyskanie jednej planety. Po raz pierwszy siły UNSC i Republiki przeprowadziły tak szybkie, wspólne uderzenie przeciwko CIS. Oficerowie podkreślają, że sukces nie usuwa różnic w doktrynie i wyposażeniu, ale dowodzi, że można je pokonać pod presją. Kholo wróciło pod kontrolę UNSC, a 327th zyskał opinię jednostki, której przybycie potrafi zmienić tempo całej operacji.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Kholo odbite w siedem dni",
+        "headline": "Depesze Wojenne: Kholo odbite w siedem dni",
+        "body": "KHOLO — Po siedmiu dniach walk UNSC odzyskało główne ośrodki planety z rąk Konfederacji. Operację przeprowadzono przy bezpośrednim wsparciu 327th, którego oddziały uderzyły na umocnione pozycje CIS i otworzyły korytarze dla sił UNSC. Dowództwa obu stron potwierdziły zakończenie zorganizowanego oporu w najważniejszych rejonach.\n\nSzybkość natarcia była możliwa dzięki podziałowi zadań. Jednostki UNSC zabezpieczały miasta, węzły komunikacyjne i obiekty administracyjne, podczas gdy 327th przełamywał linie droidów oraz osłaniał lądowiska. Wspólne zespoły łącznikowe powstały dopiero w trakcie walk, dlatego część rozkazów przekazywano za pośrednictwem improwizowanych kanałów.\n\nSeparatyści pozostawili po sobie uszkodzoną infrastrukturę i rozproszone grupy bojowe. Patrole nadal sprawdzają tereny przemysłowe, a inżynierowie rozbrajają pułapki w opuszczonych magazynach. Władze UNSC zapowiedziały, że priorytetem będzie przywrócenie dostaw energii i odnalezienie mieszkańców zatrzymanych podczas okupacji.\n\nBitwa o Kholo była krótka, lecz jej znaczenie wykracza poza odzyskanie jednej planety. Po raz pierwszy siły UNSC i Republiki przeprowadziły tak szybkie, wspólne uderzenie przeciwko CIS. Oficerowie podkreślają, że sukces nie usuwa różnic w doktrynie i wyposażeniu, ale dowodzi, że można je pokonać pod presją. Kholo wróciło pod kontrolę UNSC, a 327th zyskał opinię jednostki, której przybycie potrafi zmienić tempo całej operacji.",
+        "planet": "Kholo",
+        "sector": "",
+        "faction_keys": [
+          "UNSC",
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "327th"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 21,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_05_joint_front",
+        "date_posted": "2022-05-25T10:00:00.000Z",
+        "campaign_date": "2022-05-25",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Po zwycięstwie na Kholo oba dowództwa próbują zamienić improwizowaną współpracę w trwały system wspólnych operacji.",
+        "description": "KHOLO — Zwycięstwo pokazało, że żołnierze Republiki i UNSC potrafią walczyć obok siebie. Ujawniło również, jak wiele dzieli oba systemy dowodzenia. Różne procedury meldunkowe, oznaczenia map i częstotliwości łączności podczas pierwszych dni operacji wymagały improwizacji, która w dłuższej kampanii mogłaby kosztować znacznie więcej czasu i ludzi.\n\nDowództwa rozpoczęły tworzenie stałych zespołów łącznikowych. Ich zadaniem będzie tłumaczenie rozkazów, uzgadnianie stref odpowiedzialności oraz planowanie dostaw. Szczególnie trudna pozostaje logistyka: amunicja, części zamienne i wyposażenie medyczne obu armii nie zawsze są wymienne, dlatego wspólna baza musi utrzymywać dwa równoległe łańcuchy zaopatrzenia.\n\nWspółpraca wywołuje też pytania polityczne. Senatorowie chcą wiedzieć, kto podejmuje ostateczną decyzję podczas operacji na terytorium UNSC i kto odpowiada za straty cywilne. Przedstawiciele UNSC podkreślają, że sojusz nie może oznaczać podporządkowania ich sił Republice. Obie strony zapewniają, że dowodzenie pozostanie oparte na wspólnie uzgodnionych celach.\n\nKholo udowodniło, że porozumienie jest możliwe, ale kolejny front sprawdzi, czy nie było jednorazowym sukcesem. Oficerowie ostrzegają, że prawdziwa interoperacyjność powstaje przed bitwą: podczas ćwiczeń, odpraw i żmudnego ujednolicania procedur. Jeżeli ten proces się powiedzie, CIS będzie musiało uwzględnić przeciwnika zdolnego łączyć republikańską mobilność z doświadczeniem UNSC. Jeżeli zawiedzie, każda wspólna operacja rozpocznie się od ponownego wynajdywania tych samych rozwiązań.",
+        "category_key": "analysis",
+        "category_color": "#60a5fa",
+        "category": "ANALYSIS",
+        "title": "Dwie armie, jeden front: Republika i UNSC uczą się wspólnej wojny",
+        "headline": "Dwie armie, jeden front: Republika i UNSC uczą się wspólnej wojny",
+        "body": "KHOLO — Zwycięstwo pokazało, że żołnierze Republiki i UNSC potrafią walczyć obok siebie. Ujawniło również, jak wiele dzieli oba systemy dowodzenia. Różne procedury meldunkowe, oznaczenia map i częstotliwości łączności podczas pierwszych dni operacji wymagały improwizacji, która w dłuższej kampanii mogłaby kosztować znacznie więcej czasu i ludzi.\n\nDowództwa rozpoczęły tworzenie stałych zespołów łącznikowych. Ich zadaniem będzie tłumaczenie rozkazów, uzgadnianie stref odpowiedzialności oraz planowanie dostaw. Szczególnie trudna pozostaje logistyka: amunicja, części zamienne i wyposażenie medyczne obu armii nie zawsze są wymienne, dlatego wspólna baza musi utrzymywać dwa równoległe łańcuchy zaopatrzenia.\n\nWspółpraca wywołuje też pytania polityczne. Senatorowie chcą wiedzieć, kto podejmuje ostateczną decyzję podczas operacji na terytorium UNSC i kto odpowiada za straty cywilne. Przedstawiciele UNSC podkreślają, że sojusz nie może oznaczać podporządkowania ich sił Republice. Obie strony zapewniają, że dowodzenie pozostanie oparte na wspólnie uzgodnionych celach.\n\nKholo udowodniło, że porozumienie jest możliwe, ale kolejny front sprawdzi, czy nie było jednorazowym sukcesem. Oficerowie ostrzegają, że prawdziwa interoperacyjność powstaje przed bitwą: podczas ćwiczeń, odpraw i żmudnego ujednolicania procedur. Jeżeli ten proces się powiedzie, CIS będzie musiało uwzględnić przeciwnika zdolnego łączyć republikańską mobilność z doświadczeniem UNSC. Jeżeli zawiedzie, każda wspólna operacja rozpocznie się od ponownego wynajdywania tych samych rozwiązań.",
+        "planet": "Kholo",
+        "sector": "",
+        "faction_keys": [
+          "UNSC",
+          "Republic"
+        ],
+        "unit_mentions": [
+          "327th"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 20,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_06_iberius",
+        "date_posted": "2022-11-20T10:00:00.000Z",
+        "campaign_date": "2022-11-20",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Inwazja CIS na Iberius została odparta. Kos, 41st i cały 104th wsparli UNSC, lecz część republikańskich sił pozostanie na planecie.",
+        "description": "IBERIUS — Dowództwo UNSC ogłosiło odparcie inwazji Konfederacji po wielomiesięcznej kampanii. W obronie planety uczestniczyły republikańskie oddziały dowodzone przez Kosa, elementy 41st oraz cały 104th. Ostatnie zorganizowane siły CIS wycofały się z głównych stref operacyjnych, pozostawiając uszkodzone instalacje i rozproszone grupy droidów.\n\nWalki wymagały ścisłego połączenia obrony UNSC z mobilnymi odwodami Republiki. 41st wspierał zagrożone odcinki, natomiast 104th zabezpieczał szlaki zaopatrzenia i przejmował pozycje, których nie można było utrzymać samymi lokalnymi siłami. Kos koordynował działania republikańskich jednostek z dowództwem UNSC, ograniczając opóźnienia znane z wcześniejszych wspólnych operacji.\n\nZwycięstwo nie oznacza natychmiastowego powrotu wojsk. Kos i 104th pozostaną na Iberiusie jako siły obronne, dopóki nie zostaną odbudowane fortyfikacje i system wczesnego ostrzegania. Decyzja wzmacnia bezpieczeństwo planety, ale zmniejsza liczbę jednostek dostępnych Republice na innych frontach. 41st ma otrzymać odrębne zadania po uzupełnieniu zapasów.\n\nIberius stał się najważniejszym sprawdzianem sojuszu Republiki i UNSC od czasu Kholo. Tym razem współpraca musiała przetrwać nie tydzień, lecz całą kampanię. Dowódcy podkreślają, że zwyciężyła nie pojedyncza formacja, ale zdolność obu armii do utrzymania wspólnego frontu. Wojna pozostawia jednak planetę z garnizonem, którego nie można szybko przerzucić — i Republikę z kolejnym zobowiązaniem rozciągającym jej siły.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Iberius obroniony, 104th pozostaje na posterunku",
+        "headline": "Depesze Wojenne: Iberius obroniony, 104th pozostaje na posterunku",
+        "body": "IBERIUS — Dowództwo UNSC ogłosiło odparcie inwazji Konfederacji po wielomiesięcznej kampanii. W obronie planety uczestniczyły republikańskie oddziały dowodzone przez Kosa, elementy 41st oraz cały 104th. Ostatnie zorganizowane siły CIS wycofały się z głównych stref operacyjnych, pozostawiając uszkodzone instalacje i rozproszone grupy droidów.\n\nWalki wymagały ścisłego połączenia obrony UNSC z mobilnymi odwodami Republiki. 41st wspierał zagrożone odcinki, natomiast 104th zabezpieczał szlaki zaopatrzenia i przejmował pozycje, których nie można było utrzymać samymi lokalnymi siłami. Kos koordynował działania republikańskich jednostek z dowództwem UNSC, ograniczając opóźnienia znane z wcześniejszych wspólnych operacji.\n\nZwycięstwo nie oznacza natychmiastowego powrotu wojsk. Kos i 104th pozostaną na Iberiusie jako siły obronne, dopóki nie zostaną odbudowane fortyfikacje i system wczesnego ostrzegania. Decyzja wzmacnia bezpieczeństwo planety, ale zmniejsza liczbę jednostek dostępnych Republice na innych frontach. 41st ma otrzymać odrębne zadania po uzupełnieniu zapasów.\n\nIberius stał się najważniejszym sprawdzianem sojuszu Republiki i UNSC od czasu Kholo. Tym razem współpraca musiała przetrwać nie tydzień, lecz całą kampanię. Dowódcy podkreślają, że zwyciężyła nie pojedyncza formacja, ale zdolność obu armii do utrzymania wspólnego frontu. Wojna pozostawia jednak planetę z garnizonem, którego nie można szybko przerzucić — i Republikę z kolejnym zobowiązaniem rozciągającym jej siły.",
+        "planet": "Iberius",
+        "sector": "",
+        "faction_keys": [
+          "UNSC",
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "41sT eLITE LEGION",
+          "104. legion wsparcia"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 19,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_07_second_altis",
+        "date_posted": "2022-12-11T11:00:00.000Z",
+        "campaign_date": "2022-12-11",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Republika obroniła Altis, lecz 41st poniósł ciężkie straty i musi się przegrupować. Wsparcie 327th okazało się kluczowe dla utrzymania planety.",
+        "description": "ALTIS — Republika utrzymała planetę po odparciu kolejnego uderzenia Konfederacji. Obrona załamała kilka natarć na kluczowe węzły komunikacyjne, a ostatnie siły CIS zostały zmuszone do wycofania się z bezpośredniego zasięgu republikańskich pozycji. Dowództwo określa wynik jako zwycięstwo, lecz napływające depesze pokazują jego wysoką cenę.\n\n41st poniósł znaczące straty podczas utrzymywania najbardziej zagrożonych odcinków. Część pododdziałów utraciła zdolność do dalszych działań i została skierowana na tyły w celu przegrupowania. Oficjalne zestawienia nie są jeszcze zamknięte, a rodziny poległych mają zostać powiadomione przed publikacją pełnej listy strat.\n\nKluczowe znaczenie miała pomoc 327th. Jego wejście do walki pozwoliło wzmocnić wyczerpane pozycje, odzyskać lokalną inicjatywę i stworzyć korytarz dla ewakuacji rannych. Oficerowie obecni na Altis podkreślają, że bez tego wsparcia obrona mogła nie przetrwać ostatniej fazy separatystycznego natarcia.\n\nDrugie starcie o Altis kończy się inaczej niż pierwsze: planeta pozostała w rękach Republiki. Zwycięstwo nie zaciera jednak pamięci o wcześniejszym upadku ani kosztu poniesionego przez 41st. Legion będzie potrzebował ludzi, sprzętu i czasu, zanim ponownie osiągnie pełną gotowość. Dziś Altis pozostaje symbolem tego, że utraconego świata można bronić skutecznie — jeśli galaktyka nie pozostawi jego obrońców samych. Jeden lud, Jedna Republika.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Altis utrzymane. 41st wykrwawiony w obronie",
+        "headline": "Depesze Wojenne: Altis utrzymane. 41st wykrwawiony w obronie",
+        "body": "ALTIS — Republika utrzymała planetę po odparciu kolejnego uderzenia Konfederacji. Obrona załamała kilka natarć na kluczowe węzły komunikacyjne, a ostatnie siły CIS zostały zmuszone do wycofania się z bezpośredniego zasięgu republikańskich pozycji. Dowództwo określa wynik jako zwycięstwo, lecz napływające depesze pokazują jego wysoką cenę.\n\n41st poniósł znaczące straty podczas utrzymywania najbardziej zagrożonych odcinków. Część pododdziałów utraciła zdolność do dalszych działań i została skierowana na tyły w celu przegrupowania. Oficjalne zestawienia nie są jeszcze zamknięte, a rodziny poległych mają zostać powiadomione przed publikacją pełnej listy strat.\n\nKluczowe znaczenie miała pomoc 327th. Jego wejście do walki pozwoliło wzmocnić wyczerpane pozycje, odzyskać lokalną inicjatywę i stworzyć korytarz dla ewakuacji rannych. Oficerowie obecni na Altis podkreślają, że bez tego wsparcia obrona mogła nie przetrwać ostatniej fazy separatystycznego natarcia.\n\nDrugie starcie o Altis kończy się inaczej niż pierwsze: planeta pozostała w rękach Republiki. Zwycięstwo nie zaciera jednak pamięci o wcześniejszym upadku ani kosztu poniesionego przez 41st. Legion będzie potrzebował ludzi, sprzętu i czasu, zanim ponownie osiągnie pełną gotowość. Dziś Altis pozostaje symbolem tego, że utraconego świata można bronić skutecznie — jeśli galaktyka nie pozostawi jego obrońców samych. Jeden lud, Jedna Republika.",
+        "planet": "Altis",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "41sT eLITE LEGION",
+          "327th"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 18,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_09_malden",
+        "date_posted": "2023-12-13T10:00:00.000Z",
+        "campaign_date": "2023-12-13",
+        "publication_status": "outdated",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "UNSC i Republika odzyskały Malden po długiej kampanii. 41st walczył pod dowództwem Taviona, gdy Kos i 104th pozostawali na Iberiusie.",
+        "description": "MALDEN — Po wielomiesięcznej kampanii siły UNSC i Republiki odzyskały planetę z rąk Konfederacji. Ostatnie pozycje CIS zostały przełamane, a wspólne patrole rozpoczęły zabezpieczanie miast, portów i szlaków prowadzących do zniszczonych instalacji wojskowych. Administracja UNSC przygotowuje powrót do obiektów opuszczonych podczas okupacji.\n\n41st prowadził komandor Tavion, który przejął odpowiedzialność za legion podczas nieobecności Kosa. Kos i cały 104th nadal pozostają na Iberiusie jako część tamtejszych sił obronnych. Rozdzielenie doświadczonych dowódców i jednostek zmusiło sztab do oparcia planu na młodszych oficerach oraz formacjach odbudowanych po ciężkich stratach na Altis.\n\nWalki na Malden sprawdziły, czy 41st potrafi odzyskać zdolność ofensywną po przegrupowaniu. Legion działał wspólnie z jednostkami UNSC, zabezpieczając kolejne odcinki i utrzymując tempo natarcia mimo wydłużonych linii zaopatrzenia. Dowódcy oceniają, że doświadczenia z Tanoa, Kholo i Iberiusu pozwoliły uniknąć części wcześniejszych problemów z łącznością.\n\nOdzyskanie Malden ma znaczenie wojskowe i polityczne. Po klęsce UNSC na innym froncie sojusz potrzebował zwycięstwa potwierdzającego, że wspólne operacje nadal przynoszą rezultaty. Tavion wychodzi z kampanii jako dowódca zdolny prowadzić 41st bez bezpośredniej obecności Kosa, lecz przed legionem pozostaje odbudowa rezerw. Planeta jest wolna, a jej utrzymanie stanie się kolejnym sprawdzianem trwalszym niż samo natarcie.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Malden odbite, Tavion prowadzi 41st",
+        "headline": "Depesze Wojenne: Malden odbite, Tavion prowadzi 41st",
+        "body": "MALDEN — Po wielomiesięcznej kampanii siły UNSC i Republiki odzyskały planetę z rąk Konfederacji. Ostatnie pozycje CIS zostały przełamane, a wspólne patrole rozpoczęły zabezpieczanie miast, portów i szlaków prowadzących do zniszczonych instalacji wojskowych. Administracja UNSC przygotowuje powrót do obiektów opuszczonych podczas okupacji.\n\n41st prowadził komandor Tavion, który przejął odpowiedzialność za legion podczas nieobecności Kosa. Kos i cały 104th nadal pozostają na Iberiusie jako część tamtejszych sił obronnych. Rozdzielenie doświadczonych dowódców i jednostek zmusiło sztab do oparcia planu na młodszych oficerach oraz formacjach odbudowanych po ciężkich stratach na Altis.\n\nWalki na Malden sprawdziły, czy 41st potrafi odzyskać zdolność ofensywną po przegrupowaniu. Legion działał wspólnie z jednostkami UNSC, zabezpieczając kolejne odcinki i utrzymując tempo natarcia mimo wydłużonych linii zaopatrzenia. Dowódcy oceniają, że doświadczenia z Tanoa, Kholo i Iberiusu pozwoliły uniknąć części wcześniejszych problemów z łącznością.\n\nOdzyskanie Malden ma znaczenie wojskowe i polityczne. Po klęsce UNSC na innym froncie sojusz potrzebował zwycięstwa potwierdzającego, że wspólne operacje nadal przynoszą rezultaty. Tavion wychodzi z kampanii jako dowódca zdolny prowadzić 41st bez bezpośredniej obecności Kosa, lecz przed legionem pozostaje odbudowa rezerw. Planeta jest wolna, a jej utrzymanie stanie się kolejnym sprawdzianem trwalszym niż samo natarcie.",
+        "planet": "Malden",
+        "sector": "",
+        "faction_keys": [
+          "UNSC",
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "41sT eLITE LEGION",
+          "104. legion wsparcia"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 13,
+        "updated_date": "2026-10-29T16:21:29.029Z"
+      },
+      {
+        "id": "holonet_post_altis_10_geonosis",
+        "date_posted": "2026-01-19T11:00:00.000Z",
+        "campaign_date": "2026-01-19",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Republika wyparła separatystów z sektora 506. 13th kontynuuje oblężenie pozostałych pozycji CIS, a 41st jest w drodze ze wsparciem.",
+        "description": "GEONOSIS — Siły Republiki przejęły pełną kontrolę nad sektorem 506 i wyparły z niego oddziały separatystów. Zdobyty obszar obejmuje pozycje umożliwiające dalsze prowadzenie oblężenia, lecz bitwa o planetę nie została zakończona. CIS nadal utrzymuje umocnione punkty i może prowadzić działania z rozbudowanej sieci podziemnych przejść.\n\n13th kontynuuje nacisk na pozostałe pozycje przeciwnika. Legion zabezpiecza teren, rozpoznaje wejścia do kompleksów i przygotowuje kolejne etapy operacji. Dowództwo ostrzega, że szybkie wejście głębiej bez pełnego rozpoznania mogłoby narazić żołnierzy na zasadzki oraz odcięcie od zaopatrzenia.\n\n41st znajduje się w drodze na Geonosis jako wsparcie. Przybycie legionu ma pozwolić na zluzowanie części wyczerpanych oddziałów, wzmocnienie obrony sektora 506 i rozszerzenie działań na kolejne obszary. Szczegóły planowanego rozmieszczenia pozostają niejawne, aby nie ujawniać separatystom kierunku następnego uderzenia.\n\nZdobycie sektora jest pierwszym potwierdzonym sukcesem tej fazy kampanii, ale nie rozstrzyga losów planety. Geonosis sprzyja obrońcom: trudny teren, podziemna infrastruktura i przygotowane pozycje mogą wydłużyć walki. Straty są nadal liczone. Republika posiada inicjatywę, jednak dopiero kolejne dni pokażą, czy zostanie ona wykorzystana. Do czasu likwidacji pozostałych punktów oporu komunikaty dowództwa będą określały operację jako trwające oblężenie, nie jako zwycięstwo.",
+        "category_key": "war_report",
+        "category_color": "#f59e0b",
+        "category": "WAR REPORT",
+        "title": "Depesze Wojenne: Sektor 506 zdobyty, oblężenie Geonosis trwa",
+        "headline": "Depesze Wojenne: Sektor 506 zdobyty, oblężenie Geonosis trwa",
+        "body": "GEONOSIS — Siły Republiki przejęły pełną kontrolę nad sektorem 506 i wyparły z niego oddziały separatystów. Zdobyty obszar obejmuje pozycje umożliwiające dalsze prowadzenie oblężenia, lecz bitwa o planetę nie została zakończona. CIS nadal utrzymuje umocnione punkty i może prowadzić działania z rozbudowanej sieci podziemnych przejść.\n\n13th kontynuuje nacisk na pozostałe pozycje przeciwnika. Legion zabezpiecza teren, rozpoznaje wejścia do kompleksów i przygotowuje kolejne etapy operacji. Dowództwo ostrzega, że szybkie wejście głębiej bez pełnego rozpoznania mogłoby narazić żołnierzy na zasadzki oraz odcięcie od zaopatrzenia.\n\n41st znajduje się w drodze na Geonosis jako wsparcie. Przybycie legionu ma pozwolić na zluzowanie części wyczerpanych oddziałów, wzmocnienie obrony sektora 506 i rozszerzenie działań na kolejne obszary. Szczegóły planowanego rozmieszczenia pozostają niejawne, aby nie ujawniać separatystom kierunku następnego uderzenia.\n\nZdobycie sektora jest pierwszym potwierdzonym sukcesem tej fazy kampanii, ale nie rozstrzyga losów planety. Geonosis sprzyja obrońcom: trudny teren, podziemna infrastruktura i przygotowane pozycje mogą wydłużyć walki. Straty są nadal liczone. Republika posiada inicjatywę, jednak dopiero kolejne dni pokażą, czy zostanie ona wykorzystana. Do czasu likwidacji pozostałych punktów oporu komunikaty dowództwa będą określały operację jako trwające oblężenie, nie jako zwycięstwo.",
+        "planet": "Geonosis",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [
+          "13. LeGION \"ŻELAZNY\"",
+          "41sT eLITE LEGION"
+        ],
+        "glitch_intensity": 1,
+        "display_order": 12,
+        "updated_date": "2026-10-29T16:21:29.029Z"
       }
     ],
     "TimelineEvent": [
@@ -41953,8 +42220,8 @@
         "event_end_date_precision": "approximate",
         "event_ongoing": false,
         "title": "Bitwa o Unknown Planet",
-        "summary": "UNKNOWN ENEMY pokonał siły UNSC i utrzymał kontrolę nad Unknown Planet.",
-        "content": "Starcie UNSC z UNKNOWN ENEMY zakończyło się klęską sił ludzkich. Utrata wysokogórskiego świata umocniła kontrolę UNKNOWN ENEMY nad systemem 101.",
+        "summary": "Ekspedycja badawcza UNSC natrafiła przy strukturach prekursorów na UNKNOWN ENEMY. Próba nawiązania kontaktu zakończyła się atakiem i odwrotem UNSC.",
+        "content": "UNSC wysłało na bezludną planetę Unknown Planet zespół naukowy z ochroną, aby zbadać tajemnicze struktury prekursorów. Na miejscu ekspedycja napotkała UNKNOWN ENEMY, o którym ludzie nie posiadali wcześniej wiarygodnych informacji. Standardowe wezwania i próby nawiązania stosunków dyplomatycznych zostały odrzucone; Przymierze uznało przybyszów spoza własnej wspólnoty za wrogów i rozpoczęło atak. Po poniesieniu strat UNSC przerwało misję i wycofało ocalały personel, pozostawiając planetę oraz ruiny pod kontrolą UNKNOWN ENEMY. Dowództwo utajniło nagrania, odczyty i zeznania, a opinii publicznej przedstawiło katastrofę badawczą. Republika nie poznała prawdziwego przebiegu pierwszego kontaktu i pozostała skupiona na wojnie z CIS.",
         "category": "battle",
         "status": "published",
         "importance": "normal",
@@ -41971,7 +42238,7 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
-        "updated_date": "2026-10-29T13:39:58.040Z"
+        "updated_date": "2026-10-29T16:21:30.397Z"
       },
       {
         "id": "timeline_c3489947-1262-4bd6-be5a-c896805ce9ea",
@@ -42247,7 +42514,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 225,
+        "revision": 250,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -96559,7 +96826,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 156,
+    "revision": 181,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
