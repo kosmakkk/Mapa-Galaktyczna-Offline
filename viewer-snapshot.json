@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793296990437,
-  "published_at": "2026-10-29T18:35:07.468Z",
-  "source_data_updated_at": "2026-10-29T18:03:10.437Z",
+  "campaign_version": 1793300231449,
+  "published_at": "2026-10-29T18:59:03.096Z",
+  "source_data_updated_at": "2026-10-29T18:57:11.449Z",
   "entities": {
     "Planet": [
       {
@@ -33934,7 +33934,7 @@
         "military_formations": [
           {
             "id": "legion_1787575609635_74rusc",
-            "name": "41sT eLITE LEGION",
+            "name": "41. Elitarny Legion",
             "type": "legion",
             "parent_id": "gar_legacy_corps",
             "faction_key": "Republic",
@@ -33945,25 +33945,25 @@
           },
           {
             "id": "gar_regiment_legacy_legion_1787575609635_74rusc",
-            "name": "41sT eLITE LEGION — Regiment ZADANIOWY \"Drzewiec\"",
+            "name": "41. Elitarny Legion — Regiment ZADANIOWY \"Drzewiec\"",
             "type": "task_regiment",
             "parent_id": "legion_1787575609635_74rusc",
             "faction_key": "Republic",
             "hp": 8304,
             "max_hp": 8304,
             "icon": "/images/legions/1787576424020_obraz_2026-08-24_150023992.webp",
-            "parent_name": "41sT eLITE LEGION"
+            "parent_name": "41. Elitarny Legion"
           },
           {
             "id": "gar_task_regiment_1787742922501_sfc5b",
-            "name": "41sT eLITE LEGION — Regiment ZADANIOWY \"Rozjemcy\"",
+            "name": "41. Elitarny Legion — Regiment ZADANIOWY \"Rozjemcy\"",
             "type": "task_regiment",
             "parent_id": "legion_1787575609635_74rusc",
             "faction_key": "Republic",
             "hp": 8304,
             "max_hp": 8304,
             "icon": "/images/legions/1787576424020_obraz_2026-08-24_150023992.webp",
-            "parent_name": "41sT eLITE LEGION"
+            "parent_name": "41. Elitarny Legion"
           },
           {
             "id": "gar_legion_1788084133422_mcp2n",
@@ -34110,7 +34110,7 @@
         "active_decisions": [],
         "angle": 128.71072710786666,
         "radius_pct": 86.45847673676698,
-        "updated_date": "2026-10-09T17:04:45.215Z",
+        "updated_date": "2026-10-29T18:56:39.944Z",
         "conflict_sides": {
           "attacker": [
             "Republic"
@@ -41707,7 +41707,7 @@
           "CIS"
         ],
         "unit_mentions": [
-          "41sT eLITE LEGION"
+          "41. Elitarny Legion"
         ],
         "glitch_intensity": 1,
         "display_order": 29,
@@ -41736,7 +41736,7 @@
           "CIS"
         ],
         "unit_mentions": [
-          "41sT eLITE LEGION"
+          "41. Elitarny Legion"
         ],
         "glitch_intensity": 1,
         "display_order": 28,
@@ -41825,7 +41825,7 @@
           "CIS"
         ],
         "unit_mentions": [
-          "41sT eLITE LEGION",
+          "41. Elitarny Legion",
           "104. legion wsparcia"
         ],
         "glitch_intensity": 1,
@@ -41855,7 +41855,7 @@
           "CIS"
         ],
         "unit_mentions": [
-          "41sT eLITE LEGION",
+          "41. Elitarny Legion",
           "327th"
         ],
         "glitch_intensity": 1,
@@ -41912,7 +41912,7 @@
           "CIS"
         ],
         "unit_mentions": [
-          "41sT eLITE LEGION",
+          "41. Elitarny Legion",
           "104. legion wsparcia"
         ],
         "glitch_intensity": 1,
@@ -41921,13 +41921,13 @@
       },
       {
         "id": "holonet_post_altis_10_geonosis",
-        "date_posted": "2026-01-19T11:00:00.000Z",
+        "date_posted": "2026-01-19T10:00:00.000Z",
         "campaign_date": "2026-01-19",
         "publication_status": "current",
         "is_active": true,
         "is_pinned": false,
         "image_url": "",
-        "summary": "Republika wyparła separatystów z sektora 506. 13th kontynuuje oblężenie pozostałych pozycji CIS, a 41st jest w drodze ze wsparciem.",
+        "summary": "Republika wyparła separatystów z sektora 506. 13. legion żelazny kontynuuje oblężenie pozostałych pozycji CIS, a 41. Elitarny jest w drodze ze wsparciem.",
         "description": "GEONOSIS — Siły Republiki przejęły pełną kontrolę nad sektorem 506 i wyparły z niego oddziały separatystów. Zdobyty obszar obejmuje pozycje umożliwiające dalsze prowadzenie oblężenia, lecz bitwa o planetę nie została zakończona. CIS nadal utrzymuje umocnione punkty i może prowadzić działania z rozbudowanej sieci podziemnych przejść.\n\n13th kontynuuje nacisk na pozostałe pozycje przeciwnika. Legion zabezpiecza teren, rozpoznaje wejścia do kompleksów i przygotowuje kolejne etapy operacji. Dowództwo ostrzega, że szybkie wejście głębiej bez pełnego rozpoznania mogłoby narazić żołnierzy na zasadzki oraz odcięcie od zaopatrzenia.\n\n41st znajduje się w drodze na Geonosis jako wsparcie. Przybycie legionu ma pozwolić na zluzowanie części wyczerpanych oddziałów, wzmocnienie obrony sektora 506 i rozszerzenie działań na kolejne obszary. Szczegóły planowanego rozmieszczenia pozostają niejawne, aby nie ujawniać separatystom kierunku następnego uderzenia.\n\nZdobycie sektora jest pierwszym potwierdzonym sukcesem tej fazy kampanii, ale nie rozstrzyga losów planety. Geonosis sprzyja obrońcom: trudny teren, podziemna infrastruktura i przygotowane pozycje mogą wydłużyć walki. Straty są nadal liczone. Republika posiada inicjatywę, jednak dopiero kolejne dni pokażą, czy zostanie ona wykorzystana. Do czasu likwidacji pozostałych punktów oporu komunikaty dowództwa będą określały operację jako trwające oblężenie, nie jako zwycięstwo.",
         "category_key": "war_report",
         "category_color": "#f59e0b",
@@ -41943,7 +41943,7 @@
         ],
         "unit_mentions": [
           "13. LeGION \"ŻELAZNY\"",
-          "41sT eLITE LEGION"
+          "41. Elitarny Legion"
         ],
         "glitch_intensity": 1,
         "display_order": 14,
@@ -42784,7 +42784,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 254,
+        "revision": 276,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -43108,7 +43108,7 @@
       "independent_worlds_version": 1,
       "specialization_version": 1,
       "administration_version": 1,
-      "updated_date": "2026-10-29T14:40:54.703Z"
+      "updated_date": "2026-10-29T18:56:39.944Z"
     },
     "HighPriorityTarget": [
       {
@@ -45294,7 +45294,7 @@
       {
         "id": "legion_1787575609635_74rusc",
         "type": "legion",
-        "name": "41sT eLITE LEGION",
+        "name": "41. Elitarny Legion",
         "parent_id": "gar_legacy_corps",
         "is_legacy": false,
         "icon": "/images/legions/1787576424020_obraz_2026-08-24_150023992.webp",
@@ -45323,12 +45323,12 @@
         "military_version": 1,
         "profile_key": "line",
         "legacy_legion_id": "legion_1787575609635_74rusc",
-        "updated_date": "2026-09-14T04:59:36.949Z"
+        "updated_date": "2026-10-29T18:55:54.670Z"
       },
       {
         "id": "gar_regiment_legacy_legion_1787575609635_74rusc",
         "type": "task_regiment",
-        "name": "41sT eLITE LEGION — Regiment ZADANIOWY \"Drzewiec\"",
+        "name": "41. Elitarny Legion — Regiment ZADANIOWY \"Drzewiec\"",
         "parent_id": "legion_1787575609635_74rusc",
         "is_legacy": false,
         "icon": "",
@@ -45357,7 +45357,7 @@
         "military_version": 1,
         "profile_key": "line",
         "legacy_legion_id": "legion_1787575609635_74rusc",
-        "updated_date": "2026-09-14T04:59:36.949Z"
+        "updated_date": "2026-10-29T18:56:33.127Z"
       },
       {
         "id": "gar_sector_army_1787741437610_navlw",
@@ -45527,7 +45527,7 @@
       {
         "id": "gar_task_regiment_1787742922501_sfc5b",
         "type": "task_regiment",
-        "name": "41sT eLITE LEGION — Regiment ZADANIOWY \"Rozjemcy\"",
+        "name": "41. Elitarny Legion — Regiment ZADANIOWY \"Rozjemcy\"",
         "parent_id": "legion_1787575609635_74rusc",
         "is_legacy": false,
         "icon": "",
@@ -45555,7 +45555,7 @@
         "faction_key": "Republic",
         "military_version": 1,
         "profile_key": "line",
-        "updated_date": "2026-09-14T04:59:36.949Z"
+        "updated_date": "2026-10-29T18:56:39.944Z"
       },
       {
         "id": "gar_sector_army_1787744079993_epfbc",
@@ -90705,6 +90705,27 @@
         "action": "build",
         "structure_type": "fortress",
         "updated_date": "2026-10-12T13:25:38.121Z"
+      },
+      {
+        "id": "7952dd3f-ac2a-4a6d-bcf3-497c20bd9bc9",
+        "type": "military_edit",
+        "turn": 4,
+        "result": {},
+        "updated_date": "2026-10-29T18:55:54.670Z"
+      },
+      {
+        "id": "fc0bcf3f-672e-4aa8-ba7e-546448710121",
+        "type": "military_edit",
+        "turn": 4,
+        "result": {},
+        "updated_date": "2026-10-29T18:56:33.127Z"
+      },
+      {
+        "id": "9959221d-92a4-4ce9-9315-6e71470849ec",
+        "type": "military_edit",
+        "turn": 4,
+        "result": {},
+        "updated_date": "2026-10-29T18:56:39.944Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -97096,7 +97117,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 190,
+    "revision": 210,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
