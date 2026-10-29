@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1793300231449,
-  "published_at": "2026-10-29T19:33:25.700Z",
+  "published_at": "2026-10-29T19:45:38.042Z",
   "source_data_updated_at": "2026-10-29T18:57:11.449Z",
   "entities": {
     "Planet": [
@@ -41369,6 +41369,24 @@
           }
         ],
         "high_priority_target_ids": [],
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "title": "Operacja Geonosis",
+            "description": "Zabezpiecz front na Geonosis i wyeliminuj opór CIS w kluczowych sektorach obronnych.",
+            "briefing": "Naczelne Dowództwo Republiki nakazuje ustanowić przewagę orbitalną, zabezpieczyć strefy lądowania i zniszczyć główne fabryki droidów."
+          },
+          "en": {
+            "title": "Operation Geonosis",
+            "description": "Secure the Geonosis battlefront and eliminate CIS opposition across key defensive sectors.",
+            "briefing": "Republic High Command orders orbital superiority, secure landing zones, and the destruction of the principal droid foundries."
+          },
+          "hut": {
+            "title": "Operation Geonosis",
+            "description": "Secure the Geonosis front and break CIS resistance in the key defense sectors.",
+            "briefing": "Republica High Command orders orbital rule, safe landing grounds, and the destruction of the main droid forges."
+          }
+        },
         "updated_date": "2026-10-06T19:08:40.927Z"
       }
     ],
@@ -42215,6 +42233,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Rozszerzenie Mandatu Ochronnego Armii Republiki",
+            "summary": "Senat ujednolicił zasady stałego rozmieszczania klonów do ochrony szlaków, systemów i misji rozjemczych.",
+            "content": "Armia Republiki otrzymała rozszerzony mandat ochronny obejmujący zwalczanie piractwa, wsparcie śledztw antykorupcyjnych, ochronę infrastruktury i rozdzielanie lokalnych stron konfliktu. Doktryna nadal zakładała krótkie interwencje, ograniczone cele i szybkie przekazanie kontroli władzom cywilnym."
+          },
+          "en": {
+            "title": "Expansion of the Republic Army Security Mandate",
+            "summary": "The Senate standardized permanent clone deployments protecting routes, systems, and peacekeeping missions.",
+            "content": "The Republic Army received an expanded security mandate covering anti-piracy operations, support for anti-corruption investigations, infrastructure protection, and separation of local belligerents. Doctrine still assumed short interventions, limited objectives, and a rapid transfer of control to civilian authorities."
+          },
+          "hut": {
+            "title": "Republica Army Security Mandate Grown",
+            "summary": "The Senate made one rule for clone guards on routes, systems, and peacekeeping work.",
+            "content": "The Republica army gained a wider guard mandate: hunting pirates, helping anti-corruption probes, guarding infrastructure, and keeping local rivals apart. The doctrine still promised short jobs, narrow targets, and a fast hand-back to civilian bosses."
+          }
+        },
         "updated_date": "2026-10-21T12:00:00Z"
       },
       {
@@ -42244,6 +42280,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Operacja Bezpieczny Szlak",
+            "summary": "Klony rozbiły piracką flotyllę na szlaku Savareen i uwolniły zakładników bez strat wśród cywilów.",
+            "content": "Precyzyjne abordażowe zwycięstwo przywróciło ruch konwojów i stało się wzorem republikańskiej operacji bezpieczeństwa. Sukces wzmocnił jednak błędne przekonanie, że przeciwników Republiki zawsze będzie można pokonać krótką, ograniczoną interwencją."
+          },
+          "en": {
+            "title": "Operation Safe Passage",
+            "summary": "Clone forces broke a pirate flotilla on the Savareen route and freed the hostages without civilian losses.",
+            "content": "A precise boarding victory restored convoy traffic and became the model for a Republic security operation. The success also strengthened the mistaken belief that every enemy of the Republic could be defeated through a short, limited intervention."
+          },
+          "hut": {
+            "title": "Operation Safe Passage",
+            "summary": "Clone crews broke a pirate flotilla on the Savareen route and freed all hostages without civilian loss.",
+            "content": "A clean boarding victory opened the convoy route and became the Republica pattern for security work. The win also fed the bad belief that every Republica rival could be beaten by one short, limited strike."
+          }
+        },
         "updated_date": "2026-10-21T12:00:00Z"
       },
       {
@@ -42275,6 +42329,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Incydent na Kabal",
+            "summary": "Klony po raz pierwszy starły się z separatystyczną milicją wspieraną przez droidy bojowe.",
+            "content": "Trzydniowe walki o republikańską stację przekaźnikową ujawniły różnicę pomiędzy zwalczaniem piratów a walką z regularnie dowodzonymi maszynami. Republika zachowała instalację, ale nadal klasyfikowała konflikt jako lokalną operację bezpieczeństwa, nie otwartą wojnę."
+          },
+          "en": {
+            "title": "The Kabal Incident",
+            "summary": "Clone forces fought a Separatist militia supported by battle droids for the first time.",
+            "content": "Three days of fighting over a Republic relay station exposed the difference between hunting pirates and facing regularly commanded machines. The Republic retained the installation but continued to classify the conflict as a local security operation rather than an open war."
+          },
+          "hut": {
+            "title": "Kabal Incident",
+            "summary": "Clone forces met Separatista militia and battle droids in combat for the first time.",
+            "content": "Three days around a Republica relay showed the difference between chasing pirates and fighting ordered machines. Republica kept the station, but the bosses still called it local security work and not open mala."
+          }
+        },
         "updated_date": "2026-10-21T12:00:00Z"
       },
       {
@@ -42307,6 +42379,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Modernizacja Fazy II odłożona",
+            "summary": "Senat odłożył masową modernizację pancerza, logistyki i doktryny Armii Republiki.",
+            "content": "Dotychczasowe zwycięstwa w krótkich operacjach uznano za dowód wystarczalności Fazy I. Kontynuowano ograniczone testy, lecz nie przebudowano armii pod długą wojnę, ciężki transport ani równoczesne działania wielu dużych formacji."
+          },
+          "en": {
+            "title": "Phase II Modernization Deferred",
+            "summary": "The Senate postponed mass modernization of Republic Army armor, logistics, and doctrine.",
+            "content": "Earlier victories in short operations were treated as proof that Phase I was sufficient. Limited trials continued, but the army was not rebuilt for a long war, heavy transport, or simultaneous operations by several major formations."
+          },
+          "hut": {
+            "title": "Phase II Modernization Delayed",
+            "summary": "The Senate delayed mass changes to Republica armor, logistics, and doctrine.",
+            "content": "Short victories were taken as proof that Phase I was goodda enough. Small trials continued, but the army was not rebuilt for long mala, heavy transport, or many large formations fighting at once."
+          }
+        },
         "updated_date": "2026-10-29T13:40:22.238Z"
       },
       {
@@ -42338,6 +42428,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Oblężenie i upadek Altis",
+            "summary": "CIS zdobyło mandaloriańskie Altis, rozbijając jednolitą obronę i zmuszając klany do walki partyzanckiej.",
+            "content": "Konfederacja zablokowała planetę, przejęła porty, węzły orbitalne i centra administracyjne. Mandaloriańskie klany nie stworzyły wspólnego dowództwa, lecz po upadku głównych ośrodków kontynuowały opór w rozproszonych grupach. Zdobycie Altis stało się bezpośrednim zapalnikiem oficjalnej wojny Republiki z CIS."
+          },
+          "en": {
+            "title": "Siege and Fall of Altis",
+            "summary": "The CIS captured Mandalorian Altis, shattered its unified defense, and forced the clans into guerrilla warfare.",
+            "content": "The Confederacy blockaded the planet and seized its ports, orbital nodes, and administrative centers. The Mandalorian clans failed to form a unified command, but after the main settlements fell they continued resistance in dispersed groups. The capture of Altis became the immediate trigger for the Republic's official war with the CIS."
+          },
+          "hut": {
+            "title": "Siege and Fall of Altis",
+            "summary": "CIS took Mandaloriana Altis, broke its common defense, and drove the clans into shadow fighting.",
+            "content": "Confederacy blocked the planet and seized ports, orbital nodes, and boss centers. Mandaloriana clans made no single command, but after the main settlements fell they kept fighting in scattered groups. Taking Altis lit the fuse for Republica's official mala with CIS."
+          }
+        },
         "updated_date": "2026-10-21T12:00:00Z"
       },
       {
@@ -42363,6 +42471,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": true,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Pierwsza Bitwa o Altis",
+            "summary": "Po upadku mandaloriańskiego Altis Republika uznała działania CIS za otwartą agresję, rozpoczęła oficjalną wojnę i podjęła pierwszą próbę odbicia planety.",
+            "content": "Pierwsza Bitwa o Altis ustanawia początek ery ABA i oficjalny początek Wojen Klonów. Republika, dotąd wykorzystująca armię klonów głównie do misji rozjemczych, ochrony systemów i lokalnych interwencji, skierowała ją przeciw regularnym siłom CIS okupującym Altis. Bitwa ujawniła brak przygotowania taktycznego, logistycznego i sprzętowego do prowadzenia otwartego konfliktu na wielką skalę."
+          },
+          "en": {
+            "title": "First Battle of Altis",
+            "summary": "After Mandalorian Altis fell, the Republic recognized CIS actions as open aggression, began the official war, and made its first attempt to retake the planet.",
+            "content": "The First Battle of Altis marks the beginning of the ABA era and the official opening of the Clone Wars. The Republic, which had previously used its clone army mainly for peacekeeping, system defense, and local interventions, committed it against regular CIS forces occupying Altis. The battle exposed tactical, logistical, and equipment shortcomings in preparations for open, large-scale conflict."
+          },
+          "hut": {
+            "title": "First Battle of Altis",
+            "summary": "After Mandaloriana Altis fell, Republica named CIS action open aggression, began official mala, and tried to take the planet back.",
+            "content": "The First Battle of Altis starts the ABA era and the official Clone Mala. Republica had used its clone army mostly for peacekeeping, system guards, and local jobs; now it sent them against regular CIS forces on Altis. The battle exposed weak tactics, koona, and equipment for open, large-scale war."
+          }
+        },
         "updated_date": "2026-10-21T12:00:00.000Z"
       },
       {
@@ -42391,6 +42517,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o Tanoa",
+            "summary": "Republika wyzwoliła Tanoa spod kontroli CIS. Długa i wyjątkowo ciężka kampania stała się prawdziwym chrztem bojowym 41st Elite Legion.",
+            "content": "Po swoich początkach podczas Pierwszej Bitwy o Altis 41st został skierowany do republikańskiego oblężenia kontrolowanej przez CIS Tanoa. Wielomiesięczne walki zakończyły się wyzwoleniem planety i ukształtowały 41st jako samodzielną, doświadczoną formację bojową."
+          },
+          "en": {
+            "title": "Battle of Tanoa",
+            "summary": "The Republic liberated Tanoa from CIS control. The long and exceptionally hard campaign became the true baptism of fire for the 41st Elite Legion.",
+            "content": "After its beginnings during the First Battle of Altis, the 41st was assigned to the Republic siege of CIS-controlled Tanoa. Months of fighting ended with the planet's liberation and shaped the 41st into an independent, experienced combat formation."
+          },
+          "hut": {
+            "title": "Battle of Tanoa",
+            "summary": "Republica freed Tanoa from CIS. The long, hard campaign became the true fire-test of the 41st Elite Legion.",
+            "content": "After its first steps at Altis, the 41st joined the Republica siege of CIS-held Tanoa. Months of mala ended in liberation and forged the 41st into an independent, seasoned fighting formation."
+          }
+        },
         "updated_date": "2026-10-16T10:34:05.418Z"
       },
       {
@@ -42420,6 +42564,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o Kholo",
+            "summary": "UNSC, wspierane przez 327th, odbiło Kholo z rąk CIS.",
+            "content": "Krótka operacja wyzwoleńcza połączyła siły UNSC i Republiki. Wsparcie 327th pozwoliło przełamać pozycje Konfederacji i przywrócić Kholo pod kontrolę UNSC."
+          },
+          "en": {
+            "title": "Battle of Kholo",
+            "summary": "The UNSC, supported by the 327th, recaptured Kholo from the CIS.",
+            "content": "The short liberation operation combined UNSC and Republic forces. Support from the 327th broke the Confederacy's positions and restored Kholo to UNSC control."
+          },
+          "hut": {
+            "title": "Battle of Kholo",
+            "summary": "UNSC, helped by the 327th, took Kholo back from CIS.",
+            "content": "The short liberation strike joined UNSC and Republica forces. The 327th broke Confederacy positions and returned Kholo to UNSC control."
+          }
+        },
         "updated_date": "2026-10-16T11:02:06.102Z"
       },
       {
@@ -42449,6 +42611,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o Iberius",
+            "summary": "UNSC odparło inwazję CIS przy wsparciu Kosa, 41st i całego 104th.",
+            "content": "Podczas inwazji CIS obronę Iberiusa wsparł Marshall Commander Kos wraz z żołnierzami 41st oraz całym 104th. Po odparciu Konfederacji Kos i 104th pozostali na planecie jako siły obronne, co później uniemożliwiło im udział w początkowej fazie walk o Malden."
+          },
+          "en": {
+            "title": "Battle of Iberius",
+            "summary": "The UNSC repelled a CIS invasion with support from Kos, the 41st, and the entire 104th.",
+            "content": "During the CIS invasion, Marshal Commander Kos reinforced the defense of Iberius with soldiers of the 41st and the entire 104th. After the Confederacy was repelled, Kos and the 104th remained as planetary defenders, which later prevented them from joining the opening phase of the fighting for Malden."
+          },
+          "hut": {
+            "title": "Battle of Iberius",
+            "summary": "UNSC broke a CIS invasion with Kos, the 41st, and the whole 104th.",
+            "content": "During the CIS invasion, Marshal Commander Kos reinforced Iberius with soldiers of the 41st and the whole 104th. After Confederacy was pushed away, Kos and the 104th stayed as planet guards and could not join the first fighting for Malden."
+          }
+        },
         "updated_date": "2026-10-16T11:02:15.226Z"
       },
       {
@@ -42474,6 +42654,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Druga Bitwa o Altis",
+            "summary": "Drugi oficjalny kamień milowy walk o Altis.",
+            "content": "Druga Bitwa o Altis pozostaje jednym z głównych wydarzeń oficjalnej kroniki kampanii."
+          },
+          "en": {
+            "title": "Second Battle of Altis",
+            "summary": "The second official milestone in the struggle for Altis.",
+            "content": "The Second Battle of Altis remains one of the principal events in the campaign's official chronicle."
+          },
+          "hut": {
+            "title": "Second Battle of Altis",
+            "summary": "The second official milestone in the fight for Altis.",
+            "content": "The Second Battle of Altis remains one of the great events in the official campaign chronicle."
+          }
+        },
         "updated_date": "2026-10-07T00:00:00Z"
       },
       {
@@ -42503,6 +42701,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o nieznaną planetę",
+            "summary": "Ekspedycja badawcza UNSC natrafiła przy strukturach prekursorów na NIEZNANY WRÓG. Próba nawiązania kontaktu zakończyła się atakiem i odwrotem UNSC.",
+            "content": "UNSC wysłało na bezludną planetę Nieznana planeta zespół naukowy z ochroną, aby zbadać tajemnicze struktury prekursorów. Na miejscu ekspedycja napotkała NIEZNANY WRÓG, o którym ludzie nie posiadali wcześniej wiarygodnych informacji. Standardowe wezwania i próby nawiązania stosunków dyplomatycznych zostały odrzucone; Przymierze uznało przybyszów spoza własnej wspólnoty za wrogów i rozpoczęło atak. Po poniesieniu strat UNSC przerwało misję i wycofało ocalały personel, pozostawiając planetę oraz ruiny pod kontrolą NIEZNANY WRÓG. Dowództwo utajniło nagrania, odczyty i zeznania, a opinii publicznej przedstawiło katastrofę badawczą. Republika nie poznała prawdziwego przebiegu pierwszego kontaktu i pozostała skupiona na wojnie z CIS."
+          },
+          "en": {
+            "title": "Battle of Unknown Planet",
+            "summary": "A UNSC research expedition encountered the UNKNOWN ENEMY near precursor structures. An attempt at contact ended in an attack and UNSC withdrawal.",
+            "content": "The UNSC sent a protected scientific team to the uninhabited world Unknown Planet to investigate mysterious precursor structures. The expedition encountered the UNKNOWN ENEMY, about which humanity had no reliable intelligence. Standard calls and diplomatic approaches were rejected; the UNKNOWN ENEMY declared outsiders enemies and attacked. After taking losses, the UNSC abandoned the mission and evacuated the survivors, leaving the planet and ruins under UNKNOWN ENEMY. Command classified the recordings, readings, and testimony, presenting the public with a research disaster. The Republic never learned the truth of the first contact and remained focused on its war with the CIS."
+          },
+          "hut": {
+            "title": "Battle of Unknown Worlana",
+            "summary": "A UNSC research party met UNKNOWN RIVAL near precursor ruins. Contact ended in attack and UNSC retreat.",
+            "content": "UNSC sent guarded scientists to empty Unknown Worlana to study strange precursor structures. They met UNKNOWN RIVAL, a power humans did not know. Calls and diplomacy were rejected; UNKNOWN RIVAL named outsiders enemies and attacked. After losses, UNSC pulled survivors out and left the planet and ruins to UNKNOWN RIVAL. Command hid the records and told the public of a research disaster. Republica never learned the true first contact and stayed focused on CIS mala."
+          }
+        },
         "updated_date": "2026-10-29T16:21:30.397Z"
       },
       {
@@ -42533,6 +42749,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o Malden",
+            "summary": "UNSC i Republika przełamały obronę CIS i odbiły Malden.",
+            "content": "Malden, pierwotnie należące do UNSC, zostało wcześniej podbite przez CIS. Gdy kontrofensywa UNSC napotkała silną obronę Konfederacji, wezwano wsparcie Republiki. Na planetę przybył 41st pod dowództwem komandora Taviona; Marshall Commander Kos i cały 104th pozostawali w tym czasie na Iberiusie. Wspólne siły ostatecznie wyzwoliły Malden i przywróciły je UNSC."
+          },
+          "en": {
+            "title": "Battle of Malden",
+            "summary": "The UNSC and the Republic broke CIS defenses and recaptured Malden.",
+            "content": "Malden, originally held by the UNSC, had previously been conquered by the CIS. When the UNSC counteroffensive encountered strong Confederate defenses, Republic support was requested. The 41st arrived under Commander Tavion; Marshal Commander Kos and the entire 104th remained on Iberius. The combined force ultimately liberated Malden and restored it to the UNSC."
+          },
+          "hut": {
+            "title": "Battle of Malden",
+            "summary": "UNSC and Republica broke CIS defenses and took Malden back.",
+            "content": "Malden, once UNSC, had been conquered by CIS. When the UNSC counterstrike met strong Confederacy defenses, Republica help was called. The 41st came under Commander Tavion while Kos and the whole 104th stayed on Iberius. Together they freed Malden and returned it to UNSC."
+          }
+        },
         "updated_date": "2026-10-29T13:40:45.989Z"
       },
       {
@@ -42567,6 +42801,24 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Bitwa o Geonosis",
+            "summary": "Republika wyparła separatystów z sektora 506. 13th kontynuuje oblężenie pozostałych pozycji CIS, a 41st jest w drodze ze wsparciem.",
+            "content": "Bitwa o Geonosis rozpoczęła się około 18 stycznia 2026 GrS. Siły Republiki zdobyły sektor 506 i wyparły z niego separatystów. 13th prowadzi dalsze oblężenie pozostałych pozycji CIS na planecie. 41st zmierza na Geonosis, aby wzmocnić 13th i wesprzeć kolejną fazę walk. Wynik bitwy pozostaje nierozstrzygnięty."
+          },
+          "en": {
+            "title": "Battle of Geonosis",
+            "summary": "The Republic drove Separatists from Sector 506. The 13th continues to besiege remaining CIS positions while the 41st is en route with reinforcements.",
+            "content": "The Battle of Geonosis began around 18 January 2026 GrS. Republic forces captured Sector 506 and drove out the Separatists. The 13th continues the siege of remaining CIS positions on the planet. The 41st is moving toward Geonosis to reinforce the 13th and support the next phase of the campaign. The battle remains unresolved."
+          },
+          "hut": {
+            "title": "Battle of Geonosis",
+            "summary": "Republica drove Separatistas from Sector 506. The 13th keeps the siege while the 41st brings support.",
+            "content": "The Battle of Geonosis began near 18 January 2026 GrS. Republica forces took Sector 506 and pushed out Separatistas. The 13th keeps pressure on remaining CIS positions. The 41st travels to Geonosis to reinforce them and support the next phase. The battle is not yet decided."
+          }
+        },
         "updated_date": "2026-10-29T18:29:58.794Z"
       }
     ],
@@ -43122,6 +43374,24 @@
         "directive": "Kill",
         "assignment_type": "planet",
         "sector_id": "",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "description": "Geonosiański porucznik",
+            "intel": "Sun Fac jest głównym porucznikiem arcyksięcia Poggle'a Mniejszego. Wywiad wskazuje, że członkowie wyższej kasty mieszkają w ulu Stalgasin. Prawdopodobnie będzie nieuzbrojony i spróbuje uciec po wykryciu.",
+            "standing_orders": "Zlikwidować"
+          },
+          "en": {
+            "description": "Geonosian Lieutenant",
+            "intel": "Sun Fac serves as Archduke Poggle the Lesser's chief lieutenant. Intelligence indicates that members of the upper caste live in the Stalgasin hive. He is likely to be unarmed and will attempt to escape if located.",
+            "standing_orders": "Eliminate"
+          },
+          "hut": {
+            "description": "Geonosiana Lieutenant",
+            "intel": "Sun Fac is the chief lieutenant of Archduke Poggle the Lesser. Intel says upper-caste members live in Stalgasin hive. He will likely carry no weapon and try to flee when found.",
+            "standing_orders": "Killee"
+          }
+        },
         "updated_date": "2026-08-29T11:20:06.705Z"
       },
       {
@@ -43135,6 +43405,24 @@
         "directive": "Kill",
         "assignment_type": "planet",
         "sector_id": "",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "description": "Geonosiański Alfa",
+            "intel": "Geonosiański Alfa Roju przewodzi jednemu z rojów. Pozycję w hierarchii ula zdobył, dowodząc swojej siły jako czempion areny.",
+            "standing_orders": "Zlikwidować"
+          },
+          "en": {
+            "description": "Geonosian Alpha",
+            "intel": "A Geonosian Brood Alpha leads one of the broods. The position in the hive hierarchy is earned by proving power as an arena champion.",
+            "standing_orders": "Eliminate"
+          },
+          "hut": {
+            "description": "Geonosiana Alpha",
+            "intel": "A Brood Alpha leads one Geonosiana brood. The hive rank is earned by proving strength as an arena champion.",
+            "standing_orders": "Killee"
+          }
+        },
         "updated_date": "2026-08-30T09:00:22.812Z",
         "neutralized": true
       },
@@ -43149,6 +43437,24 @@
         "directive": "Kill",
         "assignment_type": "planet",
         "sector_id": "",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "description": "Geonosiański Alfa",
+            "intel": "Geonosiański Alfa Roju przewodzi jednemu z rojów. Pozycję w hierarchii ula zdobył, dowodząc swojej siły jako czempion areny.",
+            "standing_orders": "Zlikwidować"
+          },
+          "en": {
+            "description": "Geonosian Alpha",
+            "intel": "A Geonosian Brood Alpha leads one of the broods. The position in the hive hierarchy is earned by proving power as an arena champion.",
+            "standing_orders": "Eliminate"
+          },
+          "hut": {
+            "description": "Geonosiana Alpha",
+            "intel": "A Brood Alpha leads one Geonosiana brood. The hive rank is earned by proving strength as an arena champion.",
+            "standing_orders": "Killee"
+          }
+        },
         "updated_date": "2026-08-29T11:20:36.133Z"
       }
     ],
@@ -96372,7 +96678,22 @@
           "key": "shipyard_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Kuat Drive Yards",
+            "description": "Główny republikański kontraktor okrętów liniowych i stoczni orbitalnych."
+          },
+          "en": {
+            "name": "Kuat Drive Yards",
+            "description": "Premier Republic capital-ship and orbital-yard contractor."
+          },
+          "hut": {
+            "name": "Kuat Drive Yards",
+            "description": "Republica goodda-keel and orbital yarda contractor."
+          }
+        }
       },
       {
         "id": "corp_rendili_stardrive",
@@ -96403,7 +96724,22 @@
           "key": "fleet_repair_output",
           "value": -0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Rendili StarDrive",
+            "description": "Oszczędny kontraktor morski działający poprzez kampanijne biuro na Fondorze."
+          },
+          "en": {
+            "name": "Rendili StarDrive",
+            "description": "Cost-conscious naval contractor operating through a campaign office on Fondor."
+          },
+          "hut": {
+            "name": "Rendili StarDrive",
+            "description": "Credits-smart naval contractor wamma from Fondor office."
+          }
+        }
       },
       {
         "id": "corp_corellian_engineering",
@@ -96438,7 +96774,22 @@
           "key": "shipyard_construction_cost",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Corellian Engineering Corporation",
+            "description": "Wszechstronny konglomerat projektujący cywilne i wojskowe statki kosmiczne."
+          },
+          "en": {
+            "name": "Corellian Engineering Corporation",
+            "description": "Flexible civilian and military starship engineering conglomerate."
+          },
+          "hut": {
+            "name": "Corellian Engineering Corporation",
+            "description": "Flexible civila and mala starship engineering kajidic."
+          }
+        }
       },
       {
         "id": "corp_hoersch_kessel",
@@ -96470,7 +96821,22 @@
           "key": "shipyard_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Hoersch-Kessel Drive",
+            "description": "Powiązany z separatystami dostawca napędów i okrętów wojennych."
+          },
+          "en": {
+            "name": "Hoersch-Kessel Drive",
+            "description": "Separatist-aligned drive and warship contractor."
+          },
+          "hut": {
+            "name": "Hoersch-Kessel Drive",
+            "description": "Separatista drive and war-keel contractor."
+          }
+        }
       },
       {
         "id": "corp_sinoviet",
@@ -96500,7 +96866,22 @@
           "key": "shipyard_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "SinoViet Heavy Machinery",
+            "description": "Dostawca ciężkiej inżynierii dla infrastruktury morskiej UNSC."
+          },
+          "en": {
+            "name": "SinoViet Heavy Machinery",
+            "description": "Heavy engineering supplier for UNSC naval infrastructure."
+          },
+          "hut": {
+            "name": "SinoViet Heavy Machinery",
+            "description": "Heavy engineering supplier for UNSC keel infrastructure."
+          }
+        }
       },
       {
         "id": "corp_kolaar",
@@ -96530,7 +96911,22 @@
           "key": "shipyard_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Kolaar Manufactorum",
+            "description": "Kampanijna manufaktura obsługująca siły morskie Przymierza."
+          },
+          "en": {
+            "name": "Kolaar Manufactorum",
+            "description": "Campaign manufactorum serving UNKNOWN ENEMY naval forces."
+          },
+          "hut": {
+            "name": "Kolaar Manufactorum",
+            "description": "Campaign manufactorum serving UNKNOWN RIVAL mala-keels."
+          }
+        }
       },
       {
         "id": "corp_rothana",
@@ -96561,7 +96957,22 @@
           "key": "reinforcement_material_cost",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Rothana Heavy Engineering",
+            "description": "Partner ciężkiego uzbrojenia Wielkiej Armii Republiki."
+          },
+          "en": {
+            "name": "Rothana Heavy Engineering",
+            "description": "Heavy materiel partner of the Grand Army of the Republic."
+          },
+          "hut": {
+            "name": "Rothana Heavy Engineering",
+            "description": "Heavy materiel partner of Republica grand army."
+          }
+        }
       },
       {
         "id": "corp_blastech",
@@ -96596,7 +97007,22 @@
           "key": "military_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "BlasTech Industries",
+            "description": "Masowy dostawca wojskowej broni strzeleckiej."
+          },
+          "en": {
+            "name": "BlasTech Industries",
+            "description": "Mass-market military small-arms supplier."
+          },
+          "hut": {
+            "name": "BlasTech Industries",
+            "description": "Mass-market blaster and mala small-arms supplier."
+          }
+        }
       },
       {
         "id": "corp_merr_sonn",
@@ -96631,7 +97057,22 @@
           "key": "reinforcement_mineral_cost",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Merr-Sonn Munitions",
+            "description": "Specjalistyczny dostawca amunicji pola walki i systemów obronnych."
+          },
+          "en": {
+            "name": "Merr-Sonn Munitions",
+            "description": "Specialist battlefield munitions and defensive systems supplier."
+          },
+          "hut": {
+            "name": "Merr-Sonn Munitions",
+            "description": "Specialista battlefield munitions and defense supplier."
+          }
+        }
       },
       {
         "id": "corp_baktoid",
@@ -96662,7 +97103,22 @@
           "key": "reinforcement_mineral_cost",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Baktoid Armor Workshop",
+            "description": "Kontraktor pojazdów opancerzonych i systemów droidów bojowych."
+          },
+          "en": {
+            "name": "Baktoid Armor Workshop",
+            "description": "Armored vehicle and battle-droid systems contractor."
+          },
+          "hut": {
+            "name": "Baktoid Armor Workshop",
+            "description": "Armored vehicle and battle-droid contractor."
+          }
+        }
       },
       {
         "id": "corp_misriah",
@@ -96692,7 +97148,22 @@
           "key": "military_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Misriah Armory",
+            "description": "Główny producent uzbrojenia i pojazdów UNSC."
+          },
+          "en": {
+            "name": "Misriah Armory",
+            "description": "Primary UNSC arms and vehicle manufacturer."
+          },
+          "hut": {
+            "name": "Misriah Armory",
+            "description": "Primary UNSC armsa and vehicle manufacturer."
+          }
+        }
       },
       {
         "id": "corp_sacred_promissory",
@@ -96722,7 +97193,22 @@
           "key": "reinforcement_mineral_cost",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Sacred Promissory",
+            "description": "Kuźnia amunicji Przymierza reprezentowana przez kampanijny zakład na nieznanej planecie."
+          },
+          "en": {
+            "name": "Sacred Promissory",
+            "description": "UNKNOWN ENEMY munitions forge represented by a campaign facility on Unknown Planet."
+          },
+          "hut": {
+            "name": "Sacred Promissory",
+            "description": "UNKNOWN RIVAL munitions forge wamma by Unknown Worlana campaign facility."
+          }
+        }
       },
       {
         "id": "corp_techno_union",
@@ -96753,7 +97239,22 @@
           "key": "structure_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Techno Union",
+            "description": "Gildia technologiczna prowadząca kampanijne biuro przemysłowe na Balmorrze."
+          },
+          "en": {
+            "name": "Techno Union",
+            "description": "Technology guild operating a campaign industrial office on Balmorra."
+          },
+          "hut": {
+            "name": "Techno Union",
+            "description": "Technology guilda wamma industrial office on Balmorra."
+          }
+        }
       },
       {
         "id": "corp_corporate_alliance",
@@ -96784,7 +97285,22 @@
           "key": "credit_income",
           "value": -0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Corporate Alliance",
+            "description": "Konfederacki kombinat przemysłowy oparty na agresywnej konsolidacji."
+          },
+          "en": {
+            "name": "Corporate Alliance",
+            "description": "Confederate industrial combine built around aggressive consolidation."
+          },
+          "hut": {
+            "name": "Corporate Alliance",
+            "description": "Confederate industrial kajidic built on aggressive consolidation."
+          }
+        }
       },
       {
         "id": "corp_sorosuub",
@@ -96819,7 +97335,22 @@
           "key": "industry_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "SoroSuub Corporation",
+            "description": "Zróżnicowany konglomerat przemysłowy o rozległych możliwościach przetwarzania surowców."
+          },
+          "en": {
+            "name": "SoroSuub Corporation",
+            "description": "Diversified industrial conglomerate with extensive resource processing capacity."
+          },
+          "hut": {
+            "name": "SoroSuub Corporation",
+            "description": "Diversified industrial kajidic with goodda resource processing."
+          }
+        }
       },
       {
         "id": "corp_czerka",
@@ -96854,7 +97385,22 @@
           "key": "active_construction_stability",
           "value": -1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Czerka Corporation",
+            "description": "Ekspansjonistyczny kontraktor znany z szybkich i społecznie kosztownych projektów."
+          },
+          "en": {
+            "name": "Czerka Corporation",
+            "description": "Expansionist contractor known for rapid and socially costly projects."
+          },
+          "hut": {
+            "name": "Czerka Corporation",
+            "description": "Expansionista contractor known for fast, people-costly projects."
+          }
+        }
       },
       {
         "id": "corp_traxus",
@@ -96884,7 +97430,22 @@
           "key": "industry_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Traxus Heavy Industries",
+            "description": "Dostawca przemysłu wielkoskalowego i infrastruktury dla ludzkości."
+          },
+          "en": {
+            "name": "Traxus Heavy Industries",
+            "description": "Large-scale human industrial and infrastructure supplier."
+          },
+          "hut": {
+            "name": "Traxus Heavy Industries",
+            "description": "Goodda human industrial and infrastructure supplier."
+          }
+        }
       },
       {
         "id": "corp_high_charity_forges",
@@ -96914,7 +97475,22 @@
           "key": "structure_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "name": "Kuźnie Montażowe High Charity",
+            "description": "Główna sieć kuźni montażowych Przymierza reprezentowana przez kompleks kampanijny."
+          },
+          "en": {
+            "name": "Assembly Forges of High Charity",
+            "description": "Primary UNKNOWN ENEMY assembly-forge network represented by a campaign complex."
+          },
+          "hut": {
+            "name": "Assembly Forges of High Charity",
+            "description": "Primary UNKNOWN RIVAL assembly-forge koona wamma by campaign complex."
+          }
+        }
       },
       {
         "id": "corp_trade_federation",
@@ -96947,7 +97523,22 @@
           "key": "structure_upkeep",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Federacja Handlowa",
+            "description": "Międzygwiezdny kombinat transportowy wpływający na obie strony Wojen Klonów."
+          },
+          "en": {
+            "name": "Trade Federation",
+            "description": "Interstellar shipping combine with influence on both sides of the Clone Wars."
+          },
+          "hut": {
+            "name": "Trade Federation",
+            "description": "Interstellar shipping kajidic with pull on both Clone Mala sides."
+          }
+        }
       },
       {
         "id": "corp_commerce_guild",
@@ -96980,7 +97571,22 @@
           "key": "commodity_buy_price",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Gildia Handlowa",
+            "description": "Kartel towarowy działający poprzez kampanijne biuro na Ord Mantell."
+          },
+          "en": {
+            "name": "Commerce Guild",
+            "description": "Commodity cartel operating through an Ord Mantell campaign office."
+          },
+          "hut": {
+            "name": "Commerce Guild",
+            "description": "Commodity kartel wamma through Ord Mantell office."
+          }
+        }
       },
       {
         "id": "corp_igbc",
@@ -97015,7 +97621,22 @@
           "key": "commodity_buy_price",
           "value": 0.05
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "InterGalaktyczny Klan Bankowy",
+            "description": "Galaktyczny kredytodawca oferujący preferencyjne finansowanie strategicznym klientom."
+          },
+          "en": {
+            "name": "InterGalactic Banking Clan",
+            "description": "Galactic lender offering preferred financing to strategic clients."
+          },
+          "hut": {
+            "name": "InterGalactic Banking Clan",
+            "description": "Galaxa lender offering goodda financing to strategic clients."
+          }
+        }
       },
       {
         "id": "corp_hutt_smuggling",
@@ -97048,7 +97669,22 @@
           "key": "smuggling_market_pressure",
           "value": 0.25
         },
-        "archived": false
+        "archived": false,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "name": "Huttański Syndykat Przemytniczy",
+            "description": "Kampanijny syndykat koordynujący logistykę szarego rynku."
+          },
+          "en": {
+            "name": "Hutt Smuggling Syndicate",
+            "description": "Campaign syndicate coordinating shadow-market logistics."
+          },
+          "hut": {
+            "name": "Hutt Smuggling Syndicate",
+            "description": "Campaign kajidic coordinating shadow-market koona."
+          }
+        }
       },
       {
         "id": "corp_amg_transport",
@@ -97078,7 +97714,22 @@
           "key": "commodity_buy_price",
           "value": 0.1
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "AMG Transport Dynamics",
+            "description": "Powiązany z UNSC dostawca transportu i logistyki kampanijnej."
+          },
+          "en": {
+            "name": "AMG Transport Dynamics",
+            "description": "UNSC-aligned transport and campaign logistics provider."
+          },
+          "hut": {
+            "name": "AMG Transport Dynamics",
+            "description": "UNSC-aligned transporta and campaign logistics provider."
+          }
+        }
       },
       {
         "id": "corp_merchants_qikost",
@@ -97108,7 +97759,22 @@
           "key": "market_pressure",
           "value": 0.2
         },
-        "archived": false
+        "archived": false,
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Kupcy z Qikost",
+            "description": "Sieć kupców Przymierza reprezentowana przez kampanijną enklawę."
+          },
+          "en": {
+            "name": "Merchants of Qikost",
+            "description": "UNKNOWN ENEMY merchant network represented by a campaign enclave."
+          },
+          "hut": {
+            "name": "Merchants of Qikost",
+            "description": "UNKNOWN RIVAL merchant koona wamma by campaign enclave."
+          }
+        }
       }
     ]
   },
