@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "1793300231449-1793303518064-431c7d991f04",
+  "version": "1793300231449-1793303781120-df31c8784b71",
   "hashes": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "404.html": "479a0077536c5eae0a373b707942d3d93799a16721ffa869d60cbf1f4ea75f8f",
@@ -1167,14 +1167,14 @@
     "sounds/ground-battle/radio/hutts.mp3": "46999878d19cd7641cc5743f4f5d270aae656c69bb461fabf2b9604321569fdc",
     "sounds/ground-battle/radio/independent.mp3": "abc584530769424c9c0301ca32f47a0bf0585418ad5d82bfe9c412f481157bbc",
     "sounds/ground-battle/radio/unsc.mp3": "3d1380e3c6a7b66593b236afca02171b1403f378f09a20697ce036e0a4e736b9",
-    "viewer-release.json": "e383d455d4b0187d8adb464ae7982eff51a501ca943e21678a7188b24ef4cc5a",
-    "viewer-snapshot.json": "01fa277a3e87ec4d32623a092ba5c61297357e8a4b968a74adecb7cbf9036105"
+    "viewer-release.json": "fbfb0040a2f124473a541d9ea15d56ac459dd7e526f57605ebe775784c7ef53f",
+    "viewer-snapshot.json": "03c88e93aaadf21f9ace45c7654b3587b6413df3585635d2394a9f8ea88a9b9d"
   },
   "campaign_version": 1793300231449,
-  "published_at": "2026-10-29T19:51:58.064Z",
+  "published_at": "2026-10-29T19:56:21.120Z",
   "base_path": "/Mapa-Galaktyczna-Offline/",
   "total_files": 1169,
-  "total_bytes": 113738171,
+  "total_bytes": 114035191,
   "files": [
     ".nojekyll",
     "404.html",
