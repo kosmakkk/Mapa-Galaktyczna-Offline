@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1793300231449,
-  "published_at": "2026-10-29T19:56:21.120Z",
+  "published_at": "2026-10-29T20:27:56.188Z",
   "source_data_updated_at": "2026-10-29T18:57:11.449Z",
   "entities": {
     "Planet": [
@@ -8976,7 +8976,7 @@
           "pl": {
             "climate": "Wyżyny burz elektromagnetycznych",
             "population": "200 milionów",
-            "description": ""
+            "description": "Zeffo jest skalistym światem bogatym w wodę i podtrzymującym trwały ekosystem. Niewielkie osady regularnie zmagają się z elektromagnetycznymi wichrami, które zagrażają łączności i infrastrukturze. Liczne budynki wzniesiono bezpośrednio w skalnych zboczach, wykorzystując naturalną osłonę terenu przed niszczycielską pogodą."
           },
           "en": {
             "climate": "Electrostorm highlands",
@@ -8986,7 +8986,7 @@
           "hut": {
             "climate": "Electrostorm highlands",
             "population": "200 million sentients",
-            "description": ""
+            "description": "Zeffo is a rocky water-rich world with a stable ecosystem. Electromagnetic winds repeatedly strike its small settlements, threatening comms and machinery. Many buildings are cut into rock faces, using the land itself as protection from the hostile weather."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -9128,7 +9128,7 @@
           "pl": {
             "climate": "Oceaniczny",
             "population": "20 milionów",
-            "description": ""
+            "description": "Pabu jest niewielkim, często pomijanym światem niemal całkowicie pokrytym jasnoniebieskimi oceanami. Pośród wód rozrzucone są liczne wysepki, z których część mieści małe osady. Jedna z nich służy jako bezpieczne schronienie dla osób wypędzonych z własnych domów, nadając spokojnej planecie szczególne znaczenie humanitarne."
           },
           "en": {
             "climate": "Oceanic",
@@ -9138,7 +9138,7 @@
           "hut": {
             "climate": "Oceanic world",
             "population": "20 million sentients",
-            "description": ""
+            "description": "Pabu is a tiny overlooked world of bright blue ocean and scattered islands. Several islands hold small settlements; one offers refuge to people driven from their homes. The planet's quiet isolation has become a humanitarian asset greater than any market wealth."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -9268,7 +9268,7 @@
           "pl": {
             "climate": "Wilgotny las deszczowy",
             "population": "150 milionów",
-            "description": ""
+            "description": "Ajan Kloss jest księżycem olbrzyma gazowego, który częściowo osłania go przed promieniowaniem miejscowej gwiazdy. Powierzchnię pokrywa rozległy las, przerywany polanami pozostawionymi przez dawną cywilizację i urwiskami porośniętymi roślinnością. Stała wilgoć sprzyja grzybom, uszkadza elektronikę i wywołuje infekcje, czyniąc długotrwałą obecność wymagającą dla ludzi oraz sprzętu."
           },
           "en": {
             "climate": "Humid Rainforest",
@@ -9278,7 +9278,7 @@
           "hut": {
             "climate": "Humid rainworld",
             "population": "150 million sentients",
-            "description": ""
+            "description": "Ajan Kloss is a moon sheltered from stellar radiation by its gas giant. One immense forest covers the surface, broken by old clearings and cliff-bound growth. Constant moisture damages electronics and breeds fungal infection, making every long stay expensive in maintenance and medicine."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -9434,7 +9434,7 @@
           "pl": {
             "climate": "Umiarkowany klimat alpejski",
             "population": "1.5 miliardów",
-            "description": ""
+            "description": "Kaller jest umiarkowanym światem czerwonych, ośnieżonych gór, jezior i lasów iglastych. Kallerianie mieszkają zarówno w prostych kamiennych wioskach, jak i nowoczesnych miastach wzniesionych na szczytach. Bujna przyroda tworzy bogaty ekosystem. Położenie pośród systemów kontrolowanych przez Klan Bankowy nadaje planecie istotne znaczenie polityczne i strategiczne."
           },
           "en": {
             "climate": "Alpine temperate",
@@ -9444,7 +9444,7 @@
           "hut": {
             "climate": "Mild alpine world",
             "population": "1.5 billion sentients",
-            "description": ""
+            "description": "Kaller is a mild-world of red snowcapped mountains, lakes, and pine forests. Kallerians live in stone villages and modern cities on high peaks. Rich nature surrounds a politically important world bordered by Banking Clan systems."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -9596,7 +9596,7 @@
           "pl": {
             "climate": "Alpejski ośrodek finansowy",
             "population": "500 milionów",
-            "description": ""
+            "description": "Scipio jest jednym z najważniejszych światów Klanu Bankowego, mieszczącym jego skarbce i luksusowe ośrodki wypoczynkowe. Pośród śnieżnych gór stoją nowoczesne wille oraz ogromne miasta-skarbce oparte na długich podporach. Elity zawierają tu wielkie umowy handlowe, a bogactwo wyznacza pozycję społeczną znacznie skuteczniej niż pochodzenie czy zasługi."
           },
           "en": {
             "climate": "Alpine financial",
@@ -9606,7 +9606,7 @@
           "hut": {
             "climate": "Alpine credit-world",
             "population": "500 million sentients",
-            "description": ""
+            "description": "Scipio is a principal Banking Clan world of vaults and mountain retreats. Villas and immense vault-cities stand above snow on long supports. Great contracts are signed in lavish homes, and credits speak louder than people. Finance is landscape, government, and social rank alike."
           }
         },
         "updated_date": "2026-10-01T14:03:17.283Z"
@@ -9737,7 +9737,7 @@
           "pl": {
             "climate": "Złomowy świat przemysłowy",
             "population": "1 miliard",
-            "description": ""
+            "description": "Mieszkańcy Ferrix tworzą zwarte wspólnoty skupione wokół lądowisk i złomowanych statków. Wiele podsektorów nadal nosi ślady dawnych rządów korporacyjnych sprzed przyłączenia regionu do Republiki. Położenie między ważnymi trasami nadprzestrzennymi czyni planetę kluczowym punktem koncentracji wojsk i logistyki przed dalszymi operacjami wzdłuż tych szlaków."
           },
           "en": {
             "climate": "Scrap industrial",
@@ -9747,7 +9747,7 @@
           "hut": {
             "climate": "Scrap industry-world",
             "population": "1 billion sentients",
-            "description": ""
+            "description": "Ferrix communities crowd around parked ships and salvage yards. Corporate subsectors remain from the era before the region joined Republica. Its position between major hyperspace lanes makes the world a valuable staging ground for mass deployment and cargo moving farther down those routes."
           }
         },
         "updated_date": "2026-10-01T13:44:58.249Z"
@@ -9919,7 +9919,7 @@
           "pl": {
             "climate": "Wulkaniczny",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Lola Sayu jest częściowo zniszczonym światem pełnym lawy, urwisk i niestabilnego terenu. Znajduje się tu Cytadela — ściśle strzeżone więzienie o najwyższym poziomie zabezpieczeń. Wrogie środowisko wzmacnia naturalną izolację kompleksu, utrudniając zarówno ucieczkę, jak i zewnętrzny szturm."
           },
           "en": {
             "climate": "Volcanic",
@@ -9929,7 +9929,7 @@
           "hut": {
             "climate": "Volcanic world",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Lola Sayu is a half-destroyed world of lava and sheer cliffs. It holds the Citadel, a maximum-security prison whose defenses exploit the lethal terrain. Nature and fortification together make escape or assault an exceptionally costly bargain."
           }
         },
         "updated_date": "2026-10-01T14:01:19.140Z"
@@ -10076,7 +10076,7 @@
           "pl": {
             "climate": "Świat kwaśnych burz",
             "population": "500 milionów",
-            "description": ""
+            "description": "Jabiim jest światem niemal codziennych burz, kwaśnego deszczu i elektrycznych trąb powietrznych niszczących lekkie pojazdy. Zjonizowana atmosfera utrudnia łączność, wsparcie lotnicze oraz działanie napędów repulsorowych. Republika ograniczyła stałą obecność, koncentrując się na szybkim wydobyciu bogatych zasobów. Dawne oceany i bambusowe lasy deszczowe ustępują zniszczeniom oraz pustynnieniu, wzmacniając nacjonalistyczny sprzeciw mieszkańców wobec eksploatacji planety."
           },
           "en": {
             "climate": "Acid stormworld",
@@ -10086,7 +10086,7 @@
           "hut": {
             "climate": "Acid-storm world",
             "population": "500 million sentients",
-            "description": ""
+            "description": "Jabiim suffers near-constant storms, acid rain, and electrical vortices that destroy light machines. Ionized air blocks long comms, gunships, and repulsors. Republica largely abandoned stewardship for rapid extraction of rich resources. Former oceans and bamboo rainforests now yield to ruin and desert, feeding Jabiimi nationalist anger."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -10242,7 +10242,7 @@
           "pl": {
             "climate": "Zielone ruiny",
             "population": "Brak stałej ludności",
-            "description": ""
+            "description": "Boz Pity jest niezamieszkanym światem o jasnozielonej roślinności, niewielkich oceanach, kamienistych polach, trawiastych równinach i piaszczystych dolinach. Wśród gór i obniżeń terenu stoją monumentalne pomniki śmierci pozostawione przez wymarły gatunek. To właśnie te relikty nadają planecie największą wartość historyczną i archeologiczną."
           },
           "en": {
             "climate": "Verdant ruins",
@@ -10252,7 +10252,7 @@
           "hut": {
             "climate": "Verdant ruins",
             "population": "No permanent sentients",
-            "description": ""
+            "description": "Boz Pity is an uninhabited world of bright green growth, small seas, rock fields, grassland, and sandy valleys. Mountains and hollows contain death monuments left by an extinct species. Those relics are its greatest historical and archaeological wealth."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -10393,7 +10393,7 @@
           "pl": {
             "climate": "Suche pustynie",
             "population": "Brak stałej ludności",
-            "description": ""
+            "description": "Ruusan ma skąpą roślinność, jaskrawozielone wody oraz powierzchnię mieniącą się w słońcu odcieniami lawendy i złota. Jedi znają planetę dzięki tajemniczej Dolinie Jedi. Dostęp utrudnia pobliska mgławica odcinająca trasy nadprzestrzenne, co chroni miejsce przed przypadkowymi przybyszami i podtrzymuje jego odosobniony, niemal mityczny charakter."
           },
           "en": {
             "climate": "Dry Deserts",
@@ -10403,7 +10403,7 @@
           "hut": {
             "climate": "Dry dune-worlds",
             "population": "No permanent sentients",
-            "description": ""
+            "description": "Ruusan has sparse plant life, bright green waters, and land shining lavender and gold in sunlight. Jedi records speak of the Valley of the Jedi. A nearby nebula severs hyperspace routes, guarding the world through isolation and preserving its near-mythic character."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -10560,7 +10560,7 @@
           "pl": {
             "climate": "Pustkowie kwaśnych deszczów",
             "population": "50 milionów",
-            "description": ""
+            "description": "Bracca jest skalistym, niegościnnym światem nawiedzanym przez niemal nieustanne opady. Powierzchnię wypełniają ogromne złomowiska wycofanych i niezdatnych do użycia statków kosmicznych, które oczekują na rozbiórkę. Gospodarka opiera się na odzysku metali, części i wyposażenia, a deszcz oraz trudny teren zwiększają ryzyko pracy."
           },
           "en": {
             "climate": "Acid rain wasteland",
@@ -10570,7 +10570,7 @@
           "hut": {
             "climate": "Acid-rain wasteland",
             "population": "50 million sentients",
-            "description": ""
+            "description": "Bracca is a rocky hostile world beneath almost endless rain. Vast yards hold dead starships awaiting dismantling. Salvage of metal, parts, and equipment drives the economy, while weather and unstable wrecks add danger to every recovered credit."
           }
         },
         "updated_date": "2026-10-01T14:02:33.992Z"
@@ -10700,7 +10700,7 @@
           "pl": {
             "climate": "Pionowe wyżyny",
             "population": "400 000",
-            "description": ""
+            "description": "Dotharian tworzą niemal wyłącznie pionowe skalne urwiska, na których ścianach roślinność rozwija się w nienaturalny sposób. Nieliczne zamki i świątynie wiszą przytwierdzone do gór, wykorzystując każdy dostępny występ. Osadnictwo wymaga niezwykłej inżynierii i sprawnego transportu pionowego, a sam krajobraz nadaje budowlom charakter odosobnionych twierdz."
           },
           "en": {
             "climate": "Vertical highlands",
@@ -10710,7 +10710,7 @@
           "hut": {
             "climate": "Vertical highlands",
             "population": "400,000 sentients",
-            "description": ""
+            "description": "Dotharian is a world of sheer rock cliffs where plants grow unnaturally upon vertical faces. A few castles and temples hang from the mountains. Settlement demands rare engineering and vertical transport, turning each structure into an isolated natural fortress."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10842,7 +10842,7 @@
           "pl": {
             "climate": "Niezdatny do zamieszkania",
             "population": "2000",
-            "description": ""
+            "description": "Niewielki księżyc Syvris jest stałym ośrodkiem handlu dla klientów utrzymujących relacje z Huttami. Piraci często pojawiają się w pobliskiej przestrzeni, lecz huttiańscy władcy chronią dochodowe trasy. Większość operacji prowadzi duża stacja kosmiczna na orbicie, skupiająca przeładunek, negocjacje i zabezpieczenie handlu."
           },
           "en": {
             "climate": "Uninhabitable",
@@ -10852,7 +10852,7 @@
           "hut": {
             "climate": "Uninhabitable",
             "population": "2,000 sentients",
-            "description": ""
+            "description": "Syvris is a small moon serving repeat customers of the Hutts. Pirates frequent nearby space, but Hutt rulers protect profitable routes. A large orbital station handles cargo, negotiation, and security, making the moon a compact but reliable trade hub."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -10993,7 +10993,7 @@
           "pl": {
             "climate": "Dziki świat umiarkowany",
             "population": "1.5 miliardów",
-            "description": ""
+            "description": "Gamorr obejmuje strefy od tundry po dżunglę i jest ojczyzną Gamorrean prowadzących nieustanne wojny plemienne. Wojownicy służą jako najemnicy za towary, lecz nienawidzą Huttów za regularne niewolenie ich ludu. Zygerriański dowódca Daynar utworzył tu bazę zaopatrzeniową CIS obsługiwaną przez niewolników, naruszając huttiański monopol. Huttowie prowadzą także wielkie wyścigi ścigaczy przy ruinach twierdzy Carnuss Gorguul."
           },
           "en": {
             "climate": "Wild temperate",
@@ -11003,7 +11003,7 @@
           "hut": {
             "climate": "Wild mild-world",
             "population": "1.5 billion sentients",
-            "description": ""
+            "description": "Gamorr ranges from tundra to jungle and is home to tribal Gamorrean warriors who sell service for goods. They hate Hutt slavers. Zygerrian Commander Daynar now runs a slave-worked CIS depot, challenging the old Hutt monopoly. The Hutts also profit from a major podrace at ruined Carnuss Gorguul Fortress."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11124,7 +11124,7 @@
           "pl": {
             "climate": "Górzysta tundra",
             "population": "20 milionów",
-            "description": ""
+            "description": "Rothana jest arktycznym światem o najwyższym znaczeniu dla zaopatrzenia armii Republiki w pojazdy. Orbitę otacza rozległa sieć doków o strukturze plastra miodu, gdzie Kuat Drive Yards opracowuje i produkuje przyszłe maszyny wojenne. Utrata planety zagroziłaby kluczowym liniom produkcyjnym, dlatego jej ochrona pozostaje priorytetem strategicznym."
           },
           "en": {
             "climate": "Mountainous Tundra",
@@ -11134,7 +11134,7 @@
           "hut": {
             "climate": "Mountain tundra",
             "population": "20 million sentients",
-            "description": ""
+            "description": "Rothana is an arctic world supplying Republica armies with vehicles. Honeycomb docks surround much of its orbit, where Kuat Drive Yards builds future mala machines. Losing the planet would break vital production lines, making its defense a strategic priority."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11267,7 +11267,7 @@
           "pl": {
             "climate": "Toksyczny i jałowy",
             "population": "90 milionów",
-            "description": ""
+            "description": "Fetilia leży przy Gamor Run w Środkowych Rubieżach i należy do Huttów. Rodzimi Fetillianie oddychają tibanną, gdyż atmosfera nie nadaje się dla organizmów tlenowych. Jałowy, skalisty świat przypomina asteroidę i pozostaje słabo broniony. Jego główną wartością są obfite złoża tibanny w postaci gazowej i ciekłej, naturalnie obojętnej dzięki miejscowym pierwiastkom ograniczającym jej palność."
           },
           "en": {
             "climate": "Toxic barren",
@@ -11277,7 +11277,7 @@
           "hut": {
             "climate": "Toxic barren world",
             "population": "90 million sentients",
-            "description": ""
+            "description": "Fetilia lies on the Gamor Run under Hutt control. Native Fetillians breathe tibanna; oxygen life cannot survive its barren air. The weakly defended rock-world holds abundant liquid and gaseous tibanna, rendered inert by local elements. That fuel is its only great strategic profit."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -11432,7 +11432,7 @@
           "pl": {
             "climate": "Pusta przestrzeń",
             "population": "Brak stałej ludności",
-            "description": ""
+            "description": "Trillia jest wielką asteroidą, zbyt małą, by uznać ją za planetę, zamieszkaną przez niesławne karłowate rathtary. Przemytnicy postrzegają wyprawę na ten obiekt jako wyjątkowo ryzykowny sposób zdobycia fortuny. Nawet w ich środowisku uczestników takich przedsięwzięć uznaje się za lekkomyślnych, co świadczy o skali zagrożenia."
           },
           "en": {
             "climate": "Empty Space",
@@ -11442,7 +11442,7 @@
           "hut": {
             "climate": "Empty void",
             "population": "No permanent sentients",
-            "description": ""
+            "description": "Trillia is a large asteroid below planet size and home to dwarf rathtars. Smugglers know it as a deadly path to fortune. Even other smugglers despise or mock those who take the wager, revealing how poor the odds truly are."
           }
         },
         "updated_date": "2026-10-01T14:02:33.992Z"
@@ -11600,7 +11600,7 @@
           "pl": {
             "climate": "Tropikalny",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Aridus w większości pokrywają pustynie, pośród których występują wulkany i rozlewiska lawy. Nieliczne oazy oraz jeziora umożliwiają stałe osadnictwo. Rozproszone miasta zwykle wznoszą się tuż przy wodzie w postaci wysokich, iglicowych wież. Kontrola nad zbiornikami decyduje o rozmieszczeniu ludności i gospodarczym przetrwaniu świata."
           },
           "en": {
             "climate": "Tropical",
@@ -11610,7 +11610,7 @@
           "hut": {
             "climate": "Tropica",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Aridus is mostly desert broken by volcanoes, lava pits, oases, and a few lakes. Sparse settlements rise as spire-cities beside water. Control of each oasis determines population, trade, and survival."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -11756,7 +11756,7 @@
           "pl": {
             "climate": "Oceaniczny, zasilany przez burze",
             "population": "3 miliardy",
-            "description": ""
+            "description": "Leritor jest światem zdominowanym przez oceany. Na kontynentach występują niezwykle żyzne równiny, nawadniane przez niemal nieustanne burze deszczowe powstające w górach. Obfitość wody sprzyja rolnictwu, lecz wymaga infrastruktury odpornej na długotrwałe opady i gwałtowne spływy z wyżej położonych terenów."
           },
           "en": {
             "climate": "Storm-fed oceanic",
@@ -11766,7 +11766,7 @@
           "hut": {
             "climate": "Storm-fed ocean-world",
             "population": "3 billion sentients",
-            "description": ""
+            "description": "Leritor is mostly ocean. Its continents hold fertile plains watered by endless mountain rainstorms. Water creates strong agricultural profit, but settlements require durable drainage and storm-resistant koona."
           }
         },
         "updated_date": "2026-10-01T14:03:17.283Z"
@@ -11916,7 +11916,7 @@
           "pl": {
             "climate": "Las deszczowy",
             "population": "250 milionów",
-            "description": ""
+            "description": "Monastery spowija las deszczowy pełen groźnych drapieżników i niezwykłych form terenu. Szczególnym miejscem jest Kryształowa Dolina, gdzie ostre struktury krystaliczne wyrastają wysoko ponad powierzchnię. Nowe kryształy mogą gwałtownie przebić ziemię bez ostrzeżenia, czyniąc eksplorację i osadnictwo nieprzewidywalnymi oraz niebezpiecznymi."
           },
           "en": {
             "climate": "Rainforest",
@@ -11926,7 +11926,7 @@
           "hut": {
             "climate": "Rainforest",
             "population": "250 million sentients",
-            "description": ""
+            "description": "Monastery is engulfed by rainforest and fierce predators beneath bizarre terrain. In Crystal Valley, jagged formations rise from the ground and may erupt without warning. Exploration promises rare material but carries sudden lethal risk."
           }
         },
         "updated_date": "2026-09-25T17:45:22.031Z"
@@ -12080,7 +12080,7 @@
           "pl": {
             "climate": "Umiarkowany",
             "population": "5 miliardów",
-            "description": ""
+            "description": "Nexus Ortai leży na przecięciu Reena Trade Route i Askar Trace, dzięki czemu stanowi strategiczny węzeł handlowy Środkowych Rubieży. Spokojna planeta słynie z licznych targowisk i postoju dla frachtowców, oferującego posiłek, wypoczynek oraz naprawy. Poza portami krajobraz tworzą łagodne wzgórza i malownicze jeziora, co wzmacnia znaczenie świata jako bezpiecznego przystanku."
           },
           "en": {
             "climate": "Temperate",
@@ -12090,7 +12090,7 @@
           "hut": {
             "climate": "Mild world",
             "population": "5 billion sentients",
-            "description": ""
+            "description": "Nexus Ortai sits where Reena Trade Route meets Askar Trace. Its freighter stop sells food, rest, repairs, and access to many markets. Rolling hills and scenic lakes surround this peaceful strategic crossroads, making safety itself a valuable service."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -12218,7 +12218,7 @@
           "pl": {
             "climate": "Lodowaty klimat alpejski",
             "population": "10 milionów",
-            "description": ""
+            "description": "Carlac jest śnieżnym światem gór i równin. Mimo dotkliwego chłodu rosną tam drzewa zachowujące przez cały rok jaskraworóżowe liście. Planetę zamieszkuje pokojowy ludzki klan Ming Po, którego osady współistnieją z niezwykłą roślinnością. Kontrast bieli śniegu i różowych koron stanowi najbardziej rozpoznawalną cechę krajobrazu."
           },
           "en": {
             "climate": "Frigid alpine",
@@ -12228,7 +12228,7 @@
           "hut": {
             "climate": "Frigid alpine",
             "population": "10 million sentients",
-            "description": ""
+            "description": "Carlac is a snowy world of mountains and plains where trees keep bright pink leaves through the cold year. The peaceful human Ming Po clan lives among them. White land and vivid canopies form the planet's unmistakable image."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -12371,7 +12371,7 @@
           "pl": {
             "climate": "PUSTYNIA NUKLEARNA",
             "population": "4 miliardy",
-            "description": ""
+            "description": "Kholo jest ludzką kolonią zewnętrzną w układzie Equinox, założoną w 2439 roku i zamieszkaną przez miliony przed wykryciem przez Przymierze. Źródła opisują zasiedlony, słabo broniony świat, lecz niewiele mówią o pierwotnym terenie i gospodarce. Kampania przedstawia go jako spaloną nuklearną pustynię. Historia planety wynika z bezbronności kolonii i narażenia na rozpoznanie Przymierza, nie z polityki innego uniwersum."
           },
           "en": {
             "climate": "NUCLEAR DESERT",
@@ -12381,7 +12381,7 @@
           "hut": {
             "climate": "NUCLEAR WASTELAND",
             "population": "4 billion sentients",
-            "description": ""
+            "description": "Kholo is a human Outer Colony founded in 2439 in the Equinox system. Millions lived on the weakly defended world before UNKNOWN RIVAL discovery. Original terrain and economy are poorly recorded; campaign surveys show a scorched nuclear wasteland. Its history is one of exposed settlements and hostile reconnaissance."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -12513,7 +12513,7 @@
           "pl": {
             "climate": "Głębinowy oceaniczny",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Glee Anselm jest planetą oceaniczną z niewielką ilością lądu. Rozumne gatunki mieszkają głęboko pod powierzchnią morza, gdzie ciemność wymaga widzenia nocnego. Nieliczne wyspy mieszczą dżungle, góry i trawiaste równiny. Zasadnicza część cywilizacji oraz zasobów biologicznych pozostaje jednak związana z głębinami."
           },
           "en": {
             "climate": "Deep oceanic",
@@ -12523,7 +12523,7 @@
           "hut": {
             "climate": "Deep ocean-world",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Glee Anselm is an ocean-world with little land. Sentient peoples live deep below, using night vision in the dark water. Scattered islands hold jungle, mountains, and grassland, but most civilization and living wealth belong to the sea."
           }
         },
         "updated_date": "2026-10-01T13:49:57.335Z"
@@ -12677,7 +12677,7 @@
           "pl": {
             "climate": "Bujny klimat tropikalny",
             "population": "3 miliardy",
-            "description": ""
+            "description": "Numidian Prime uchodzi za jeden z najpiękniejszych światów dżunglowych galaktyki. Bujną roślinność przecinają liczne rzeki wpadające do rozproszonych mórz, a miejscami występują mokradła. Egzotyczny krajobraz czyni planetę atrakcyjnym celem podróży i podstawą gospodarki turystycznej."
           },
           "en": {
             "climate": "Lush tropical",
@@ -12687,7 +12687,7 @@
           "hut": {
             "climate": "Lush tropica",
             "population": "3 billion sentients",
-            "description": ""
+            "description": "Numidian Prime is famed as one of the galaxy's most beautiful jungle worlds. Rivers cross lush land toward scattered seas and swamps. Exotic scenery makes tourism the planet's clearest and most pleasant profit."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -12845,7 +12845,7 @@
           "pl": {
             "climate": "Toksyczny świat przemysłowy",
             "population": "10 milionów",
-            "description": ""
+            "description": "Markez jest dużym księżycem krążącym wokół niezdatnej do życia planety. Połowę jego powierzchni zajmuje kopalnia rhydonium — niezwykle niestabilnego paliwa okrętowego. Skala wydobycia nadaje obiektowi wysoką wartość strategiczną, lecz łatwopalność surowca sprawia, że awaria lub atak mogłyby doprowadzić do katastrofalnych skutków."
           },
           "en": {
             "climate": "Toxic industrial",
@@ -12855,7 +12855,7 @@
           "hut": {
             "climate": "Toxic industry-world",
             "population": "10 million sentients",
-            "description": ""
+            "description": "Markez is a large moon of an uninhabitable planet. A rhydonium mine covers half its surface, extracting highly unstable starship fuel. The scale promises strategic profit, but accident or attack could turn the whole operation into catastrophe."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -12986,7 +12986,7 @@
           "pl": {
             "climate": "Burzliwy",
             "population": "15 milionów",
-            "description": ""
+            "description": "Dorin jest niewielkim światem uwięzionym pomiędzy dwiema czarnymi dziurami. Niemal pozbawiona tlenu atmosfera i gwałtowna pogoda utrudniają życie poza schronieniami. Krajobraz tworzą góry z rozległymi płaskowyżami, na których osady muszą być przygotowane na nagłe, niszczycielskie burze. Warunki orbitalne i atmosferyczne czynią planetę wyjątkowo wymagającą."
           },
           "en": {
             "climate": "Stormy",
@@ -12996,7 +12996,7 @@
           "hut": {
             "climate": "Stormy world",
             "population": "15 million sentients",
-            "description": ""
+            "description": "Dorin is a small world between two black holes. Its air holds almost no oxygen, and violent storms make exposed travel dangerous. Mountains and broad plateaus offer settlement ground, but every habitat must endure extreme orbital and atmospheric conditions."
           }
         },
         "updated_date": "2026-10-01T13:51:34.086Z"
@@ -13143,7 +13143,7 @@
           "pl": {
             "climate": "Zrujnowany świat oceaniczny",
             "population": "Niezamieszkana",
-            "description": ""
+            "description": "Rakata Prime, zwana przez mieszkańców Lehonem, jest oceanicznym światem licznych wysp i archipelagów oraz jedyną zdatną do życia planetą układu. Izolacja sprzyjała szybkiemu rozwojowi technologii Rakatan, lecz późniejsze konflikty plemienne doprowadziły ich cywilizację do upadku. Dziś planeta pozostaje opuszczona i milcząca. Po dawnym imperium przetrwały artefakty, relikty oraz szczątki olbrzymich konstrukcji."
           },
           "en": {
             "climate": "Ruined oceanic",
@@ -13153,7 +13153,7 @@
           "hut": {
             "climate": "Ruined ocean-world",
             "population": "Uninhabited",
-            "description": ""
+            "description": "Rakata Prime, or Lehon, is an isolated ocean-world of islands and the only habitable planet in its system. Rakatan technology rose swiftly, but tribal wars consumed the civilization. The world now stands silent, holding artifacts, relics, and remnants of ancient superstructures as its final inheritance."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -13288,7 +13288,7 @@
           "pl": {
             "climate": "Przemysłowa pustynia",
             "population": "5 miliardów",
-            "description": ""
+            "description": "Lafete jest pustynnym światem podporządkowanym fabrykom i wielkim korporacjom. Intensywna eksploatacja wyjałowiła ziemię, uniemożliwiając dalsze wykorzystanie rolnicze. Opustoszały krajobraz oraz rozległa infrastruktura przemysłowa przyciągają zbiegów i wędrowców szukających anonimowości. Gospodarczy rozwój pozostawił po sobie produkcję, lecz odebrał planecie naturalną zdolność podtrzymywania życia."
           },
           "en": {
             "climate": "Industrial desert",
@@ -13298,7 +13298,7 @@
           "hut": {
             "climate": "Industrial dune-world",
             "population": "5 billion sentients",
-            "description": ""
+            "description": "Lafete is a desert world drained by factories and megacorporations until its soil could no longer farm. Barren land and industrial ruins attract fugitives and wanderers seeking anonymity. Corporate profit survived longer than the planet's fertility."
           }
         },
         "updated_date": "2026-10-01T13:44:58.249Z"
@@ -13432,7 +13432,7 @@
           "pl": {
             "climate": "Sucha pustynia",
             "population": "Brak stałej ludności",
-            "description": ""
+            "description": "Merokia jest niezamieszkaną, słabo rozpoznaną planetą pustynną w pobliżu Nieznanych Regionów. Na powierzchni znajdują się nieliczne wraki zniszczonych statków, lecz dostępne źródła nie wyjaśniają ich pochodzenia. Brak osadnictwa i udokumentowanych zasobów sprawia, że świat pozostaje przede wszystkim odległym miejscem katastrof oraz potencjalnym celem badań lub odzysku."
           },
           "en": {
             "climate": "Dry Desert",
@@ -13442,7 +13442,7 @@
           "hut": {
             "climate": "Dry dune-world",
             "population": "No permanent sentients",
-            "description": ""
+            "description": "Merokia is an uninhabited, poorly surveyed desert near the Unknown Regions. A few fields of wrecked ships mark its surface, with no clear record of their origin. The world offers little beyond salvage, unanswered disaster, and possible investigation."
           }
         },
         "updated_date": "2026-10-01T13:58:02.106Z"
@@ -13582,7 +13582,7 @@
           "pl": {
             "climate": "Zielone sanktuarium",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Zondula jest światem falistych gór zwieńczonych zielonymi płaskowyżami. Pomiędzy nimi leżą niewielkie, niemal czarne oceany otoczone urwistymi brzegami. Liczne świątynie pozostają pod strażą Jedi, dzięki czemu naturalnie obronny krajobraz ma również duże znaczenie duchowe i historyczne."
           },
           "en": {
             "climate": "Verdant sanctum",
@@ -13592,7 +13592,7 @@
           "hut": {
             "climate": "Verdant sanctum",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Zondula has rolling mountains crowned by green plateaus and small near-black seas beneath sheer coasts. Jedi guard its many temples. Natural defense, sacred inheritance, and isolation make the world valuable beyond ordinary resources."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -13725,7 +13725,7 @@
           "pl": {
             "climate": "Odzyskane ruiny",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Gerrigon posiada atmosferę i był niegdyś kwitnącym ośrodkiem kultury oraz handlu. Całą powierzchnię zajmowało miasto z białego kamienia i szkła, dziś opuszczone oraz stopniowo pochłaniane przez roślinność. Ruiny zachowują wielką wartość archeologiczną i stanowią świadectwo cywilizacji, której przyczyny upadku nie wyjaśniają dostępne archiwa."
           },
           "en": {
             "climate": "Reclaimed ruin",
@@ -13735,7 +13735,7 @@
           "hut": {
             "climate": "Reclaimed ruins",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Gerrigon once flourished as a center of culture and trade, its surface filled by a city of white stone and glass. Now abandoned, the city yields to nature. Its ruins hold archaeological wealth and the unanswered account of a vanished civilization."
           }
         },
         "updated_date": "2026-10-01T13:51:34.086Z"
@@ -13888,7 +13888,7 @@
           "pl": {
             "climate": "Wietrzny i chłodny",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Lutrillia jest zimnym, suchym światem płaskich, smaganych wiatrem tundr. Dawne oceany wyschły, pozostawiając jedynie małe oazy. Miejscowy lud koczowniczy mieszka w olbrzymich miastach na kołach, przemieszczając się w poszukiwaniu zasobów i unikając wielkich podziemnych drapieżników. Mobilność stanowi podstawę przetrwania, gospodarki i kultury planety."
           },
           "en": {
             "climate": "Windy Chills",
@@ -13898,7 +13898,7 @@
           "hut": {
             "climate": "Windy cold-world",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Lutrillia is a flat cold arida world where old oceans have shrunk to small oases. Nomads live in immense rolling cities, stripping resources while avoiding great underground predators. Movement is survival, economy, and culture together."
           }
         },
         "updated_date": "2026-10-01T14:02:33.992Z"
@@ -14022,7 +14022,7 @@
           "pl": {
             "climate": "Lazurowe pogranicze",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Cała roślinność Lorty ma jaskrawoniebieską barwę, przez co z orbity planeta przypomina świat oceaniczny, choć nie posiada mórz. Powierzchnię tworzą pola, lasy, kaniony i góry. Jest ojczyzną wojowniczych Lortan, którzy regularnie grożą sąsiednim systemom, nadając planecie reputację niestabilnego zagrożenia regionalnego."
           },
           "en": {
             "climate": "Azure frontier",
@@ -14032,7 +14032,7 @@
           "hut": {
             "climate": "Azure frontier",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Lorta's bright blue plant life makes it resemble an ocean-world from orbit, though it has no seas—only fields, forests, canyons, and mountains. Violent Lortans repeatedly threaten nearby systems, making their world a regional danger."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -14164,7 +14164,7 @@
           "pl": {
             "climate": "Skąpy i surowy",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Regis Kor jest skalistą planetą karłowatą o bardzo rozrzedzonej atmosferze. Istnieją na niej zaledwie trzy zamieszkane ośrodki należące do prymitywnego, rozumnego gatunku. Niewielka liczba osad i trudne środowisko ograniczają rozwój, a dostępne rejestry nie potwierdzają znaczącej gospodarki ani zasobów."
           },
           "en": {
             "climate": "Sparse",
@@ -14174,7 +14174,7 @@
           "hut": {
             "climate": "Sparse world",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Regis Kor is a rocky dwarf planet with a very thin atmosphere. Only three settlements of a primitive sentient species are known. Harsh conditions and small population leave little developed economy or documented resource wealth."
           }
         },
         "updated_date": "2026-10-01T13:54:53.641Z"
@@ -14313,7 +14313,7 @@
           "pl": {
             "climate": "Pusta przestrzeń",
             "population": "< 1 milion",
-            "description": ""
+            "description": "Kartoosh jest dużą instalacją kosmiczną wykorzystywaną przez CIS jako dyskretna stocznia. Kompleks prowadzi szybki montaż okrętów wojennych dla floty Separatystów, pozostając z dala od najbardziej oczywistych ośrodków przemysłowych. Jego znaczenie wynika z wydajności produkcji i trudniejszego do wykrycia położenia."
           },
           "en": {
             "climate": "Empty Space",
@@ -14323,7 +14323,7 @@
           "hut": {
             "climate": "Empty void",
             "population": "< 1 million sentients",
-            "description": ""
+            "description": "Kartoosh is a large spaceborne CIS shipyard. The discreet complex rapidly builds Separatista warships away from obvious industrial centers. Concealment and production speed are its entire strategic profit."
           }
         },
         "updated_date": "2026-10-01T13:44:58.249Z"
@@ -14451,7 +14451,7 @@
           "pl": {
             "climate": "Tropikalny",
             "population": "2000",
-            "description": ""
+            "description": "Castilion jest ciepłym, tropikalnym światem oceanicznym. Pod powierzchnią morza działają rozbudowane instalacje, które muszą wytrzymywać ciśnienie i ataki miejscowej fauny. Żyjące w oceanach stworzenia osiągają rozmiary lewiatanów i są wyjątkowo agresywne, dlatego każda podwodna działalność wymaga silnych zabezpieczeń."
           },
           "en": {
             "climate": "Tropical",
@@ -14461,7 +14461,7 @@
           "hut": {
             "climate": "Tropica",
             "population": "2,000 sentients",
-            "description": ""
+            "description": "Castilion is a warm tropica ocean-world with facilities beneath the sea. Native life reaches leviathan size and is highly aggressive. Every underwater operation requires strong walls, constant watch, and expensive protection."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -14592,7 +14592,7 @@
           "pl": {
             "climate": "Suchy świat kanionów",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Blood Gulch jest kampanijną adaptacją zamkniętego pola walki w kanionie znanego z Instalacji 04, a nie kanoniczną planetą Halo. Suchą nieckę otaczają wysokie ściany skalne, skąpa roślinność, jaskinie i oddzielone instalacje wojskowe kontrolujące nieliczne podejścia. Nie ma stałej ludności ani samodzielnej historii politycznej. Znaczenie obszaru jest czysto taktyczne: sprzyja obronie, skraca zaopatrzenie i ogranicza kierunki natarcia."
           },
           "en": {
             "climate": "Arid canyon",
@@ -14602,7 +14602,7 @@
           "hut": {
             "climate": "Arida canyon-world",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Blood Gulch adapts the enclosed canyon battlefield of Installation 04 rather than a canonical Halo planet. High walls, caves, sparse growth, and separated bases control a few approaches. It has no permanent population or economy; its value is purely tactical—short supply lines and defensible ground."
           }
         },
         "updated_date": "2026-09-04T15:39:40.057Z"
@@ -14745,7 +14745,7 @@
           "pl": {
             "climate": "Zielone kaniony",
             "population": "2 miliony",
-            "description": ""
+            "description": "Delphania jest barwnym, czerwonawym światem głębokich dolin, licznych płytkich jezior i ogromnych rodzimych drzew. Zróżnicowana fauna korzysta z mozaiki wodnych oraz leśnych siedlisk. Naturalne bogactwo stanowi główną cechę planety, podczas gdy jej gospodarka i historia polityczna pozostają słabo opisane."
           },
           "en": {
             "climate": "Verdant canyon",
@@ -14755,7 +14755,7 @@
           "hut": {
             "climate": "Verdant canyons",
             "population": "2 million sentients",
-            "description": ""
+            "description": "Delphania is a colorful red world of deep valleys, many shallow lakes, immense native trees, and varied fauna. Its mosaic of water and forest is the chief known wealth; economy and political history remain poorly recorded."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -14896,7 +14896,7 @@
           "pl": {
             "climate": "Umiarkowany",
             "population": "1 miliard",
-            "description": ""
+            "description": "Pam'ba ma wyjątkowo zróżnicowany klimat dzięki licznym biomom lądowym. Występują tam mokradła, lasy deszczowe, wysokie suche góry oraz pustynie biegnące wzdłuż równika. Ta mozaika środowisk sprzyja bogatej biosferze, lecz wymaga od osadnictwa dostosowania infrastruktury do skrajnie różnych warunków."
           },
           "en": {
             "climate": "Temperate",
@@ -14906,7 +14906,7 @@
           "hut": {
             "climate": "Mild world",
             "population": "1 billion sentients",
-            "description": ""
+            "description": "Pam'ba contains marshes, rainforests, tall dry mountains, and equatorial deserts. This diversity supports rich life but forces settlements to maintain different infrastructure for radically different environments."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15036,7 +15036,7 @@
           "pl": {
             "climate": "Opustoszały, umiarkowany",
             "population": "Brak stałej ludności",
-            "description": ""
+            "description": "Codia jest opustoszałą planetą posiadającą dwa księżyce. Pierwszy pozostaje pływowo związany z gwiazdą, natomiast drugi pokrywają lasy i mchy. Kontrast pomiędzy jałowym światem a zielonym satelitą nadaje układowi wartość badawczą, choć dostępne źródła nie wskazują trwałego osadnictwa ani rozwiniętej gospodarki."
           },
           "en": {
             "climate": "Desolate temperate",
@@ -15046,7 +15046,7 @@
           "hut": {
             "climate": "Desolate mild-world",
             "population": "No permanent sentients",
-            "description": ""
+            "description": "Codia is a desolate world with two moons. One is tidally locked to the star; the other carries forests and moss. The contrast offers scientific interest, but records name no lasting settlement or developed market."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15208,7 +15208,7 @@
           "pl": {
             "climate": "NIEZNANY",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Xala jest słabo rozpoznanym, niezależnym światem Dzikiej Przestrzeni. Rejestry potwierdzają układ i pobliski księżyc, lecz nie pozwalają przenosić jego cech na planetę. Brakuje wiarygodnych danych o powierzchni, ludności, osadach i zasobach z epoki Wojen Klonów. Znaczenie Xali wynika z odległego położenia i połączonych tras nadprzestrzennych, a wcześniejsza historia pozostaje fragmentaryczna."
           },
           "en": {
             "climate": "UNKNOWN",
@@ -15218,7 +15218,7 @@
           "hut": {
             "climate": "UNKNOWN",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Xala is a poorly surveyed independent world in Wild Space. Records confirm the system and nearby moon but not shared conditions. Surface, population, resources, and earlier history remain unknown. Remote position and connected hyperspace routes define its present strategic value."
           }
         },
         "updated_date": "2026-10-12T13:30:01.846Z"
@@ -15375,7 +15375,7 @@
           "pl": {
             "climate": "Zalesione wyżyny",
             "population": "1 miliard",
-            "description": ""
+            "description": "Batuu jest światem bujnych lasów i gór, wykorzystywanym przez CIS jako ośrodek przemytu. Wywiad podejrzewa istnienie ukrytych fabryk Separatystów. Na planecie znajduje się również opuszczona świątynia Jedi, a miejscowa roślinność pochodzi z wielu zakątków galaktyki. Połączenie tajnej produkcji, nielegalnego handlu i dawnych ruin zwiększa znaczenie świata."
           },
           "en": {
             "climate": "Forested highlands",
@@ -15385,7 +15385,7 @@
           "hut": {
             "climate": "Forested highlands",
             "population": "1 billion sentients",
-            "description": ""
+            "description": "Batuu is a lush mountain-and-forest world used as a CIS smuggling hub, with suspected hidden factories. An abandoned Jedi temple and plant life gathered from across the galaxy add historical and biological value. Secret production, shadow trade, and ruins share one world."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15528,7 +15528,7 @@
           "pl": {
             "climate": "Bujne czerwone lasy i oceany",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Seatos jest zielonym światem rozległych oceanów i gęstych lasów o czerwonych liściach. Na nadmorskim urwisku stoi starożytny krąg otaczający mechanizm związany z dawną mapą gwiezdną, ważny dla archeologów i tradycji Mocy. Źródła nie podają spisu ludności ani rozwiniętej gospodarki z epoki Wojen Klonów. Późniejsze wydarzenia nie należą do obecnego okresu kampanii."
           },
           "en": {
             "climate": "Lush red forest and oceanic",
@@ -15538,7 +15538,7 @@
           "hut": {
             "climate": "Lush red forests and oceans",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Seatos is a verdant world of broad oceans and red-leaf forests. An ancient coastal henge surrounds a mechanism tied to an old star map, giving the quiet planet value to archaeologists and Force traditions. Clone Wars population and economy remain unknown; later events lie outside the campaign."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15681,7 +15681,7 @@
           "pl": {
             "climate": "Kontynentalny świat przemysłowy",
             "population": "4 miliardy",
-            "description": ""
+            "description": "Bakura jest światem rolniczym i górniczym o rozległych równinach oraz wysokich pasmach górskich. Trzy kontynenty dzielą się na zachodnie plantacje i wschodnie kopalnie. Fabryki wytwarzają kluczowe cewki repulsorowe dla pojazdów. Stolicę Salis D'aar zbudowano jako olbrzymie koliste miasto w centrum planety, skupiające administrację i przemysł."
           },
           "en": {
             "climate": "Continental industrial",
@@ -15691,7 +15691,7 @@
           "hut": {
             "climate": "Continental industry-world",
             "population": "4 billion sentients",
-            "description": ""
+            "description": "Bakura is an agricultural and mining world of plains and high mountains. Western plantations, eastern mines, and factories producing vital repulsorlift coils divide its three continents. The immense circular capital Salis D'aar anchors administration and industry."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15834,7 +15834,7 @@
           "pl": {
             "climate": "Monsunowy klimat dwóch słońc",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Dalna jest niewielką planetą krążącą wokół dwóch słońc. Przybysze cierpią na chorobę słoneczną, a niestabilna pogoda przynosi gwałtowne deszcze i powodzie. Z orbity świat wydaje się jasnoniebieski i biały. Mieszkańcy opierają gospodarkę na rolnictwie, które musi radzić sobie zarówno z nadmiarem światła, jak i nieprzewidywalną wodą."
           },
           "en": {
             "climate": "Twin-solar monsoon",
@@ -15844,7 +15844,7 @@
           "hut": {
             "climate": "Twin-sun monsoon",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Dalna circles two suns, causing sun sickness in unadapted visitors. Unstable weather brings flooding rain, while the world appears blue and white from orbit. Agriculture sustains the population despite excessive light and unpredictable water."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -15975,7 +15975,7 @@
           "pl": {
             "climate": "Sucha pustynia z burzami elektromagnetycznymi",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Ponemah jest kolejnym piaszczystym światem w pobliżu Ogem i Jakku. Wokół południowego bieguna nieustannie szaleją burze elektromagnetyczne, a pod wydmami żyją piaskowe robaki. Połączenie zakłóceń energetycznych i agresywnej fauny czyni południe szczególnie niebezpiecznym dla transportu, osadnictwa i pracy badawczej."
           },
           "en": {
             "climate": "Arid desert with electromagnetic storms",
@@ -15985,7 +15985,7 @@
           "hut": {
             "climate": "Arida dunes with electrostorms",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Ponemah is a sand-world near Ogem and Jakku. Constant electromagnetic storms rage at the southern pole, where sandworms move beneath the dunes. Energy interference and dangerous fauna make the region costly for travel, settlement, and research."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -16118,7 +16118,7 @@
           "pl": {
             "climate": "Umiarkowany świat rolniczy",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Cerea pozostaje technologicznie słabo rozwinięta, dzięki czemu zachowała bujne pola uprawne, zielone krajobrazy i góry. Jest ojczyzną Cerean, których złożona budowa mózgu sprzyja wysokiej inteligencji. Miejscowa kultura i gospodarka opierają się bardziej na rolnictwie oraz tradycji niż na ciężkim przemyśle."
           },
           "en": {
             "climate": "Agrarian temperate",
@@ -16128,7 +16128,7 @@
           "hut": {
             "climate": "Mild agrarian world",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Cerea is technologically restrained, preserving farmland, green landscapes, and mountains. It is home to the highly intelligent Cereans, whose complex brains shape their society. Agriculture and tradition matter more than heavy industry."
           }
         },
         "updated_date": "2026-10-01T13:44:58.249Z"
@@ -16284,7 +16284,7 @@
           "pl": {
             "climate": "Przemysłowa dżungla",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Akiva jest bujną planetą dżunglową kontrolowaną przez CIS. Pod powierzchnią działają wielkie fabryki droidów B-1 i B-2, a wywiad podejrzewa również tajną linię BX. Stolica Myrra stoi nad labiryntem katakumb mieszczących dawną świątynię Jedi, pułapkę Sithów, huttiańskie lęgowiska i kolejną czynną fabrykę. Warstwy ruin oraz produkcji czynią świat ważnym i niebezpiecznym celem."
           },
           "en": {
             "climate": "Jungle industrial",
@@ -16294,7 +16294,7 @@
           "hut": {
             "climate": "Industrial jungle",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Akiva is a lush jungle world controlled by CIS. Underground factories build B-1 and B-2 droids, with a hidden BX line suspected. Beneath capital Myrra, catacombs hold a Jedi temple, Sith trap, Hutt breeding grounds, and another active factory. Ruins and production make one dangerous prize."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -16431,7 +16431,7 @@
           "pl": {
             "climate": "Zamarznięta metropolia",
             "population": "5 miliardów",
-            "description": ""
+            "description": "Rekelos jest chłodnym światem-metropolią, którego gęsto zaludnione miasta pozostają stale spowite chmurami, lecz rozświetlone neonami. Różnorodność mieszkańców uczyniła planetę schronieniem dla wyrzutków. Łowcy nagród chętnie poszukują tu zleceń, korzystając z anonimowości tłumu i nieustannego zapotrzebowania na dyskretne usługi."
           },
           "en": {
             "climate": "Frozen Metropolis",
@@ -16441,7 +16441,7 @@
           "hut": {
             "climate": "Frozen metropolis",
             "population": "5 billion sentients",
-            "description": ""
+            "description": "Rekelos is a cold metropolis-world beneath permanent cloud and endless neon. Diverse communities offer refuge to outcasts, while bounty hunters find work in crowded streets. Anonymity and demand for discreet services drive its shadow economy."
           }
         },
         "updated_date": "2026-10-01T13:51:34.086Z"
@@ -16574,7 +16574,7 @@
           "pl": {
             "climate": "Umiarkowany pasterski",
             "population": "1 miliard",
-            "description": ""
+            "description": "Genetia jest umiarkowanym, purpurowym światem zamieszkanym przez ludzi. Genetianie słyną z pokojowego usposobienia i aktywnie protestują przeciw każdej obecności wojskowej. Sprzeciw wobec garnizonów stanowi podstawową cechę ich politycznej tożsamości i utrudnia zewnętrznym mocarstwom wykorzystanie planety strategicznie."
           },
           "en": {
             "climate": "Temperate pastoral",
@@ -16584,7 +16584,7 @@
           "hut": {
             "climate": "Mild pastoral world",
             "population": "1 billion sentients",
-            "description": ""
+            "description": "Genetia is a purple mild-world of peaceful humans. Genetians protest any military presence, making opposition to garrisons central to political identity. Their stance sharply limits the planet's usefulness to outside powers."
           }
         },
         "updated_date": "2026-10-01T13:49:57.335Z"
@@ -16712,7 +16712,7 @@
           "pl": {
             "climate": "Niebiańskie sanktuaria",
             "population": "< 1 miliard",
-            "description": ""
+            "description": "Ephemera jest światem uzdrowiskowym pozbawionym stałego gruntu. Miasta i kurorty unoszą się pośród chmur, a atmosfera zawiera gazy o właściwościach leczniczych. Przybysze podróżują tu dla wypoczynku i rekonwalescencji. Cała gospodarka zależy od bezpiecznych platform powietrznych oraz utrzymania dostępu do naturalnych właściwości atmosfery."
           },
           "en": {
             "climate": "Celestial sanctuaries",
@@ -16722,7 +16722,7 @@
           "hut": {
             "climate": "Celestial sanctuaries",
             "population": "< 1 billion sentients",
-            "description": ""
+            "description": "Ephemera has no solid ground; cities and resorts float among clouds. Healing gases in the atmosphere attract visitors for rest and recovery. Tourism depends entirely on safe aerial platforms and preserving the world's natural remedy."
           }
         },
         "updated_date": "2026-10-01T13:51:34.086Z"
@@ -16855,7 +16855,7 @@
           "pl": {
             "climate": "Nieujarzmiona dżungla",
             "population": "30 milionów",
-            "description": ""
+            "description": "Polyneus jest zacofanym, prymitywnym światem dżunglowym bez istotnego znaczenia strategicznego. Rozumni mieszkańcy żyją w społecznościach plemiennych, pozostając blisko związani z naturą. Brak rozwiniętej infrastruktury ogranicza handel i wpływy zewnętrzne, lecz pozwala zachować tradycyjny sposób życia."
           },
           "en": {
             "climate": "Untamed jungle",
@@ -16865,7 +16865,7 @@
           "hut": {
             "climate": "Untamed jungle",
             "population": "30 million sentients",
-            "description": ""
+            "description": "Polyneus is a primitive jungle backwater with little strategic value. Sentient tribes live close to nature, with scant infrastructure or outside trade. Isolation limits profit but preserves their traditional life."
           }
         },
         "updated_date": "2026-10-01T13:49:57.335Z"
@@ -16989,7 +16989,7 @@
           "pl": {
             "climate": "NIEZNANY",
             "population": "NIEZNANA",
-            "description": ""
+            "description": "Minfar jest ojczyzną Zixonów, których społeczności rozciągają się przez rozległe podziemne przejścia i obejmują miasto Ghikjil. Źródła podkreślają więź mieszkańców z planetą oraz upodobanie do życia pod powierzchnią, lecz nie podają wiarygodnego klimatu, spisu ludności ani zasobów. W okresie Wojen Klonów pozostaje mało znanym światem niezależnym; potwierdzone są tunele i rodzima cywilizacja, nie późniejsza aktywność Imperium."
           },
           "en": {
             "climate": "UNKNOWN",
@@ -16999,7 +16999,7 @@
           "hut": {
             "climate": "UNKNOWN",
             "population": "UNKNOWN",
-            "description": ""
+            "description": "Minfar is the Zixon homeworld, with communities spread through vast tunnels and the underground city Ghikjil. Records confirm native civilization and preference for life below, but not climate, census, or trade resources. It remains a little-known independent world; later Imperial activity lies outside the campaign."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -17152,7 +17152,7 @@
           "pl": {
             "climate": "Umiarkowany",
             "population": "5 miliardów",
-            "description": ""
+            "description": "Patrolia jest oceaniczną ojczyzną rybopodobnych Patrolian. Większość osad znajduje się pod wodą i składa się z połączonych, wypełnionych zdatną do oddychania atmosferą budynków. Dla przybyszów utrzymywane są nieliczne pływające miasta. Dwupoziomowa infrastruktura pozwala mieszkańcom zachować wodny tryb życia i prowadzić handel z gatunkami lądowymi."
           },
           "en": {
             "climate": "Temperate",
@@ -17162,7 +17162,7 @@
           "hut": {
             "climate": "Mild world",
             "population": "5 billion sentients",
-            "description": ""
+            "description": "Patrolia is the aquatic home of the fishlike Patrolians. Most settlements are connected breathable buildings beneath the sea, while a few floating cities receive visitors. This two-level koona supports native life and offworld trade."
           }
         },
         "updated_date": "2026-10-01T14:00:04.472Z"
@@ -17294,7 +17294,7 @@
           "pl": {
             "climate": "Rozrzedzona atmosfera",
             "population": "1 milion",
-            "description": ""
+            "description": "Montross leży w Środkowych Rubieżach i posiada podniebne miasta podobne do zabudowy Bespina. Atmosfera jest rozrzedzona, lecz nadal zdatna do oddychania. Warunki oraz infrastruktura lotnicza sprawiają, że planeta często mieści wojskowe akademie pilotażu, nadając jej znaczenie szkoleniowe i strategiczne."
           },
           "en": {
             "climate": "Thin atmosphere",
@@ -17304,7 +17304,7 @@
           "hut": {
             "climate": "Thin atmosphere",
             "population": "1 million sentients",
-            "description": ""
+            "description": "Montross is a Mid Rim world of sky cities resembling Bespin. Its thin air remains breathable, and aerial infrastructure supports military flight academies. Training value gives the planet strategic importance."
           }
         },
         "updated_date": "2026-10-01T13:58:02.106Z"
@@ -17436,7 +17436,7 @@
           "pl": {
             "climate": "Ciepły klimat umiarkowany",
             "population": "4 miliardy",
-            "description": ""
+            "description": "Tirahnn jest ciepłym światem handlowym lasów i gór, słynącym z rozległych bazarów. Rządzą nim książęta kupieccy, a zamożni turyści przybywają po towary i rozrywkę. Jako ważny węzeł wymiany planeta ma znaczenie dla wszystkich głównych potęg galaktycznych, które zabiegają o dostęp do jej rynków."
           },
           "en": {
             "climate": "Warm temperate",
@@ -17446,7 +17446,7 @@
           "hut": {
             "climate": "Warm mild-world",
             "population": "4 billion sentients",
-            "description": ""
+            "description": "Tirahnn is a warm trade world of forests, mountains, and grand bazaars. Merchant princes rule while wealthy travelers fill the markets. As a major nexus, it offers valuable access to every galactic power."
           }
         },
         "updated_date": "2026-10-01T13:49:57.335Z"
@@ -17581,7 +17581,7 @@
           "pl": {
             "climate": "Ruiny strefy umiarkowanej",
             "population": "1.5 miliardów",
-            "description": ""
+            "description": "Uviuy Exen jest umiarkowanym, średnio zaludnionym światem, na którym zachowały się liczne ruiny z czasów wojen alsakańskich. Republika utrzymuje tam ważne fortyfikacje osłaniające podejścia do Rdzenia przed ewentualnym natarciem CIS. Dziedzictwo dawnych konfliktów współistnieje z nowoczesną rolą planety jako świata obronnego."
           },
           "en": {
             "climate": "Temperate ruins",
@@ -17591,7 +17591,7 @@
           "hut": {
             "climate": "Mild-world ruins",
             "population": "1.5 billion sentients",
-            "description": ""
+            "description": "Uviuy Exen is a moderately populated mild-world with ruins from the Alsakan conflicts. Major Republica fortresses defend approaches to the Core against CIS. Ancient war remains beside a modern defensive role."
           }
         },
         "updated_date": "2026-10-01T13:49:57.335Z"
@@ -17723,7 +17723,7 @@
           "pl": {
             "climate": "Rolnicze pogranicze",
             "population": "2 miliardy",
-            "description": ""
+            "description": "Bandomeer jest ważnym światem rolniczym i górniczym, lecz stosunki między pracownikami a korporacjami pozostają napięte z powodu złego traktowania górników. Planetarne gospodarstwa należą do kluczowych źródeł żywności dla Wielkiej Armii Republiki i jej klonów. Bez ich produkcji zaopatrzenie frontów w racje zostałoby poważnie zagrożone, co nadaje miejscowemu rolnictwu znaczenie strategiczne."
           },
           "en": {
             "climate": "Agricultural frontier",
@@ -17733,7 +17733,7 @@
           "hut": {
             "climate": "Agrarian frontier",
             "population": "2 billion sentients",
-            "description": ""
+            "description": "Bandomeer is a major farming and mining world troubled by corporate abuse of workers. Its planetwide farms provide crucial rations to the Grand Army and clone troopers. Without them, Republica supply lines would face hunger, making agriculture a strategic asset."
           }
         },
         "updated_date": "2026-09-10T13:31:01.283Z"
@@ -17881,7 +17881,7 @@
           "pl": {
             "climate": "Korporacyjny świat przemysłowy",
             "population": "15 miliardów",
-            "description": ""
+            "description": "Bonadan jest głównym światem swego układu w Sektorze Korporacyjnym, położonym na końcu Hydian Way i wyposażonym w dziesięć wielkich portów kosmicznych. Gęsto zaludnioną planetę zamieszkują liczne egzotyczne gatunki. Bonadanie spotykani poza światem pochodzą zwykle z bogatych rodzin korporacyjnych albo należą do tych, którym udało się uciec od życia w korporacyjnej zależności."
           },
           "en": {
             "climate": "Corporate industrial",
@@ -17891,7 +17891,7 @@
           "hut": {
             "climate": "Corporate industry-world",
             "population": "15 billion sentients",
-            "description": ""
+            "description": "Bonadan is the primary world of its Corporate Sector system at the end of the Hydian Way, with ten great spaceports. Dense cities host species from across the galaxy. Offworld Bonadanians are usually corporate heirs—or people who escaped corporate servitude."
           }
         },
         "updated_date": "2026-09-25T17:52:30.040Z"
