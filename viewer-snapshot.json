@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793289291800,
-  "published_at": "2026-10-29T16:28:34.000Z",
-  "source_data_updated_at": "2026-10-29T15:54:51.800Z",
+  "campaign_version": 1793296990437,
+  "published_at": "2026-10-29T18:35:07.468Z",
+  "source_data_updated_at": "2026-10-29T18:03:10.437Z",
   "entities": {
     "Planet": [
       {
@@ -41397,7 +41397,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 2,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41423,7 +41423,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 3,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41449,7 +41449,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 4,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41474,7 +41474,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 5,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41500,7 +41500,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 6,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41526,7 +41526,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 7,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41551,7 +41551,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 8,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41576,7 +41576,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 9,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41601,7 +41601,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 10,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41626,7 +41626,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 11,
-        "updated_date": "2026-10-29T15:40:14.226Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41653,7 +41653,7 @@
         "unit_mentions": [],
         "glitch_intensity": 1,
         "display_order": 1,
-        "updated_date": "2026-10-29T13:28:54.289Z",
+        "updated_date": "2026-10-29T18:26:28.581Z",
         "publication_status": "outdated"
       },
       {
@@ -41681,8 +41681,8 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 24,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 30,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_02_tanoa_liberated",
@@ -41710,8 +41710,8 @@
           "41sT eLITE LEGION"
         ],
         "glitch_intensity": 1,
-        "display_order": 23,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 29,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_03_tanoa_generation",
@@ -41739,8 +41739,8 @@
           "41sT eLITE LEGION"
         ],
         "glitch_intensity": 1,
-        "display_order": 22,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 28,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_04_kholo",
@@ -41769,8 +41769,8 @@
           "327th"
         ],
         "glitch_intensity": 1,
-        "display_order": 21,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 27,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_05_joint_front",
@@ -41798,8 +41798,8 @@
           "327th"
         ],
         "glitch_intensity": 1,
-        "display_order": 20,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 26,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_06_iberius",
@@ -41829,8 +41829,8 @@
           "104. legion wsparcia"
         ],
         "glitch_intensity": 1,
-        "display_order": 19,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 25,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_07_second_altis",
@@ -41859,8 +41859,34 @@
           "327th"
         ],
         "glitch_intensity": 1,
-        "display_order": 18,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 24,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonet_post_altis_08_highlands",
+        "date_posted": "2023-03-06T09:00:00.000Z",
+        "campaign_date": "2023-03-06",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "UNSC potwierdziło ewakuację ekspedycji z Unknown Regions po utracie łączności i serii awarii, lecz utajniło materiały oraz zamknęło dostęp do rejonu.",
+        "description": "UNKNOWN REGIONS — Dowództwo UNSC potwierdziło zakończenie ekspedycji badającej ruiny na bezludnym świecie. Według oficjalnego komunikatu misję przerwano po gwałtownej utracie łączności, destabilizacji terenu wokół stanowiska badawczego oraz następujących po sobie awariach wyposażenia. Personel, którego ewakuacja była możliwa, został przewieziony do zamkniętych placówek medycznych.\n\nUNSC przyznało, że ekspedycja poniosła straty, lecz nie opublikowało pełnej listy zabitych i zaginionych. Rodziny mają otrzymywać informacje bezpośrednio od służb wojskowych. Nagrania z hełmów, zapisy czujników i dokumentacja naukowa zostały objęte klauzulą bezpieczeństwa do czasu zakończenia dochodzenia technicznego.\n\nWokół badanego układu ustanowiono czasową strefę zamkniętą. Statki cywilne otrzymały nowe korytarze, a wszelkie próby zbliżenia się do rejonu mają kończyć się eskortą poza jego granice. Dowództwo tłumaczy te środki ryzykiem kolejnych zakłóceń nawigacyjnych oraz możliwością uszkodzenia niestabilnych struktur.\n\nRepublika otrzymała jedynie krótką notę o wypadku badawczym i nie uczestniczy w dochodzeniu. Jej sztaby pozostają skupione na wojnie z CIS, dlatego nie skierowano wspólnej komisji ani zespołów ratunkowych. UNSC zapowiada publikację końcowego raportu, lecz nie podało terminu ponownego otwarcia sektora. Do tego czasu oficjalną przyczyną katastrofy pozostaje splot zagrożeń środowiskowych i awarii. Do sektora nie wpuszcza się niezależnych obserwatorów.",
+        "category_key": "security",
+        "category_color": "#f97316",
+        "category": "SECURITY",
+        "title": "UNSC zamyka sektor po katastrofie ekspedycji badawczej",
+        "headline": "UNSC zamyka sektor po katastrofie ekspedycji badawczej",
+        "body": "UNKNOWN REGIONS — Dowództwo UNSC potwierdziło zakończenie ekspedycji badającej ruiny na bezludnym świecie. Według oficjalnego komunikatu misję przerwano po gwałtownej utracie łączności, destabilizacji terenu wokół stanowiska badawczego oraz następujących po sobie awariach wyposażenia. Personel, którego ewakuacja była możliwa, został przewieziony do zamkniętych placówek medycznych.\n\nUNSC przyznało, że ekspedycja poniosła straty, lecz nie opublikowało pełnej listy zabitych i zaginionych. Rodziny mają otrzymywać informacje bezpośrednio od służb wojskowych. Nagrania z hełmów, zapisy czujników i dokumentacja naukowa zostały objęte klauzulą bezpieczeństwa do czasu zakończenia dochodzenia technicznego.\n\nWokół badanego układu ustanowiono czasową strefę zamkniętą. Statki cywilne otrzymały nowe korytarze, a wszelkie próby zbliżenia się do rejonu mają kończyć się eskortą poza jego granice. Dowództwo tłumaczy te środki ryzykiem kolejnych zakłóceń nawigacyjnych oraz możliwością uszkodzenia niestabilnych struktur.\n\nRepublika otrzymała jedynie krótką notę o wypadku badawczym i nie uczestniczy w dochodzeniu. Jej sztaby pozostają skupione na wojnie z CIS, dlatego nie skierowano wspólnej komisji ani zespołów ratunkowych. UNSC zapowiada publikację końcowego raportu, lecz nie podało terminu ponownego otwarcia sektora. Do tego czasu oficjalną przyczyną katastrofy pozostaje splot zagrożeń środowiskowych i awarii. Do sektora nie wpuszcza się niezależnych obserwatorów.",
+        "planet": "Unknown Planet",
+        "sector": "Unknown Regions",
+        "faction_keys": [
+          "UNSC"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 22,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_09_malden",
@@ -41890,8 +41916,8 @@
           "104. legion wsparcia"
         ],
         "glitch_intensity": 1,
-        "display_order": 13,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "display_order": 19,
+        "updated_date": "2026-10-29T18:26:28.581Z"
       },
       {
         "id": "holonet_post_altis_10_geonosis",
@@ -41920,8 +41946,247 @@
           "41sT eLITE LEGION"
         ],
         "glitch_intensity": 1,
+        "display_order": 14,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonet_post_altis_08a_highlands_expedition",
+        "date_posted": "2023-01-12T09:00:00.000Z",
+        "campaign_date": "2023-01-12",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "UNSC wysłało zespół naukowy na bezludny świat w Unknown Regions, gdzie dalekosiężne skany wykryły rozległe struktury nieznanego pochodzenia.",
+        "description": "UNKNOWN REGIONS — UNSC potwierdziło rozpoczęcie ekspedycji na bezludny świat, gdzie dalekosiężne skany ujawniły geometryczne struktury rozciągające się pod powierzchnią. Nie znaleziono śladów stałych osad ani współczesnej działalności przemysłowej. Zespół ma ustalić wiek ruin, sposób ich wykonania oraz przyczynę zachowanych odczytów energetycznych.\n\nW skład misji wchodzą archeolodzy, specjaliści materiałowi, inżynierowie i personel medyczny. Niewielki kontyngent ochrony ma zabezpieczyć lądowisko oraz magazyny, co UNSC określa jako standardową procedurę dla odległych ekspedycji. Nie przewiduje się zakładania kolonii ani przejmowania planety pod administrację wojskową.\n\nDokładne współrzędne pozostają niejawne, aby ograniczyć ryzyko przypadkowego uszkodzenia stanowiska lub pojawienia się nieautoryzowanych poszukiwaczy. Łączność z zespołem będzie prowadzona w wyznaczonych oknach, a pierwsze próbki mają wrócić po zakończeniu wstępnego mapowania. Dowództwo nie spodziewa się zagrożeń innych niż trudny teren i nieznane właściwości obiektów.\n\nRepublika nie bierze udziału w przedsięwzięciu. Jej badacze i okręty pozostają zaangażowane na frontach wojny z CIS, dlatego UNSC prowadzi misję samodzielnie. Jeżeli ruiny okażą się autentyczne, odkrycie może poszerzyć wiedzę o historii Unknown Regions. Na razie pozostają jednak zagadką, a ekspedycja ma przede wszystkim oddzielić fakty od spekulacji. Wyniki mają zostać przedstawione po powrocie zespołu.",
+        "category_key": "intelligence",
+        "category_color": "#a855f7",
+        "category": "INTELLIGENCE",
+        "title": "Ekspedycja UNSC rusza ku tajemniczym strukturom w Unknown Regions",
+        "headline": "Ekspedycja UNSC rusza ku tajemniczym strukturom w Unknown Regions",
+        "body": "UNKNOWN REGIONS — UNSC potwierdziło rozpoczęcie ekspedycji na bezludny świat, gdzie dalekosiężne skany ujawniły geometryczne struktury rozciągające się pod powierzchnią. Nie znaleziono śladów stałych osad ani współczesnej działalności przemysłowej. Zespół ma ustalić wiek ruin, sposób ich wykonania oraz przyczynę zachowanych odczytów energetycznych.\n\nW skład misji wchodzą archeolodzy, specjaliści materiałowi, inżynierowie i personel medyczny. Niewielki kontyngent ochrony ma zabezpieczyć lądowisko oraz magazyny, co UNSC określa jako standardową procedurę dla odległych ekspedycji. Nie przewiduje się zakładania kolonii ani przejmowania planety pod administrację wojskową.\n\nDokładne współrzędne pozostają niejawne, aby ograniczyć ryzyko przypadkowego uszkodzenia stanowiska lub pojawienia się nieautoryzowanych poszukiwaczy. Łączność z zespołem będzie prowadzona w wyznaczonych oknach, a pierwsze próbki mają wrócić po zakończeniu wstępnego mapowania. Dowództwo nie spodziewa się zagrożeń innych niż trudny teren i nieznane właściwości obiektów.\n\nRepublika nie bierze udziału w przedsięwzięciu. Jej badacze i okręty pozostają zaangażowane na frontach wojny z CIS, dlatego UNSC prowadzi misję samodzielnie. Jeżeli ruiny okażą się autentyczne, odkrycie może poszerzyć wiedzę o historii Unknown Regions. Na razie pozostają jednak zagadką, a ekspedycja ma przede wszystkim oddzielić fakty od spekulacji. Wyniki mają zostać przedstawione po powrocie zespołu.",
+        "planet": "Unknown Planet",
+        "sector": "Unknown Regions",
+        "faction_keys": [
+          "UNSC"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 23,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonet_post_altis_08c_highlands_investigation",
+        "date_posted": "2023-03-20T09:00:00.000Z",
+        "campaign_date": "2023-03-20",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Oficjalne wyjaśnienie katastrofy nie odpowiada na pytania o brak telemetrii, zamknięte zeznania ocalałych i niepełne listy personelu ekspedycji.",
+        "description": "UNKNOWN REGIONS — Dwa tygodnie po ogłoszeniu końca ekspedycji UNSC nadal nie udostępniło pełnego raportu z katastrofy. Publiczny komunikat wymienia utratę łączności i niestabilność terenu, ale nie wyjaśnia, dlaczego centralne archiwum nie otrzymało automatycznych kopii telemetrii. Brakuje również kilku godzin zapisów poprzedzających rozkaz ewakuacji.\n\nRozbieżności pojawiają się w danych o personelu. Lista wylotu obejmowała więcej specjalistów i ochrony niż wykaz osób przewiezionych do placówek medycznych. Rodziny zaginionych otrzymują indywidualne powiadomienia, lecz nie mogą porównywać ich z oficjalnym bilansem. Ocalali zostali objęci kwarantanną informacyjną i nie udzielają wywiadów.\n\nUNSC tłumaczy ograniczenia koniecznością ochrony metod badawczych oraz oceną stanu odkrytych struktur. Nie przekazało surowych materiałów republikańskim łącznikom, a Senat otrzymał wyłącznie streszczenie zgodne z wersją o wypadku. Republika, pochłonięta operacjami przeciw CIS, nie zażądała wspólnego dochodzenia ani niezależnego dostępu do miejsca zdarzenia.\n\nHoloNet nie dysponuje dowodami pozwalającymi odrzucić oficjalne wyjaśnienie. Skala utajnienia pozostaje jednak nietypowa dla zwykłej awarii ekspedycji naukowej. Jeżeli przyczyną były wyłącznie warunki środowiskowe, niejasne jest, dlaczego zamknięto cały sektor, ograniczono kontakt z personelem i zapieczętowano wszystkie materiały. Do czasu publikacji pełnego raportu pytania będą narastać szybciej niż odpowiedzi. UNSC nie zapowiedziało terminu kolejnego komunikatu.",
+        "category_key": "investigation",
+        "category_color": "#8b5cf6",
+        "category": "INVESTIGATION",
+        "title": "Zaginione nagrania ekspedycji: dlaczego UNSC utajniło raport?",
+        "headline": "Zaginione nagrania ekspedycji: dlaczego UNSC utajniło raport?",
+        "body": "UNKNOWN REGIONS — Dwa tygodnie po ogłoszeniu końca ekspedycji UNSC nadal nie udostępniło pełnego raportu z katastrofy. Publiczny komunikat wymienia utratę łączności i niestabilność terenu, ale nie wyjaśnia, dlaczego centralne archiwum nie otrzymało automatycznych kopii telemetrii. Brakuje również kilku godzin zapisów poprzedzających rozkaz ewakuacji.\n\nRozbieżności pojawiają się w danych o personelu. Lista wylotu obejmowała więcej specjalistów i ochrony niż wykaz osób przewiezionych do placówek medycznych. Rodziny zaginionych otrzymują indywidualne powiadomienia, lecz nie mogą porównywać ich z oficjalnym bilansem. Ocalali zostali objęci kwarantanną informacyjną i nie udzielają wywiadów.\n\nUNSC tłumaczy ograniczenia koniecznością ochrony metod badawczych oraz oceną stanu odkrytych struktur. Nie przekazało surowych materiałów republikańskim łącznikom, a Senat otrzymał wyłącznie streszczenie zgodne z wersją o wypadku. Republika, pochłonięta operacjami przeciw CIS, nie zażądała wspólnego dochodzenia ani niezależnego dostępu do miejsca zdarzenia.\n\nHoloNet nie dysponuje dowodami pozwalającymi odrzucić oficjalne wyjaśnienie. Skala utajnienia pozostaje jednak nietypowa dla zwykłej awarii ekspedycji naukowej. Jeżeli przyczyną były wyłącznie warunki środowiskowe, niejasne jest, dlaczego zamknięto cały sektor, ograniczono kontakt z personelem i zapieczętowano wszystkie materiały. Do czasu publikacji pełnego raportu pytania będą narastać szybciej niż odpowiedzi. UNSC nie zapowiedziało terminu kolejnego komunikatu.",
+        "planet": "Unknown Planet",
+        "sector": "Unknown Regions",
+        "faction_keys": [
+          "UNSC"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 21,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonet_post_altis_08d_unknown_regions_exclusion",
+        "date_posted": "2023-06-18T08:00:00.000Z",
+        "campaign_date": "2023-06-18",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Kolejne sondy i patrole znikają z sieci łączności, a UNSC poszerza strefę zakazu lotów wokół miejsca przerwanej ekspedycji.",
+        "description": "UNKNOWN REGIONS — UNSC rozszerzyło strefę zakazu lotów ustanowioną po katastrofie ekspedycji badawczej. Decyzję wydano po utracie sygnałów kilku automatycznych sond i dwóch patroli sprawdzających zewnętrzne granice rejonu. Dowództwo nie ogłosiło ich zniszczenia, określając jednostki jako czasowo pozbawione łączności.\n\nCywilne transporty otrzymały trasy omijające kolejne układy, a na punktach tranzytowych pojawiły się dodatkowe kontrole. UNSC buduje przekaźniki, magazyny ratunkowe i posterunki obserwacyjne. Oficjalne wyjaśnienie nadal wskazuje na zakłócenia nawigacyjne oraz możliwość rozprzestrzeniania się niestabilności wykrytej podczas pierwszej misji.\n\nZmiany odczuwają sąsiednie światy Unknown Regions. Przewoźnicy zgłaszają wydłużenie lotów, wzrost kosztów ubezpieczenia i brak dostępu do dawnych korytarzy. Lokalne administracje proszą o dane pozwalające ocenić ryzyko, ale otrzymują jedynie mapy nowych ograniczeń. UNSC nie informuje, kiedy patrole zostaną odnalezione ani czy planuje wznowić badania ruin.\n\nRepublika została powiadomiona o rozszerzeniu strefy jako o wewnętrznym środku bezpieczeństwa UNSC. Nie skierowano tam republikańskich okrętów, ponieważ większość dostępnych sił pozostaje związana walką z CIS. Rosnący obszar ograniczeń coraz trudniej jednak pogodzić z pierwotną wersją pojedynczej katastrofy technicznej. Na mapach przybywa zamkniętych tras, podczas gdy w oficjalnych komunikatach nie pojawia się żadna nowa przyczyna. Nie podano również terminu zniesienia blokady.",
+        "category_key": "security",
+        "category_color": "#f97316",
+        "category": "SECURITY",
+        "title": "UNSC rozszerza strefę zamkniętą po serii utraconych sygnałów",
+        "headline": "UNSC rozszerza strefę zamkniętą po serii utraconych sygnałów",
+        "body": "UNKNOWN REGIONS — UNSC rozszerzyło strefę zakazu lotów ustanowioną po katastrofie ekspedycji badawczej. Decyzję wydano po utracie sygnałów kilku automatycznych sond i dwóch patroli sprawdzających zewnętrzne granice rejonu. Dowództwo nie ogłosiło ich zniszczenia, określając jednostki jako czasowo pozbawione łączności.\n\nCywilne transporty otrzymały trasy omijające kolejne układy, a na punktach tranzytowych pojawiły się dodatkowe kontrole. UNSC buduje przekaźniki, magazyny ratunkowe i posterunki obserwacyjne. Oficjalne wyjaśnienie nadal wskazuje na zakłócenia nawigacyjne oraz możliwość rozprzestrzeniania się niestabilności wykrytej podczas pierwszej misji.\n\nZmiany odczuwają sąsiednie światy Unknown Regions. Przewoźnicy zgłaszają wydłużenie lotów, wzrost kosztów ubezpieczenia i brak dostępu do dawnych korytarzy. Lokalne administracje proszą o dane pozwalające ocenić ryzyko, ale otrzymują jedynie mapy nowych ograniczeń. UNSC nie informuje, kiedy patrole zostaną odnalezione ani czy planuje wznowić badania ruin.\n\nRepublika została powiadomiona o rozszerzeniu strefy jako o wewnętrznym środku bezpieczeństwa UNSC. Nie skierowano tam republikańskich okrętów, ponieważ większość dostępnych sił pozostaje związana walką z CIS. Rosnący obszar ograniczeń coraz trudniej jednak pogodzić z pierwotną wersją pojedynczej katastrofy technicznej. Na mapach przybywa zamkniętych tras, podczas gdy w oficjalnych komunikatach nie pojawia się żadna nowa przyczyna. Nie podano również terminu zniesienia blokady.",
+        "planet": "Unknown Planet",
+        "sector": "Unknown Regions",
+        "faction_keys": [
+          "UNSC"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 20,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298157011_h8lhnvd30",
+        "date_posted": "2024-05-18T08:00:00.000Z",
+        "campaign_date": "2024-05-18",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Kuat Drive Yards i Rendili StarDrive walczą o największy pakiet zamówień wojennych Republiki, wywołując spór o ceny, lobbing i zależność od jednego dostawcy.",
+        "description": "KUAT — Kuat Drive Yards i Rendili StarDrive rozpoczęły najostrzejszą od początku wojny rywalizację o pakiet zamówień obejmujący nowe kadłuby, remonty okrętów liniowych oraz dostawy części. Komisja zaopatrzenia podzieliła kontrakt na kilka etapów, lecz obie stocznie zabiegają, by zwycięzca przejął większość produkcji na kolejne lata.\n\nDelegaci Kuat przekonują, że tylko ich orbitalne doki są w stanie szybko zwiększyć skalę budowy bez obniżenia jakości. Przedstawiciele Rendili, koordynujący kampanię z biur na Fondorze, odpowiadają, że rozproszenie zamówień lepiej zabezpieczy flotę przed sabotażem i przerwaniem jednego łańcucha dostaw. Obie strony zatrudniły nowych lobbystów na Coruscant.\n\nW Senacie narasta obawa, że pośpiech stworzy prywatny monopol finansowany z wojennego budżetu. Mniejsze stocznie ostrzegają, że wieloletnie umowy pozbawią je dostępu do durastali i wyspecjalizowanych pracowników. Dowództwo floty naciska jednak na szybkie rozstrzygnięcie, ponieważ liczba jednostek oczekujących na remont rośnie szybciej niż możliwości istniejących doków.\n\nKomisja ma przedstawić rekomendację po audycie cen i zdolności produkcyjnych. Do tego czasu Republika będzie składała krótsze zamówienia u obu dostawców. Spór nie dotyczy już wyłącznie liczby okrętów: chodzi o to, kto będzie kontrolował przemysłowe zaplecze wojny oraz jaką cenę państwo zapłaci za uzależnienie zwycięstwa od jednej korporacji.",
+        "category_key": "economy",
+        "category_color": "#22c55e",
+        "category": "ECONOMY",
+        "title": "Kuat kontra Fondor: kontrakt stulecia dzieli republikański przemysł",
+        "headline": "Kuat kontra Fondor: kontrakt stulecia dzieli republikański przemysł",
+        "body": "KUAT — Kuat Drive Yards i Rendili StarDrive rozpoczęły najostrzejszą od początku wojny rywalizację o pakiet zamówień obejmujący nowe kadłuby, remonty okrętów liniowych oraz dostawy części. Komisja zaopatrzenia podzieliła kontrakt na kilka etapów, lecz obie stocznie zabiegają, by zwycięzca przejął większość produkcji na kolejne lata.\n\nDelegaci Kuat przekonują, że tylko ich orbitalne doki są w stanie szybko zwiększyć skalę budowy bez obniżenia jakości. Przedstawiciele Rendili, koordynujący kampanię z biur na Fondorze, odpowiadają, że rozproszenie zamówień lepiej zabezpieczy flotę przed sabotażem i przerwaniem jednego łańcucha dostaw. Obie strony zatrudniły nowych lobbystów na Coruscant.\n\nW Senacie narasta obawa, że pośpiech stworzy prywatny monopol finansowany z wojennego budżetu. Mniejsze stocznie ostrzegają, że wieloletnie umowy pozbawią je dostępu do durastali i wyspecjalizowanych pracowników. Dowództwo floty naciska jednak na szybkie rozstrzygnięcie, ponieważ liczba jednostek oczekujących na remont rośnie szybciej niż możliwości istniejących doków.\n\nKomisja ma przedstawić rekomendację po audycie cen i zdolności produkcyjnych. Do tego czasu Republika będzie składała krótsze zamówienia u obu dostawców. Spór nie dotyczy już wyłącznie liczby okrętów: chodzi o to, kto będzie kontrolował przemysłowe zaplecze wojny oraz jaką cenę państwo zapłaci za uzależnienie zwycięstwa od jednej korporacji.",
+        "planet": "Kuat",
+        "sector": "",
+        "faction_keys": [
+          "Republic"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 18,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298169289_eekgvkd57",
+        "date_posted": "2025-02-11T09:00:00.000Z",
+        "campaign_date": "2025-02-11",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "InterGalactic Banking Clan podnosi marże ryzyka i przenosi finansowanie do nieprzejrzystych spółek, podczas gdy mniejsze systemy tracą dostęp do kredytu.",
+        "description": "SCIPIO — InterGalactic Banking Clan podniósł marże oraz składki ryzyka dla transportów, odbudowy infrastruktury i zakupów przemysłowych w systemach położonych blisko frontu. Bankierzy tłumaczą decyzję rosnącą liczbą zerwanych szlaków i konfiskat. Dla wielu planet oznacza to jednak, że zwykły kredyt rozwojowy stał się droższy niż wojenne zamówienie.\n\nDokumenty analizowane przez HoloNet pokazują, że strategiczni klienci nadal otrzymują finansowanie przez sieć funduszy, poręczycieli i spółek zarejestrowanych w kilku jurysdykcjach. Konstrukcja pozostaje legalna, ale utrudnia ustalenie, kto ostatecznie korzysta z pożyczek. Republika i CIS oskarżają się wzajemnie o wywieranie presji na banki, nie przedstawiając publicznie pełnych umów.\n\nNajmocniej odczuwają to mniejsze neutralne systemy. Samorządy odkładają budowę szpitali, portów i osłon energetycznych, ponieważ nie mogą zaakceptować nowych odsetek. Kupcy przenoszą ładunki do droższych pośredników, a lokalne waluty tracą płynność. W efekcie neutralność, która miała chronić przed wojną, sama zaczyna być traktowana jako ryzyko finansowe.\n\nKlan Bankowy zapewnia, że nie złamał zasad bezstronności i finansuje klientów wyłącznie na podstawie zdolności spłaty. Komisje obu bloków żądają jednak ujawnienia beneficjentów pośrednich. Nie ma dowodu, że Scipio świadomie wspiera jedną stronę, lecz brak przejrzystości pozwala kapitałowi płynąć szybciej niż nadzór — i coraz trudniej oddzielić kredyt handlowy od kredytu na prowadzenie wojny.",
+        "category_key": "analysis",
+        "category_color": "#60a5fa",
+        "category": "ANALYSIS",
+        "title": "Kredyt na wojnę: banki podnoszą cenę galaktycznej neutralności",
+        "headline": "Kredyt na wojnę: banki podnoszą cenę galaktycznej neutralności",
+        "body": "SCIPIO — InterGalactic Banking Clan podniósł marże oraz składki ryzyka dla transportów, odbudowy infrastruktury i zakupów przemysłowych w systemach położonych blisko frontu. Bankierzy tłumaczą decyzję rosnącą liczbą zerwanych szlaków i konfiskat. Dla wielu planet oznacza to jednak, że zwykły kredyt rozwojowy stał się droższy niż wojenne zamówienie.\n\nDokumenty analizowane przez HoloNet pokazują, że strategiczni klienci nadal otrzymują finansowanie przez sieć funduszy, poręczycieli i spółek zarejestrowanych w kilku jurysdykcjach. Konstrukcja pozostaje legalna, ale utrudnia ustalenie, kto ostatecznie korzysta z pożyczek. Republika i CIS oskarżają się wzajemnie o wywieranie presji na banki, nie przedstawiając publicznie pełnych umów.\n\nNajmocniej odczuwają to mniejsze neutralne systemy. Samorządy odkładają budowę szpitali, portów i osłon energetycznych, ponieważ nie mogą zaakceptować nowych odsetek. Kupcy przenoszą ładunki do droższych pośredników, a lokalne waluty tracą płynność. W efekcie neutralność, która miała chronić przed wojną, sama zaczyna być traktowana jako ryzyko finansowe.\n\nKlan Bankowy zapewnia, że nie złamał zasad bezstronności i finansuje klientów wyłącznie na podstawie zdolności spłaty. Komisje obu bloków żądają jednak ujawnienia beneficjentów pośrednich. Nie ma dowodu, że Scipio świadomie wspiera jedną stronę, lecz brak przejrzystości pozwala kapitałowi płynąć szybciej niż nadzór — i coraz trudniej oddzielić kredyt handlowy od kredytu na prowadzenie wojny.",
+        "planet": "Scipio",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 17,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298173338_9m9gz7n5b",
+        "date_posted": "2025-09-27T08:00:00.000Z",
+        "campaign_date": "2025-09-27",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Wojenne objazdy kierują transporty na Nar Shaddaa, gdzie Huttowie zarabiają na ubezpieczeniach, naprawach i częściach o trudnym do ustalenia pochodzeniu.",
+        "description": "NAR SHADDAA — Zamknięte szlaki i kolejne strefy walk skierowały tysiące frachtowców do portów kontrolowanych przez Huttów. Księżyc oferuje szybkie naprawy, paliwo, magazyny i eskortę bez długich kontroli. Za wygodę pobierane są wysokie opłaty, lecz dla kapitanów groźba kilkudniowego postoju bywa kosztowniejsza niż huttiańska prowizja.\n\nNajwiększy wzrost notują ubezpieczyciele ładunków oraz warsztaty montujące części niewiadomego pochodzenia. Na lokalnych giełdach można znaleźć podzespoły pasujące zarówno do cywilnych frachtowców, jak i wojskowych maszyn obu stron. Numery seryjne są często starte albo prowadzą do firm, które zakończyły działalność jeszcze przed rozpoczęciem wojny.\n\nKartel Huttów odrzuca oskarżenia o przemyt uzbrojenia. Jego rzecznicy twierdzą, że Nar Shaddaa jedynie wypełnia lukę pozostawioną przez niewydolne republikańskie i separatystyczne porty. Jednocześnie niezależni spedytorzy opisują oferty eskorty połączone z obowiązkowym zakupem ochrony, a odmowa ma kończyć się nagłym brakiem miejsca w dokach.\n\nWojna zmienia księżyc z przystanku półświatka w kluczowy węzeł galaktycznej logistyki. Dochody rosną, lecz wraz z nimi zależność całych sektorów od prywatnych pośredników. Jeżeli konflikt potrwa, Huttowie mogą zyskać wpływ nie przez zdobywanie planet, ale przez kontrolę nad tym, które towary dotrą na czas — i kto będzie musiał zapłacić za bezpieczny objazd.",
+        "category_key": "economy",
+        "category_color": "#22c55e",
+        "category": "ECONOMY",
+        "title": "Nar Shaddaa rośnie na wojennych objazdach",
+        "headline": "Nar Shaddaa rośnie na wojennych objazdach",
+        "body": "NAR SHADDAA — Zamknięte szlaki i kolejne strefy walk skierowały tysiące frachtowców do portów kontrolowanych przez Huttów. Księżyc oferuje szybkie naprawy, paliwo, magazyny i eskortę bez długich kontroli. Za wygodę pobierane są wysokie opłaty, lecz dla kapitanów groźba kilkudniowego postoju bywa kosztowniejsza niż huttiańska prowizja.\n\nNajwiększy wzrost notują ubezpieczyciele ładunków oraz warsztaty montujące części niewiadomego pochodzenia. Na lokalnych giełdach można znaleźć podzespoły pasujące zarówno do cywilnych frachtowców, jak i wojskowych maszyn obu stron. Numery seryjne są często starte albo prowadzą do firm, które zakończyły działalność jeszcze przed rozpoczęciem wojny.\n\nKartel Huttów odrzuca oskarżenia o przemyt uzbrojenia. Jego rzecznicy twierdzą, że Nar Shaddaa jedynie wypełnia lukę pozostawioną przez niewydolne republikańskie i separatystyczne porty. Jednocześnie niezależni spedytorzy opisują oferty eskorty połączone z obowiązkowym zakupem ochrony, a odmowa ma kończyć się nagłym brakiem miejsca w dokach.\n\nWojna zmienia księżyc z przystanku półświatka w kluczowy węzeł galaktycznej logistyki. Dochody rosną, lecz wraz z nimi zależność całych sektorów od prywatnych pośredników. Jeżeli konflikt potrwa, Huttowie mogą zyskać wpływ nie przez zdobywanie planet, ale przez kontrolę nad tym, które towary dotrą na czas — i kto będzie musiał zapłacić za bezpieczny objazd.",
+        "planet": "Nar Shaddaa",
+        "sector": "",
+        "faction_keys": [
+          "Hutt Cartel"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 16,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298177677_7e8gv5pwb",
+        "date_posted": "2026-01-12T09:00:00.000Z",
+        "campaign_date": "2026-01-12",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Republika ujawnia dane o ponownie uruchomionych fabrykach droidów i broni wyprzedzającego uderzenia na Geonosis jako ochrony szlaków Arkanis, Hypori i Tatooine.",
+        "description": "CORUSCANT — Dowództwo Republiki ujawniło część materiałów, które poprzedziły decyzję o uderzeniu na Geonosis. Rozpoznanie wykryło rosnące zużycie energii pod powierzchnią, regularne konwoje surowców i ponowne uruchamianie szybów prowadzących do dawnych fabryk droidów. Aktywność miała znacząco przekraczać potrzeby lokalnych garnizonów CIS.\n\nAnalitycy ostrzegli, że masowa produkcja na Geonosis mogłaby zasilić kilka frontów jednocześnie. Położenie planety pozwala przerzucać jednostki w stronę Arkanis, Hypori i Tatooine, a następnie rozprowadzać je dalej po szlakach Zewnętrznych Rubieży. Sztab uznał, że oczekiwanie na pełne rozwinięcie fabryk stworzyłoby zagrożenie trudniejsze do powstrzymania niż atak na ich zaplecze.\n\nPo zamkniętym posiedzeniu Senat zatwierdził ograniczoną operację wyprzedzającą. Jej oficjalnym celem jest unieruchomienie linii produkcyjnych, przejęcie dokumentacji logistycznej i odcięcie transportów, nie trwała okupacja Geonosis. Część senatorów żądała dalszej obserwacji, lecz dowództwo argumentowało, że każde opóźnienie oznacza kolejne bataliony droidów gotowe do wysyłki.\n\nCIS nazywa przedstawione dane wybiórczym pretekstem do inwazji i zaprzecza przygotowaniom do nowej ofensywy. Republika nie opublikowała pełnych źródeł, zasłaniając się bezpieczeństwem agentów. Wojskowe uzasadnienie jest jasne, ale polityczne ryzyko pozostaje: jeśli fabryki nie okażą się tak wydajne, jak oceniono, operacja może zostać zapamiętana jako atak oparty na niepełnym obrazie sytuacji.",
+        "category_key": "intelligence",
+        "category_color": "#a855f7",
+        "category": "INTELLIGENCE",
+        "title": "Fabryki znów pracują: dlaczego Republika uderzyła na Geonosis",
+        "headline": "Fabryki znów pracują: dlaczego Republika uderzyła na Geonosis",
+        "body": "CORUSCANT — Dowództwo Republiki ujawniło część materiałów, które poprzedziły decyzję o uderzeniu na Geonosis. Rozpoznanie wykryło rosnące zużycie energii pod powierzchnią, regularne konwoje surowców i ponowne uruchamianie szybów prowadzących do dawnych fabryk droidów. Aktywność miała znacząco przekraczać potrzeby lokalnych garnizonów CIS.\n\nAnalitycy ostrzegli, że masowa produkcja na Geonosis mogłaby zasilić kilka frontów jednocześnie. Położenie planety pozwala przerzucać jednostki w stronę Arkanis, Hypori i Tatooine, a następnie rozprowadzać je dalej po szlakach Zewnętrznych Rubieży. Sztab uznał, że oczekiwanie na pełne rozwinięcie fabryk stworzyłoby zagrożenie trudniejsze do powstrzymania niż atak na ich zaplecze.\n\nPo zamkniętym posiedzeniu Senat zatwierdził ograniczoną operację wyprzedzającą. Jej oficjalnym celem jest unieruchomienie linii produkcyjnych, przejęcie dokumentacji logistycznej i odcięcie transportów, nie trwała okupacja Geonosis. Część senatorów żądała dalszej obserwacji, lecz dowództwo argumentowało, że każde opóźnienie oznacza kolejne bataliony droidów gotowe do wysyłki.\n\nCIS nazywa przedstawione dane wybiórczym pretekstem do inwazji i zaprzecza przygotowaniom do nowej ofensywy. Republika nie opublikowała pełnych źródeł, zasłaniając się bezpieczeństwem agentów. Wojskowe uzasadnienie jest jasne, ale polityczne ryzyko pozostaje: jeśli fabryki nie okażą się tak wydajne, jak oceniono, operacja może zostać zapamiętana jako atak oparty na niepełnym obrazie sytuacji.",
+        "planet": "Geonosis",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 15,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298182337_8ersuv5ev",
+        "date_posted": "2026-02-02T09:00:00.000Z",
+        "campaign_date": "2026-02-02",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Po pierwszych walkach Senat spiera się o mandat operacji, los ludności Geonosis i administrację terenów zajętych przez Republikę.",
+        "description": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
+        "category_key": "politics",
+        "category_color": "#06b6d4",
+        "category": "POLITICS",
+        "title": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
+        "headline": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
+        "body": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
+        "planet": "Coruscant",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS",
+          "Neutral"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 13,
+        "updated_date": "2026-10-29T18:26:28.581Z"
+      },
+      {
+        "id": "holonetarticle_1793298186689_jctzvaarv",
+        "date_posted": "2026-10-24T08:00:00.000Z",
+        "campaign_date": "2026-10-24",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Komisja bada łańcuch transportów łączący Baktoid, Techno Union i Trade Federation. Poszlaki są silne, ale nie stanowią jeszcze rozstrzygającego dowodu świadomego wsparcia wojennego.",
+        "description": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
+        "category_key": "investigation",
+        "category_color": "#8b5cf6",
+        "category": "INVESTIGATION",
+        "title": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
+        "headline": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
+        "body": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
+        "planet": "Geonosis",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
         "display_order": 12,
-        "updated_date": "2026-10-29T16:21:29.029Z"
+        "updated_date": "2026-10-29T18:26:28.581Z"
       }
     ],
     "TimelineEvent": [
@@ -42293,11 +42558,16 @@
           "Republic",
           "CIS"
         ],
-        "holonet_article_ids": [],
+        "holonet_article_ids": [
+          "holonet_post_altis_10_geonosis",
+          "holonetarticle_1793298177677_7e8gv5pwb",
+          "holonetarticle_1793298182337_8ersuv5ev",
+          "holonetarticle_1793298186689_jctzvaarv"
+        ],
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
-        "updated_date": "2026-10-16T11:12:18.413Z"
+        "updated_date": "2026-10-29T18:29:58.794Z"
       }
     ],
     "BattlefrontsConfig": [
@@ -42514,7 +42784,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 250,
+        "revision": 254,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -96826,7 +97096,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 181,
+    "revision": 190,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
