@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1793300231449,
-  "published_at": "2026-10-29T20:37:29.358Z",
+  "published_at": "2026-10-29T21:29:58.725Z",
   "source_data_updated_at": "2026-10-29T18:57:11.449Z",
   "entities": {
     "Planet": [
@@ -48408,12 +48408,42 @@
         "primary_planet_name": "Geonosis",
         "section_title": "ACTIVE BATTLEFRONTS",
         "section_subtitle": "Active Conflict Zones",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "section_title": "AKTYWNE FRONTY",
+            "section_subtitle": "Strefy aktywnych konfliktów"
+          },
+          "en": {
+            "section_title": "ACTIVE BATTLEFRONTS",
+            "section_subtitle": "Active Conflict Zones"
+          },
+          "hut": {
+            "section_title": "ACTIVE BATTLEFRONTS",
+            "section_subtitle": "Active conflict zones"
+          }
+        },
         "updated_date": "2026-06-21T09:11:30.014000"
       },
       {
         "id": "6a1cdc1cbe367be0e4960566",
         "section_title": "ACTIVE BATTLEFRONTS",
         "section_subtitle": "Active Conflict Zones",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "section_title": "AKTYWNE FRONTY",
+            "section_subtitle": "Strefy aktywnych konfliktów"
+          },
+          "en": {
+            "section_title": "ACTIVE BATTLEFRONTS",
+            "section_subtitle": "Active Conflict Zones"
+          },
+          "hut": {
+            "section_title": "ACTIVE BATTLEFRONTS",
+            "section_subtitle": "Active conflict zones"
+          }
+        },
         "updated_date": "2026-06-21T09:11:30.014000"
       }
     ],
@@ -48421,6 +48451,18 @@
       {
         "id": "69e96bf6473742fe2115ba08",
         "message": "InterGalactic Banking Clan Warns of Credit Instability Amid Crisis",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "message": "Międzygalaktyczny Klan Bankowy ostrzega przed niestabilnością kredytową w obliczu kryzysu"
+          },
+          "en": {
+            "message": "InterGalactic Banking Clan Warns of Credit Instability Amid Crisis"
+          },
+          "hut": {
+            "message": "InterGalactic Banking Clan warns of unstable wupiupi in the crisis"
+          }
+        },
         "is_active": true,
         "order": 4,
         "updated_date": "2026-04-23T00:48:26.611000"
@@ -48428,6 +48470,18 @@
       {
         "id": "69e967a3c8f07178258ae5d5",
         "message": "Hutt Cartel Tightens Control Over Outer Rim Trade Routes",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "message": "Kartel Huttów umacnia kontrolę nad szlakami handlowymi Zewnętrznych Rubieży"
+          },
+          "en": {
+            "message": "Hutt Cartel Tightens Control Over Outer Rim Trade Routes"
+          },
+          "hut": {
+            "message": "Hutt Cartel tightens its grip on Outer Rim trade routes"
+          }
+        },
         "is_active": true,
         "order": 3,
         "updated_date": "2026-04-23T00:28:19.508000"
@@ -48435,6 +48489,18 @@
       {
         "id": "69e967972c30ccf29f266adb",
         "message": "Count Dooku Gains Fresh Support in Outer Rim Systems",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "message": "Hrabia Dooku zdobywa nowe poparcie w systemach Zewnętrznych Rubieży"
+          },
+          "en": {
+            "message": "Count Dooku Gains Fresh Support in Outer Rim Systems"
+          },
+          "hut": {
+            "message": "Count Dooku gains new allies across Outer Rim systems"
+          }
+        },
         "is_active": true,
         "order": 2,
         "updated_date": "2026-04-23T00:32:58.184000"
@@ -48442,6 +48508,18 @@
       {
         "id": "69cff47dd7e1764d940cf7e8",
         "message": "Senate Deadlocked Again Over Military Creation Act",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "message": "Senat ponownie pogrążony w impasie wokół ustawy o utworzeniu armii"
+          },
+          "en": {
+            "message": "Senate Deadlocked Again Over Military Creation Act"
+          },
+          "hut": {
+            "message": "Senate deadlocks again over the Military Creation Act"
+          }
+        },
         "is_active": true,
         "order": 1,
         "updated_date": "2026-04-22T13:06:44.783000"
@@ -48454,6 +48532,24 @@
         "section_title": "ACTIVE TRAINING",
         "planet_name": "Kamino",
         "section_subtitle": "1 Upcoming",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "facility_description": "Sektor Abrion",
+            "section_title": "AKTYWNE SZKOLENIE",
+            "section_subtitle": "1 nadchodzące"
+          },
+          "en": {
+            "facility_description": "Abrion Sector",
+            "section_title": "ACTIVE TRAINING",
+            "section_subtitle": "1 Upcoming"
+          },
+          "hut": {
+            "facility_description": "Abrion Sector",
+            "section_title": "ACTIVE TRAINING",
+            "section_subtitle": "1 upcoming"
+          }
+        },
         "updated_date": "2026-06-01T02:06:16.763000"
       },
       {
@@ -48461,6 +48557,24 @@
         "facility_description": "Abrion Sector",
         "section_title": "ACTIVE TRAINING",
         "section_subtitle": "1 Upcoming",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "facility_description": "Sektor Abrion",
+            "section_title": "AKTYWNE SZKOLENIE",
+            "section_subtitle": "1 nadchodzące"
+          },
+          "en": {
+            "facility_description": "Abrion Sector",
+            "section_title": "ACTIVE TRAINING",
+            "section_subtitle": "1 Upcoming"
+          },
+          "hut": {
+            "facility_description": "Abrion Sector",
+            "section_title": "ACTIVE TRAINING",
+            "section_subtitle": "1 upcoming"
+          }
+        },
         "updated_date": "2026-06-01T02:06:16.763000"
       }
     ],
@@ -49044,6 +49158,21 @@
         "key": "Republic",
         "name": "Galactic Republic",
         "label": "REPUBLIC CONTROL",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Republika Galaktyczna",
+            "label": "KONTROLA REPUBLIKI"
+          },
+          "en": {
+            "name": "Galactic Republic",
+            "label": "REPUBLIC CONTROL"
+          },
+          "hut": {
+            "name": "Galactica Republica",
+            "label": "REPUBLICA KONTROLA"
+          }
+        },
         "color": "#60a5fa",
         "icon": "/images/factions/republic.webp",
         "fleet_icon": "/images/fleets/1787562231628_obraz_2026-08-24_110351597.webp",
@@ -49164,6 +49293,21 @@
         "key": "CIS",
         "name": "Confederacy of Independent Systems",
         "label": "Separatist control",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Konfederacja Niezależnych Systemów",
+            "label": "KONTROLA SEPARATYSTÓW"
+          },
+          "en": {
+            "name": "Confederacy of Independent Systems",
+            "label": "SEPARATIST CONTROL"
+          },
+          "hut": {
+            "name": "Confederacia Independent Systema",
+            "label": "SEPARATISTA KONTROLA"
+          }
+        },
         "color": "#f87171",
         "icon": "/images/factions/cis.webp",
         "fleet_icon": "/images/fleets/1787568324057_obraz_2026-08-24_124524021.webp",
@@ -49343,6 +49487,21 @@
         "key": "Hutt Cartel",
         "name": "Hutt Cartel",
         "label": "HUTT CONTROL",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Kartel Huttów",
+            "label": "KONTROLA HUTTÓW"
+          },
+          "en": {
+            "name": "Hutt Cartel",
+            "label": "HUTT CONTROL"
+          },
+          "hut": {
+            "name": "Hutt Kajidica",
+            "label": "HUTT KONTROLA"
+          }
+        },
         "color": "#4ade80",
         "icon": "/images/factions/hutt_cartel.webp",
         "transport_icon": "/images/transports/1787590322081_obraz_2026-08-24_185202050.webp",
@@ -49417,6 +49576,21 @@
         "key": "Neutral",
         "name": "Independent Worlds",
         "label": "INDEPENDENT WORLDS",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "Światy Niezależne",
+            "label": "ŚWIATY NIEZALEŻNE"
+          },
+          "en": {
+            "name": "Independent Worlds",
+            "label": "INDEPENDENT WORLDS"
+          },
+          "hut": {
+            "name": "Freea Worlda",
+            "label": "FREEA WORLDA"
+          }
+        },
         "color": "#94a3b8",
         "icon": "/images/factions/neutral.webp",
         "fleet_icon": "/images/fleets/1787590778860_obraz_2026-08-24_185938837.webp",
@@ -49449,6 +49623,21 @@
         "key": "UNSC",
         "name": "UNSC",
         "label": "UNSC Control",
+        "source_language": "en",
+        "translations": {
+          "pl": {
+            "name": "UNSC",
+            "label": "KONTROLA UNSC"
+          },
+          "en": {
+            "name": "UNSC",
+            "label": "UNSC CONTROL"
+          },
+          "hut": {
+            "name": "UNSC",
+            "label": "UNSC KONTROLA"
+          }
+        },
         "color": "#006401",
         "icon": "/images/factions/1787553139117_obraz_2026-08-24_083219098.webp",
         "fleet_icon": "/images/fleets/1787571255979_obraz_2026-08-24_133415946.webp",
