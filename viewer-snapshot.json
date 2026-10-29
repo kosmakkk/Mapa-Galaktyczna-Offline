@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign_version": 1792148577645,
-  "published_at": "2026-10-22T18:49:20.513Z",
+  "published_at": "2026-10-29T12:51:42.055Z",
   "source_data_updated_at": "2026-10-16T11:02:57.645Z",
   "entities": {
     "Planet": [
@@ -45135,6 +45135,38 @@
         "military_version": 1,
         "profile_key": "line",
         "updated_date": "2026-09-14T04:59:36.949Z"
+      },
+      {
+        "id": "unknown-formation-5e6330712d61cce0",
+        "type": "contact",
+        "name": "Unknown Formation",
+        "faction_key": "Unknown",
+        "is_hidden": true,
+        "location_planet": "Unknown Planet"
+      },
+      {
+        "id": "unknown-formation-755496aa2b12a9d3",
+        "type": "contact",
+        "name": "Unknown Formation",
+        "faction_key": "Unknown",
+        "is_hidden": true,
+        "location_planet": "Unknown Planet"
+      },
+      {
+        "id": "unknown-formation-2d20c33a177ed0e2",
+        "type": "contact",
+        "name": "Unknown Formation",
+        "faction_key": "Unknown",
+        "is_hidden": true,
+        "location_planet": "Unknown Planet"
+      },
+      {
+        "id": "unknown-formation-1f331de2f3924e37",
+        "type": "contact",
+        "name": "Unknown Formation",
+        "faction_key": "Unknown",
+        "is_hidden": true,
+        "location_planet": "Unknown Planet"
       },
       {
         "id": "formation_ebc1ab6e-c694-40ac-bfd9-fd25c54ad479",
