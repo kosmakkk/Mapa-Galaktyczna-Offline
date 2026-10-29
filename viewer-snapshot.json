@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793281249822,
-  "published_at": "2026-10-29T14:06:05.266Z",
-  "source_data_updated_at": "2026-10-29T13:40:49.822Z",
+  "campaign_version": 1793283833067,
+  "published_at": "2026-10-29T14:25:26.196Z",
+  "source_data_updated_at": "2026-10-29T14:23:53.067Z",
   "entities": {
     "Planet": [
       {
@@ -42247,7 +42247,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 216,
+        "revision": 219,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -96543,11 +96543,11 @@
       {
         "planetId": "6986b22de39e921902608373",
         "sides": {
-          "attacker": [
-            "Republic"
-          ],
           "defender": [
             "CIS"
+          ],
+          "attacker": [
+            "Republic"
           ]
         }
       }
