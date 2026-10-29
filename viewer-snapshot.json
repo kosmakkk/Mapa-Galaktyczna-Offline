@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1792148577645,
-  "published_at": "2026-10-29T13:22:37.594Z",
-  "source_data_updated_at": "2026-10-16T11:02:57.645Z",
+  "campaign_version": 1793281249822,
+  "published_at": "2026-10-29T14:06:05.266Z",
+  "source_data_updated_at": "2026-10-29T13:40:49.822Z",
   "entities": {
     "Planet": [
       {
@@ -41375,12 +41375,13 @@
     "HoloNetArticle": [
       {
         "id": "holonet_prewar_10_altis_fallen",
-        "date_posted": "2021-11-05T12:00:00Z",
+        "date_posted": "2021-11-05T11:00:00.000Z",
         "campaign_date": "2021-11-05",
-        "is_active": true,
-        "is_pinned": true,
+        "is_active": false,
+        "is_pinned": false,
         "image_url": "",
         "summary": "Obrona Altis załamała się po odcięciu ostatnich szlaków zaopatrzenia. Republika koncentruje flotę i armię, a Senat przygotowuje odpowiedź na zwycięstwo CIS.",
+        "description": "PILNE — ALTIS. Ostatnie zorganizowane punkty obrony planety przestały odpowiadać po przerwaniu drogi łączącej zachodnie miasta z magazynami centralnymi. Mandaloriańskie oddziały nadal walczą w rozproszonych grupach, lecz administracja Altis utraciła łączność z portami, elektrowniami i większością schronów. Tysiące mieszkańców oczekują na ewakuację.\n\nKonfederacja ogłosiła zakończenie „operacji zabezpieczającej” i wezwała ludność do podporządkowania się nowym władzom. Jej komunikat obiecuje przywrócenie dostaw oraz amnestię dla obrońców, którzy złożą broń. Z powierzchni napływają jednak doniesienia o konfiskatach, kontrolach dzielnic i zatrzymaniach osób związanych z lokalnymi klanami.\n\nNa Coruscant skończyła się dotychczasowa ostrożność. Flota otrzymała rozkaz koncentracji, a Armia Republiki przegrupowuje oddziały z misji patrolowych. Źródła wojskowe przyznają, że mobilizacja jest pospieszna: część jednostek nadal używa wyposażenia Fazy I, zapasy rozrzucono po odległych placówkach, a wspólne dowodzenie większymi związkami dopiero powstaje.\n\n„Nie składamy broni. Altis nie będzie końcem naszej historii” — przekazał jeden z ocalałych dowódców. W wielu systemach odbywają się demonstracje solidarności, a mandaloriańskie klany organizują własne transporty. Formalna decyzja o wojnie jeszcze nie zapadła, lecz upadek Altis stał się granicą, po której powrót do wcześniejszego porządku wydaje się niemożliwy. W całej galaktyce rozpoczęło się gorączkowe liczenie sił.",
         "category_color": "#ef4444",
         "category": "PILNE",
         "title": "Altis upadło. Republika mówi: dość",
@@ -41395,17 +41396,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 1,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 2,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_09_altis_siege",
-        "date_posted": "2021-10-12T12:00:00Z",
+        "date_posted": "2021-10-12T10:00:00.000Z",
         "campaign_date": "2021-10-12",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "CIS zamknęło szlaki do Altis i uderzyło na porty oraz łączność. Podzieleni obrońcy proszą Republikę o korytarz humanitarny i polityczne wsparcie.",
+        "description": "ALTIS — Siły Konfederacji zamknęły główne szlaki prowadzące do planety i rozpoczęły skoordynowane uderzenia na mandaloriańskie porty, magazyny oraz węzły łączności. Droidy nacierają równocześnie w kilku regionach, zmuszając obrońców do dzielenia szczupłych rezerw. Transporty cywilne zawracają, a ceny żywności i leków rosną z każdą godziną.\n\nAltis nie ma jednego ośrodka dowodzenia. Miasta, klany i lokalne milicje bronią własnych sektorów, lecz używają różnych częstotliwości i nie uzgodniły priorytetów. „Walczymy o te same ziemie, ale każdy otrzymuje inne rozkazy” — przekazał jeden z obrońców. Konfederacja wykorzystuje chaos, obchodząc umocnienia i przecinając drogi między nimi.\n\nPrzedstawiciele planety zwrócili się do Republiki o otwarcie korytarza humanitarnego oraz uznanie działań CIS za agresję. Coruscant wysłało pomoc medyczną i obserwatorów, ale nie zdecydowało o pełnej interwencji. Armia pozostaje rozproszona na szlakach patrolowych, a część senatorów ostrzega, że wejście do systemu może rozpocząć wojnę na skalę galaktyczną.\n\nNa powierzchni przybywa uchodźców. Organizacje pomocowe próbują docierać małymi statkami, lecz blokada przepuszcza wyłącznie ładunki zatwierdzone przez CIS. Altis nadal walczy, a nocne transmisje pokazują działające baterie obronne i improwizowane szpitale. Bez wspólnego dowodzenia oraz zewnętrznych dostaw obrońcy mogą jednak nie utrzymać portów wystarczająco długo, by pomoc zdążyła nadejść.",
         "category_color": "#a855f7",
         "category": "ALTIS",
         "title": "Altis pod oblężeniem: Mandalorianie proszą o pomoc",
@@ -41419,17 +41422,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 1,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 3,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_08_small_wars_warning",
-        "date_posted": "2021-06-04T12:00:00Z",
+        "date_posted": "2021-06-04T10:00:00.000Z",
         "campaign_date": "2021-06-04",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Raporty z Kabal pokazują, że armia przygotowana do krótkich misji policyjnych coraz częściej walczy z przeciwnikiem działającym jak regularne wojsko.",
+        "description": "KABAL — RAPORT TERENOWY. Po starciach wokół stacji przekaźnikowej klony opisują przeciwnika wyraźnie różniącego się od piratów ze szlaków Savareen. Separatystyczne oddziały potrafią utrzymać pozycje, wycofać się pod osłoną i wrócić z nowym planem. Każdy taki kryzys pozostaje lokalny, lecz razem tworzą obraz narastającego konfliktu.\n\n„Po pierwszej godzinie nadal wykonujesz zadanie zgodnie z instrukcją. Po trzecim dniu kończą się części, sen i pewność, skąd nadejdzie następny atak” — mówi żołnierz, którego oznaczenia ukryto. Największym problemem nie jest wyszkolenie, lecz logistyka: amunicja, łączność, ewakuacja rannych oraz brak wspólnych ćwiczeń większych formacji.\n\nPersonel medyczny zgłasza podobne trudności. Zespoły projektowane do szybkiego zabezpieczenia obiektu muszą utrzymywać punkty pomocy pod ostrzałem, a transporty krążą między placówkami rozrzuconymi po planecie. Dowództwo zna te uwagi i prosi o dodatkowe magazyny, sprawniejsze pojazdy oraz procedury przekazywania rozkazów między legionami.\n\nSenatorowie odpowiadają, że Konfederacja nie wystawiła jeszcze regularnej armii przeciw Republice, a kosztowna mobilizacja mogłaby przyspieszyć eskalację. Klony wykonują swoje zadania, lecz każde zwycięstwo wymaga więcej czasu i zasobów. Kabal jest ostrzeżeniem: małe wojny mogą stać się jedną wielką wojną wcześniej, niż instytucje Republiki zdążą ją oficjalnie nazwać. Czasu jest mało.",
         "category_color": "#64748b",
         "category": "RAPORT TERENOWY",
         "title": "Małe wojny, wielkie ostrzeżenie",
@@ -41443,17 +41448,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 2,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 4,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_07_phase_two_deferred",
-        "date_posted": "2020-11-21T12:00:00Z",
+        "date_posted": "2020-11-21T11:00:00.000Z",
         "campaign_date": "2020-11-21",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Komisja Zaopatrzenia odłożyła pełne wdrożenie Fazy II. Wojskowi ostrzegają, że sprzęt i struktura armii coraz słabiej odpowiadają dłuższym kryzysom.",
+        "description": "KAMINO — Komisja Zaopatrzenia odłożyła szerokie wdrożenie wyposażenia określanego jako Faza II. Program obejmuje nie tylko nowy pancerz, ale też lepszą łączność, ochronę medyczną, wyposażenie specjalistyczne i logistykę dla oddziałów działających z dala od baz. Komisja uznała jednak, że obecne zagrożenia nie uzasadniają natychmiastowych kosztów.\n\nZwolennicy decyzji wskazują na udane operacje przeciw piratom i skorumpowanym urzędnikom. „Projektowanie całej struktury pod najgorszy scenariusz może uczynić ten scenariusz bardziej prawdopodobnym” — powiedział jeden z senatorów. Według niego widok ciężko uzbrojonych legionów w spokojnych systemach wzmocni propagandę Konfederacji i obawy przed centralizacją.\n\nWojskowi przedstawiają mniej uspokajający obraz. Pancerz Fazy I sprawdza się podczas abordażu i krótkiego zabezpieczenia obiektu, ale dłuższe rozmieszczenia ujawniają problemy z częściami, sensorami i komunikacją. Kaminoańscy specjaliści proponują stopniowe ulepszenia, zaczynając od jednostek najbardziej narażonych na odcięcie od zaplecza. Instruktorzy domagają się również wspólnych ćwiczeń większych związków.\n\nFaza II nie została anulowana. Dokumentacja, prototypy i linie przygotowawcze pozostają gotowe, lecz nie podano nowego terminu. Decyzja daje budżetowi chwilę oddechu, jednocześnie powiększając różnicę między armią przeznaczoną do utrzymania porządku a siłą potrzebną do prowadzenia wojny. Jeśli kryzysy będą narastać, oszczędność może okazać się najdroższym wyborem Senatu.",
         "category_color": "#f59e0b",
         "category": "ANALIZA",
         "title": "Faza I wystarczy? Senat odkłada modernizację armii klonów",
@@ -41466,17 +41473,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 3,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 5,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_06_confederate_voice",
-        "date_posted": "2020-06-27T12:00:00Z",
+        "date_posted": "2020-06-27T10:00:00.000Z",
         "campaign_date": "2020-06-27",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Komentatorzy z Raxus odrzucają republikańską narrację o piractwie i żądają jawnych umów, niezależnych obserwatorów oraz kontroli nad każdą interwencją klonów.",
+        "description": "RAXUS — KOMENTARZ KONFEDERACYJNY. Wydarzenia na Kabal nie były nagłym atakiem piratów na pokojową placówkę. Poprzedziły je miesiące sporów o stację przekaźnikową, podatki i obecność republikańskich oddziałów. Coruscant opisuje pierwszy strzał, ale pomija decyzje, które doprowadziły mieszkańców i miejscową milicję do blokady.\n\nNie każde działanie milicji było rozsądne i nie każdy dowódca reprezentował ludność. Nie usprawiedliwia to jednak traktowania politycznego sprzeciwu jak działalności przestępczej. Republika wskazuje sukcesy na Savareen i Koorivie, choć właśnie tam wojskowa skuteczność zastąpiła debatę o tym, kto zaprosił klony, określił ich mandat i może nakazać im odejść.\n\nKlony nie są winne polityce, którą wykonują. Odpowiedzialność spoczywa na instytucjach wydających rozkazy bez przejrzystej kontroli. Konfederacja wzywa systemy do publikowania umów z Coruscant, dokumentowania zatrzymań oraz tworzenia wspólnych komisji zdolnych sprawdzić, czy „tymczasowa” obecność wojskowa naprawdę pozostaje tymczasowa.\n\nRaxus proponuje międzyplanetarny zespół obserwatorów, który przybywałby równocześnie z oddziałami Republiki i składał jawne raporty obu stronom. Na Kabal broń ucichła, ale zasadniczy spór trwa. Jeżeli każdy opór nadal będzie nazywany piractwem, kolejne systemy uznają, że jedyną drogą do zachowania autonomii jest opuszczenie Republiki, zanim pod ich portami pojawią się transportowce z klonami.",
         "category_color": "#dc2626",
         "category": "KONFEDERACJA",
         "title": "Republika każdą rebelię nazywa piractwem",
@@ -41490,17 +41499,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 4,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 6,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_05_kabal_incident",
-        "date_posted": "2020-02-19T12:00:00Z",
+        "date_posted": "2020-02-19T11:00:00.000Z",
         "campaign_date": "2020-02-19",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Trzydniowe starcie o stację przekaźnikową na Kabal było pierwszą regularną walką klonów z separatystyczną milicją i ujawniło luki w procedurach Republiki.",
+        "description": "KABAL — Trzydniowy kryzys wokół republikańskiej stacji przekaźnikowej zakończył się po wycofaniu separatystycznej milicji z pobliskiego miasta. Było to pierwsze potwierdzone starcie, w którym klony walczyły z formacją polityczną utrzymującą pozycje, łączność i zaplecze, a nie z rozproszonymi piratami lub przemytnikami.\n\nSpór rozpoczął się od blokady dróg prowadzących do instalacji. Milicja żądała przekazania kontroli władzom lokalnym, podczas gdy Republika uznała stację za element wspólnej sieci bezpieczeństwa. Klony otrzymały rozkaz utrzymania obiektu i otwarcia korytarza dla cywilów. Pierwszy ogień padł podczas usuwania barykady; obie strony oskarżają się o eskalację.\n\n„Piraci zwykle uciekają, gdy tracą przewagę. Tutaj przeciwnik przegrupował się i wrócił” — powiedział uczestnik walk. Dowództwo przyznaje, że procedury stworzone dla krótkich operacji spowalniały reakcję, a różne kanały łączności utrudniały współpracę między posterunkami. Władze Kabal potwierdzają ofiary po obu stronach oraz uszkodzenia sieci energetycznej.\n\nNa Coruscant wydarzenia wywołały spór o odpowiedzialność i mandat armii. Republika nie ogłosiła mobilizacji, a stacja nadal działa pod ochroną klonów. Mimo zakończenia walk Kabal pokazało, że lokalny kryzys może szybko przyjąć formę regularnej bitwy. To ostrzeżenie dotyczy nie tylko wyposażenia żołnierzy, lecz także polityki, która wysyła ich w teren bez jasnego rozwiązania sporu.",
         "category_color": "#ef4444",
         "category": "KRYZYS",
         "title": "Pierwszy ogień na Kabal: klony starły się z separatystyczną milicją",
@@ -41514,17 +41525,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 5,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 7,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_04_clean_ledger",
-        "date_posted": "2019-10-14T12:00:00Z",
+        "date_posted": "2019-10-14T10:00:00.000Z",
         "campaign_date": "2019-10-14",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Republika zabezpieczyła kooriviańskie archiwa i ujawniła sieć przemytu, lecz sukces śledczy pogłębił spór o zgodę na wojskowe operacje wewnątrz autonomicznych systemów.",
+        "description": "KOORIVA — Republikańscy śledczy, wspierani przez oddziały klonów, zabezpieczyli centralne archiwum celne i trzy prywatne węzły komunikacyjne. Operację Czyste Konto przeprowadzono jednocześnie w kilku dzielnicach, zanim lokalna administracja otrzymała pełną listę celów. Urzędnicy twierdzą, że zaskoczenie zapobiegło zniszczeniu dowodów.\n\n„Zadaniem żołnierzy nie było prowadzenie śledztwa ani wskazywanie winnych. Mieli ochronić dokumenty i ludzi” — oświadczył republikański prokurator. Wstępna analiza ujawniła fałszywe transfery ładunków, płatności dla celników i powiązania z przemytnikami działającymi na kilku szlakach. Część przejętych towarów wracała później na legalny rynek.\n\nReakcje mieszkańców są podzielone. Jedni witają zatrzymania jako długo oczekiwane uderzenie w korupcję, inni pytają, dlaczego o wejściu klonów zdecydowano poza planetą. Kupcy obawiają się zamrożenia rachunków i opóźnień w portach. Przed zgromadzeniem pojawili się demonstranci z hasłem „Kooriva nie jest podejrzanym”.\n\nArmia przedstawia Czyste Konto jako wzorcową misję: krótka akcja, ograniczone użycie siły i szybkie przekazanie obiektów cywilom. Politycy Koorivy odpowiadają, że skuteczność nie zastępuje zgody. O wyniku operacji zdecydują procesy i ujawnione dokumenty. Ten sam materiał może oczyścić administrację albo potwierdzić obawy, że mandat ochronny staje się narzędziem wpływu Coruscant. Pierwsze rozprawy mają rozpocząć się jeszcze w tym kwartale.",
         "category_color": "#94a3b8",
         "category": "ŚLEDZTWO",
         "title": "Operacja Czyste Konto ujawnia sieć korupcji na Koorivie",
@@ -41537,17 +41550,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 6,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 8,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_03_senate_limits",
-        "date_posted": "2019-03-26T12:00:00Z",
+        "date_posted": "2019-03-26T11:00:00.000Z",
         "campaign_date": "2019-03-26",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Pierwszy pełny przegląd Mandatu Ochronnego chwali skuteczność klonów, ale nie rozwiązuje pytań o cywilny nadzór, odpowiedzialność za rozkazy i gotowość do dłuższej wojny.",
+        "description": "CORUSCANT — Senat rozpoczął debatę nad pierwszym pełnym sprawozdaniem z rozszerzonego Mandatu Ochronnego Armii Republiki. Raport odnotowuje spadek napadów na wybranych szlakach, sprawne eskorty i niewielką liczbę przypadków użycia siły wobec cywilów. Zwolennicy programu uznają te wyniki za dowód skuteczności jednolitego dowodzenia.\n\nKrytycy pytają, kto odpowiada za błędny rozkaz. Klon wykonuje polecenie oficera, ten działa na podstawie decyzji komisji, kanclerza albo zaproszenia władz planetarnych. „Nikt nie kwestionuje odwagi żołnierzy. Kwestionujemy łańcuch decyzji, który może pozostawić mieszkańców bez miejsca do złożenia skargi” — mówiła jedna z senatorek.\n\nNajwiększe emocje budzą operacje antykorupcyjne. Zabezpieczenie dokumentów może ochronić śledztwo, ale obecność wojska w urzędzie łatwo staje się naciskiem politycznym. Komisja nadzorcza ma odtąd publikować podstawę prawną każdego rozmieszczenia i instytucję, która o nie wystąpiła. Budżet pozostawia pancerz Fazy I oraz obecną flotę transportową bez większych zmian.\n\nDebata nie zmieniła mandatu. Senat zaostrzył raportowanie zatrzymań i utrzymał klony na zagrożonych szlakach. Poza gmachem demonstranci jednocześnie dziękowali armii za ochronę konwojów i potępiali interwencje bez pełnego głosowania. Otwarte pozostaje pytanie, czy skuteczność ograniczy pokusę nadużycia siły, czy właśnie uczyni taką pokusę silniejszą. Kolejny przegląd zaplanowano za rok.",
         "category_color": "#f59e0b",
         "category": "SENAT",
         "title": "Armia porządku czy narzędzie polityczne?",
@@ -41560,17 +41575,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 7,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 9,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_02_safe_passage",
-        "date_posted": "2018-09-03T12:00:00Z",
+        "date_posted": "2018-09-03T10:00:00.000Z",
         "campaign_date": "2018-09-03",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Operacja Bezpieczny Szlak rozbiła piracką flotyllę, uwolniła zakładników i ujawniła korupcyjne powiązania w porcie Savareen — bez ofiar cywilnych.",
+        "description": "SAVAREEN — Po dwóch tygodniach eskort, pozorowanych lotów handlowych i skoordynowanych abordażów Armia Republiki zakończyła Operację Bezpieczny Szlak. Przejęto sześć uzbrojonych jednostek pirackich, uwolniono zakładników z trzech frachtowców i zatrzymano podejrzanych o napady na konwoje medyczne. Władze portowe nie odnotowały ofiar cywilnych.\n\nPiraci używali księżyców i wraków jako punktów obserwacyjnych. Zamiast ścigać ich po całym systemie, planiści osłonili wybrane transporty i pozwolili napastnikom wejść w przygotowaną pułapkę. „Nie ścigaliśmy ich. Musieli przyjść do nas” — powiedział oficer. Gdy rozpoczął się abordaż, pozostałe zespoły zamknęły drogi odwrotu.\n\nNa przejętych statkach znaleziono broń, fałszywe transpondery i listy płatności dla celników. Dokumenty przekazano miejscowym śledczym, a kopie pozostaną w archiwum Republiki. Kupcy od miesięcy twierdzili, że piraci znają rozkłady lotów zbyt dobrze, by działać bez pomocy wewnątrz administracji. Klony po przeszukaniu oddawały kolejne sektory lokalnym służbom.\n\nSukces odbił się echem na Coruscant. Zwolennicy patroli widzą dowód, że zagrożenia można opanować bez ciężkich kampanii; krytycy przypominają, że flotylla była rozproszona i słabo uzbrojona. Na Savareen dominuje ulga: konwoje znów ruszają, a koszty ubezpieczeń spadają. Operacja odpowiada wizji Republiki — szybko przywrócić porządek i nie pozostawać dłużej, niż jest to konieczne.",
         "category_color": "#0ea5e9",
         "category": "BEZPIECZEŃSTWO",
         "title": "Operacja Bezpieczny Szlak: piracka flotylla rozbita",
@@ -41583,17 +41600,19 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 8,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 10,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       },
       {
         "id": "holonet_prewar_01_clone_security_mandate",
-        "date_posted": "2018-02-18T12:00:00Z",
+        "date_posted": "2018-02-18T11:00:00.000Z",
         "campaign_date": "2018-02-18",
-        "is_active": true,
+        "is_active": false,
         "is_pinned": false,
         "image_url": "",
         "summary": "Senat rozszerzył Mandat Ochronny Armii Republiki. Klony obejmą stałą ochronę szlaków i portów, lecz formalnie nadal mają wspierać, a nie zastępować lokalne służby.",
+        "description": "CORUSCANT — Senat zatwierdził rozszerzenie Mandatu Ochronnego Armii Republiki. Klony będą mogły stale ochraniać główne szlaki handlowe oraz systemy, których służby nie radzą sobie z piractwem, przemytem i zorganizowaną korupcją. Dotąd większość rozmieszczeń była czasowa i wymagała osobnej zgody władz sektorowych.\n\nNowe przepisy ujednolicają zasady działania. Oddziały mają chronić konwoje humanitarne, przekaźniki i porty, wspierać negocjatorów oraz zabezpieczać dowody wspólnie z miejscową administracją. „Klon został wyszkolony, by wejść tam, gdzie zwykły patrol nie może dotrzeć, i ochronić mieszkańców do czasu przywrócenia normalnego porządku” — oświadczyła Komisja Bezpieczeństwa.\n\nZwolennicy wskazują na jednolite dowodzenie i odporność żołnierzy na lokalne naciski. Krytycy obawiają się, że ta sama niezależność odsunie społeczności od decyzji o własnym bezpieczeństwie. Każdemu rozmieszczeniu ma towarzyszyć cywilny łącznik, a rozkaz operacyjny określi ograniczenia dotyczące przeszukań, zatrzymań i użycia broni.\n\nArmia pozostaje przygotowana przede wszystkim do krótkich działań. Pancerz Fazy I, lekkie transporty i okręty patrolowe mają wystarczyć do ochrony infrastruktury; raport nie przewiduje ciężkich zapasów potrzebnych w długiej wojnie. Pierwszy przegląd mandatu odbędzie się po roku. Republika posiada armię, lecz nadal przedstawia ją jako narzędzie utrzymania pokoju, nie zdobywania terytoriów. Debata trwa.",
         "category_color": "#3b82f6",
         "category": "REPUBLIKA",
         "title": "Klony obejmują stałą ochronę systemów Republiki",
@@ -41606,8 +41625,36 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 9,
-        "updated_date": "2026-10-22T20:00:00Z"
+        "display_order": 11,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
+      },
+      {
+        "id": "holonetarticle_1793280514538_85zpsgvz7",
+        "date_posted": "2026-10-29T12:23:00.000Z",
+        "campaign_date": "2021-11-05",
+        "is_active": false,
+        "is_pinned": false,
+        "image_url": "/images/holonet/1793280374701_Republic_flag.webp",
+        "summary": "Obywatele Republiki, mieszkańcy Coruscant, ludzie, Twi’lekowie, Bothanie, Rodianie i wszyscy wierni mieszkańcy Republiki Galaktycznej. Ja, kanclerz Sheev Palpatine, na mocy nadanej mi przez Senat, ze smutkiem ogłaszam stan wojenny na całym terenie Republiki.",
+        "description": "Obywatele Republiki, mieszkańcy Coruscant, ludzie, Twi’lekowie, Bothanie, Rodianie i\nwszyscy wierni mieszkańcy Republiki Galaktycznej. Ja, kanclerz Sheev Palpatine, na mocy\nnadanej mi przez Senat, ze smutkiem ogłaszam stan wojenny na całym terenie Republiki.\nRepublika znalazła się w obliczu zagrożenia, jakiego nie znały pokolenia naszych obywateli.\nZbrojni rebelianci z samozwańczej Konfederacji Niezależnych Systemów roszczą sobie\nprawa do naszej ojcowizny i planują ją wyrwać siłą.\nOgłaszam pełną mobilizację floty kosmicznej, jak i wojsk obrony planetarnej we wszystkich\nsystemach. Od obywateli oczekuje się pełnego posłuszeństwa w sprawach bezpieczeństwa.\nKomunikacja w systemie HoloNet będzie ograniczona w celu uniknięcia dezinformacji i\npaniki sianej przez wroga.\nWielką wagą na moim sercu ciąży strach i niepewność, których będziemy doświadczali w\nnastępnych dniach, a może i miesiącach. Ale to nie jest czas, w którym możemy pozwolić\nsobie na słabość. Wszyscy odczujemy skutki tej wojny i dlatego też chcę zapewnić Was, że\nRepublika nie zatraci ducha, nie cofnie się ani o krok i wśród ognia pochłaniającego naszą\ngalaktykę pozostanie zwycięska.\nJeden lud, jedna republika!",
+        "category_key": "urgent",
+        "category_color": "#ef4444",
+        "category": "BREAKING",
+        "title": "STAN WOJENNY W REPUBLICE GALAKTYCZNEJ",
+        "headline": "STAN WOJENNY W REPUBLICE GALAKTYCZNEJ",
+        "body": "Obywatele Republiki, mieszkańcy Coruscant, ludzie, Twi’lekowie, Bothanie, Rodianie i\nwszyscy wierni mieszkańcy Republiki Galaktycznej. Ja, kanclerz Sheev Palpatine, na mocy\nnadanej mi przez Senat, ze smutkiem ogłaszam stan wojenny na całym terenie Republiki.\nRepublika znalazła się w obliczu zagrożenia, jakiego nie znały pokolenia naszych obywateli.\nZbrojni rebelianci z samozwańczej Konfederacji Niezależnych Systemów roszczą sobie\nprawa do naszej ojcowizny i planują ją wyrwać siłą.\nOgłaszam pełną mobilizację floty kosmicznej, jak i wojsk obrony planetarnej we wszystkich\nsystemach. Od obywateli oczekuje się pełnego posłuszeństwa w sprawach bezpieczeństwa.\nKomunikacja w systemie HoloNet będzie ograniczona w celu uniknięcia dezinformacji i\npaniki sianej przez wroga.\nWielką wagą na moim sercu ciąży strach i niepewność, których będziemy doświadczali w\nnastępnych dniach, a może i miesiącach. Ale to nie jest czas, w którym możemy pozwolić\nsobie na słabość. Wszyscy odczujemy skutki tej wojny i dlatego też chcę zapewnić Was, że\nRepublika nie zatraci ducha, nie cofnie się ani o krok i wśród ognia pochłaniającego naszą\ngalaktykę pozostanie zwycięska.\nJeden lud, jedna republika!",
+        "planet": "",
+        "sector": "",
+        "faction_keys": [
+          "CIS",
+          "Republic"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "display_order": 1,
+        "updated_date": "2026-10-29T13:28:54.289Z",
+        "publication_status": "outdated"
       }
     ],
     "TimelineEvent": [
@@ -41702,12 +41749,16 @@
         "id": "timeline_prewar_phase_two_deferred",
         "timeline_version": 1,
         "event_date": "2020-11-21",
+        "event_end_date": null,
+        "event_date_precision": "exact",
+        "event_end_date_precision": null,
+        "event_ongoing": false,
         "title": "Modernizacja Fazy II odłożona",
         "summary": "Senat odłożył masową modernizację pancerza, logistyki i doktryny Armii Republiki.",
         "content": "Dotychczasowe zwycięstwa w krótkich operacjach uznano za dowód wystarczalności Fazy I. Kontynuowano ograniczone testy, lecz nie przebudowano armii pod długą wojnę, ciężki transport ani równoczesne działania wielu dużych formacji.",
         "category": "politics",
         "status": "published",
-        "importance": "milestone",
+        "importance": "normal",
         "same_day_order": 1,
         "image_url": null,
         "planet_ids": [
@@ -41724,7 +41775,7 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
-        "updated_date": "2026-10-21T12:00:00Z"
+        "updated_date": "2026-10-29T13:40:22.238Z"
       },
       {
         "id": "timeline_prewar_altis_fall",
@@ -41906,7 +41957,7 @@
         "content": "Starcie UNSC z UNKNOWN ENEMY zakończyło się klęską sił ludzkich. Utrata wysokogórskiego świata umocniła kontrolę UNKNOWN ENEMY nad systemem 101.",
         "category": "battle",
         "status": "published",
-        "importance": "milestone",
+        "importance": "normal",
         "same_day_order": 1,
         "image_url": null,
         "planet_ids": [
@@ -41920,7 +41971,7 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
-        "updated_date": "2026-10-16T13:24:16.779Z"
+        "updated_date": "2026-10-29T13:39:58.040Z"
       },
       {
         "id": "timeline_c3489947-1262-4bd6-be5a-c896805ce9ea",
@@ -41929,12 +41980,13 @@
         "event_end_date": "2023-12-13",
         "event_date_precision": "approximate",
         "event_end_date_precision": "approximate",
+        "event_ongoing": false,
         "title": "Bitwa o Malden",
         "summary": "UNSC i Republika przełamały obronę CIS i odbiły Malden.",
         "content": "Malden, pierwotnie należące do UNSC, zostało wcześniej podbite przez CIS. Gdy kontrofensywa UNSC napotkała silną obronę Konfederacji, wezwano wsparcie Republiki. Na planetę przybył 41st pod dowództwem komandora Taviona; Marshall Commander Kos i cały 104th pozostawali w tym czasie na Iberiusie. Wspólne siły ostatecznie wyzwoliły Malden i przywróciły je UNSC.",
         "category": "battle",
         "status": "published",
-        "importance": "milestone",
+        "importance": "normal",
         "same_day_order": 1,
         "image_url": null,
         "planet_ids": [
@@ -41949,7 +42001,7 @@
         "strategic_turn_numbers": [],
         "battle_refs": [],
         "protected_epoch": false,
-        "updated_date": "2026-10-16T10:34:48.001Z"
+        "updated_date": "2026-10-29T13:40:45.989Z"
       },
       {
         "id": "timeline_00527cd4-0a21-43cf-a615-0e77f12df31c",
@@ -42195,7 +42247,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 199,
+        "revision": 216,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -96477,7 +96529,7 @@
     "version": 1,
     "timelineEpoch": 3,
     "turn": 4,
-    "revision": 139,
+    "revision": 153,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
