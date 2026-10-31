@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793300231449,
-  "published_at": "2026-10-31T08:33:16.085Z",
-  "source_data_updated_at": "2026-10-29T18:57:11.449Z",
+  "campaign_version": 1793436174705,
+  "published_at": "2026-10-31T08:44:57.825Z",
+  "source_data_updated_at": "2026-10-31T08:42:54.705Z",
   "entities": {
     "Planet": [
       {
@@ -48730,7 +48730,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 276,
+        "revision": 277,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -49037,6 +49037,48 @@
               "activationTurn": 5,
               "minimumEndTurn": 8
             }
+          },
+          {
+            "id": "corporation-pricing-repair-v1-CIS-ground-0",
+            "turn": 4,
+            "type": "pricing_repaired",
+            "faction_key": "CIS",
+            "category": "ground",
+            "corporation_id": "corp_baktoid",
+            "previous_fee": 500,
+            "corrected_fee": 12941,
+            "charged_difference": 12441,
+            "upkeep_per_turn": 1036,
+            "pricing_basis_gross_credit_income": 25882,
+            "pricing_basis_source": "computed_economy"
+          },
+          {
+            "id": "corporation-pricing-repair-v1-CIS-industry-1",
+            "turn": 4,
+            "type": "pricing_repaired",
+            "faction_key": "CIS",
+            "category": "industry",
+            "corporation_id": "corp_techno_union",
+            "previous_fee": 500,
+            "corrected_fee": 12941,
+            "charged_difference": 12441,
+            "upkeep_per_turn": 1036,
+            "pricing_basis_gross_credit_income": 25882,
+            "pricing_basis_source": "computed_economy"
+          },
+          {
+            "id": "corporation-pricing-repair-v1-CIS-commerce-2",
+            "turn": 4,
+            "type": "pricing_repaired",
+            "faction_key": "CIS",
+            "category": "commerce",
+            "corporation_id": "corp_trade_federation",
+            "previous_fee": 500,
+            "corrected_fee": 12941,
+            "charged_difference": 12441,
+            "upkeep_per_turn": 1036,
+            "pricing_basis_gross_credit_income": 25882,
+            "pricing_basis_source": "computed_economy"
           }
         ],
         "campaign_clock": {
@@ -49314,7 +49356,7 @@
         "transport_icon": "/images/transports/1787589542654_obraz_2026-08-24_183902631.webp",
         "is_hidden": false,
         "treasury": {
-          "credits": 88275,
+          "credits": 50952,
           "durasteel": 256672,
           "minerals": 17186
         },
@@ -49396,9 +49438,9 @@
               "signed_turn": 4,
               "activation_turn": 5,
               "minimum_end_turn": 8,
-              "base_signing_fee": 500,
-              "signing_fee": 500,
-              "upkeep_per_turn": 50,
+              "base_signing_fee": 12941,
+              "signing_fee": 12941,
+              "upkeep_per_turn": 1036,
               "lobby_discount_pct": 0,
               "missed_payments": 0,
               "effect_snapshot": {
@@ -49413,7 +49455,10 @@
               },
               "headquarters_planet_id": "6986b22de39e921902608373",
               "headquarters_status": "operational",
-              "evacuation_turns_remaining": 0
+              "evacuation_turns_remaining": 0,
+              "pricing_version": 2,
+              "pricing_basis_gross_credit_income": 25882,
+              "pricing_basis_source": "computed_economy"
             },
             "locked_until_turn": 0
           },
@@ -49427,9 +49472,9 @@
               "signed_turn": 4,
               "activation_turn": 5,
               "minimum_end_turn": 8,
-              "base_signing_fee": 500,
-              "signing_fee": 500,
-              "upkeep_per_turn": 50,
+              "base_signing_fee": 12941,
+              "signing_fee": 12941,
+              "upkeep_per_turn": 1036,
               "lobby_discount_pct": 0,
               "missed_payments": 0,
               "effect_snapshot": {
@@ -49444,7 +49489,10 @@
               },
               "headquarters_planet_id": "6986b22de39e921902608370",
               "headquarters_status": "operational",
-              "evacuation_turns_remaining": 0
+              "evacuation_turns_remaining": 0,
+              "pricing_version": 2,
+              "pricing_basis_gross_credit_income": 25882,
+              "pricing_basis_source": "computed_economy"
             },
             "locked_until_turn": 0
           },
@@ -49458,9 +49506,9 @@
               "signed_turn": 4,
               "activation_turn": 5,
               "minimum_end_turn": 8,
-              "base_signing_fee": 500,
-              "signing_fee": 500,
-              "upkeep_per_turn": 50,
+              "base_signing_fee": 12941,
+              "signing_fee": 12941,
+              "upkeep_per_turn": 1036,
               "lobby_discount_pct": 0,
               "missed_payments": 0,
               "effect_snapshot": {
@@ -49475,7 +49523,10 @@
               },
               "headquarters_planet_id": "6986b261e39e9219026083b5",
               "headquarters_status": "operational",
-              "evacuation_turns_remaining": 0
+              "evacuation_turns_remaining": 0,
+              "pricing_version": 2,
+              "pricing_basis_gross_credit_income": 25882,
+              "pricing_basis_source": "computed_economy"
             },
             "locked_until_turn": 0
           }
@@ -103552,7 +103603,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 210,
+    "revision": 211,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
