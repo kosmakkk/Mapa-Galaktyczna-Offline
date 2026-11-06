@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793436174705,
-  "published_at": "2026-11-06T15:14:23.075Z",
-  "source_data_updated_at": "2026-10-31T08:42:54.705Z",
+  "campaign_version": 1793995431653,
+  "published_at": "2026-11-06T20:05:23.340Z",
+  "source_data_updated_at": "2026-11-06T20:03:51.653Z",
   "entities": {
     "Planet": [
       {
@@ -48922,7 +48922,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 277,
+        "revision": 287,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -49288,7 +49288,7 @@
       "independent_worlds_version": 1,
       "specialization_version": 1,
       "administration_version": 1,
-      "updated_date": "2026-10-29T18:56:39.944Z"
+      "updated_date": "2026-11-03T18:56:29.274Z"
     },
     "HighPriorityTarget": [
       {
@@ -97044,6 +97044,102 @@
         "turn": 4,
         "result": {},
         "updated_date": "2026-10-29T18:56:39.944Z"
+      },
+      {
+        "id": "1c183c77-3ac6-40ab-ab09-9eacd151549d",
+        "type": "military_arma_start",
+        "turn": 4,
+        "result": {
+          "id": "arma_4968b23b-175b-4cbf-b05b-52e071c5bd47",
+          "military_version": 1,
+          "name": "TESTOWA SESJA",
+          "planet_id": "6986b22de39e921902608373",
+          "planet_name": "Geonosis",
+          "status": "active",
+          "session_key": "session_1f9c7253-108d-4ba9-aaec-4bcde9f75e40",
+          "major_order_id": "6a1ce27c71eb650e4f8b1940",
+          "major_order_target_id": "phase_3:0",
+          "side_mappings": {
+            "WEST": "Republic",
+            "EAST": "CIS",
+            "INDEPENDENT": ""
+          },
+          "formation_ids": {
+            "WEST": [
+              "gar_legion_1788084133422_mcp2n",
+              "legion_1787575609635_74rusc"
+            ],
+            "EAST": [
+              "formation_49539ec6-387a-45f5-9696-8c0d435dad8c"
+            ],
+            "INDEPENDENT": []
+          },
+          "participant_sources": {
+            "WEST": {
+              "type": "formations",
+              "ids": [
+                "gar_legion_1788084133422_mcp2n",
+                "legion_1787575609635_74rusc"
+              ]
+            },
+            "EAST": {
+              "type": "formations",
+              "ids": [
+                "formation_49539ec6-387a-45f5-9696-8c0d435dad8c"
+              ]
+            }
+          },
+          "arma_force_profiles": {
+            "WEST": [
+              {
+                "profile_key": "LS_13TH",
+                "weight": 100,
+                "role": "MAIN"
+              }
+            ],
+            "EAST": [
+              {
+                "profile_key": "CIS_STANDARD",
+                "weight": 100,
+                "role": "MAIN"
+              }
+            ]
+          },
+          "committed_units": {
+            "WEST": 7216,
+            "EAST": 40432,
+            "INDEPENDENT": 0
+          },
+          "casualties": {
+            "WEST": 0,
+            "EAST": 0,
+            "INDEPENDENT": 0
+          },
+          "processed_event_ids": [],
+          "recent_events": [],
+          "started_at": "2026-11-03T18:56:29.278Z",
+          "widmo_initial_war_effort": 47,
+          "widmo_initial_captured_at": "2026-11-03T18:56:29.278Z",
+          "widmo_side_context": {
+            "activeSides": [
+              "WEST",
+              "EAST"
+            ],
+            "sideMappings": {
+              "WEST": "Republic",
+              "EAST": "CIS"
+            },
+            "shares": {
+              "WEST": 47,
+              "EAST": 53
+            },
+            "warEffortSides": [
+              "WEST",
+              "EAST"
+            ]
+          }
+        },
+        "updated_date": "2026-11-03T18:56:29.274Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -103795,7 +103891,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 211,
+    "revision": 217,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
