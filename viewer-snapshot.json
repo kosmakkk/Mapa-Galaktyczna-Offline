@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1793995431653,
-  "published_at": "2026-11-06T20:16:05.669Z",
-  "source_data_updated_at": "2026-11-06T20:03:51.653Z",
+  "campaign_version": 1795635497088,
+  "published_at": "2026-11-25T19:43:15.941Z",
+  "source_data_updated_at": "2026-11-25T19:38:17.088Z",
   "entities": {
     "Planet": [
       {
@@ -235,9 +235,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 892
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2430
           },
           "automation": true,
           "status": "waiting",
@@ -301,7 +301,7 @@
             "description": "Nyriaan hides beneath a cloud layer strong enough to cut surface comms and make unaided landing nearly impossible. Storms may last for months above boggy plains, low hills, and rocky northern valleys where abandoned mines still stand. The atmosphere also interferes with use of the Force. For thousands of years settlers have told of helmeted creatures taking people into the night, though Republica officials continue to file the stories as folklore rather than evidence."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a0e968d305d3bf1a8e67636",
@@ -385,9 +385,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 6159,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -451,7 +451,7 @@
             "description": "Silla is a quiet mild-world of small villages hidden among vast forests and high mountain slopes. Great cities and heavy industry have not taken root, leaving the planet provincial and calm. Its value lies in local communities and unspoiled land, not in a powerful industry or a strategic bargain."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a0e94bce49768254e43a04b",
@@ -682,9 +682,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2098,
-            "durasteel": 1540,
-            "minerals": 590
+            "credits": 3636,
+            "durasteel": 3078,
+            "minerals": 2128
           },
           "automation": true,
           "status": "waiting",
@@ -748,7 +748,7 @@
             "description": "Csilla is a world locked beneath ancient ice. Military complexes and false cities dominate the surface, while much of its real life and infrastructure hides from the cold. Most native fauna is gone, and only a few trees survive inside sheltered caves. The climate makes a natural fortress but leaves little open biosphere to exploit."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a0e92d760fc8ddce4451945",
@@ -1536,9 +1536,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3365,
-            "durasteel": 1665,
-            "minerals": 640
+            "credits": 4903,
+            "durasteel": 3203,
+            "minerals": 2178
           },
           "automation": true,
           "status": "waiting",
@@ -1602,7 +1602,7 @@
             "description": "Kakra is an unstable but inhabited volcanic world. Active vents continually destroy old ground and make new land. Settlement demands constant geological watching and structures able to survive ash, lava, and quakes. The same violence that threatens the people may offer geothermal power and minerals newly exposed by the changing crust."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a0e36c70348fa1d0840fd66",
@@ -2538,9 +2538,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 7850,
-            "durasteel": 4031,
-            "minerals": 2019
+            "credits": 9388,
+            "durasteel": 5569,
+            "minerals": 3557
           },
           "automation": true,
           "status": "waiting",
@@ -2604,7 +2604,7 @@
             "description": "Quarzite appears grey and violet beneath an atmosphere so dense that lightning and heavy rain never truly cease. A single great turbolift offers reliable passage below. Vast caves contain breathable air and brilliant violet crystals whose natural light replaces the distant star. The surface denies easy access, while the underground world provides the only practical ground for settlement and profit."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a0dd65a7282a262a9e79fd2",
@@ -2676,9 +2676,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -2742,7 +2742,7 @@
             "description": "Borosk began as an ordinary rocky world with changeable weather. Repeated invasions remade it into a fortress protected by an outer shield and hundreds of surface defenses. The landscape now serves mala before nature, and every new fortification records another old threat. Its chief value is strategic rather than natural."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6a05e2c2d4fc0c188e4a9b5a",
@@ -3308,9 +3308,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 10013,
-            "durasteel": 4031,
-            "minerals": 1561
+            "credits": 11551,
+            "durasteel": 5569,
+            "minerals": 3099
           },
           "automation": true,
           "status": "waiting",
@@ -3374,7 +3374,7 @@
             "description": "Kotab is a warm world of jungle and desert, home to the bald Kotabi. Its people live in pyramid-shaped stone buildings and remain loyal to their king. The monarch keeps ancient Sith artifacts now treated chiefly as symbols of authority. Tradition, architecture, and royal power shape the world more than any poorly recorded economy."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69dd467518197525ad1a6740",
@@ -3737,9 +3737,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -3803,7 +3803,7 @@
             "description": "Tehar is an obscure terrestrial world in the Mid Rim near the Unknown Regions frontier. A human Teharan community maintains at least one village and an old temple tied to traditions of the Force. Canon records give no reliable Clone Wars climate, census, or export. Its value lies in the isolated settlement and ancient sacred site, not in any known great economy."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d7947ec8c5d98553baa40f",
@@ -4571,9 +4571,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 6159,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -4637,7 +4637,7 @@
             "description": "Triffis is the overgrown forest home of the short humanoid Triffians. Among the early makers of advanced technology, they turned their stature into an advantage by building fast ground vehicles. Some designs became podracers, joining useful engineering with a profitable and dangerous spectacle."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d6909eb567b1620d1afbde",
@@ -4881,9 +4881,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2891,
-            "durasteel": 1765,
-            "minerals": 892
+            "credits": 4429,
+            "durasteel": 3303,
+            "minerals": 2430
           },
           "automation": true,
           "status": "waiting",
@@ -4947,7 +4947,7 @@
             "description": "Savareen mixes dunes, great oceans, and rough towns built from ship scrap. Crimson Dawn sells violence to the highest bidder and attacks those who refuse its price. Smuggling and shadow trade sustain the world, while many residents sit on Republica wanted lists. Law is weak; contracts and fear keep business moving."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d68e281393d24706e5fd78",
@@ -5534,9 +5534,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3125,
-            "durasteel": 2112,
-            "minerals": 610
+            "credits": 4663,
+            "durasteel": 3650,
+            "minerals": 2148
           },
           "automation": true,
           "status": "active",
@@ -5600,7 +5600,7 @@
             "description": "Farstine is loyal to Republica, but its methane air forces every local to wear a mask. Mountains, plains, and oceans surround grey industrial cities and spaceports. Each settlement is a chain of sealed buildings built to keep the hostile atmosphere outside. Survival and industry depend on the same airtight koona."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d54aa3e6591d93a975f1da",
@@ -5995,9 +5995,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2098,
-            "durasteel": 1540,
-            "minerals": 590
+            "credits": 3636,
+            "durasteel": 3078,
+            "minerals": 2128
           },
           "automation": true,
           "status": "waiting",
@@ -6061,7 +6061,7 @@
             "description": "Orto Plutonia is a snowy, seemingly empty world claimed by nearby Pantorans. Republica keeps an outpost there to deter CIS, but the garrison may be angering a poorly understood native people. The planet offers little known profit; its value and danger lie in politics, territory, and military presence."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d548c4d2810593fac581dc",
@@ -6487,9 +6487,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2458,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 3996,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -6553,7 +6553,7 @@
             "description": "Rugosa is a mild moon once covered by ocean. Its dry surface now carries coral forests and rocky caverns. Toydarian King Katuunko resides there while his people weigh both sides of the Clone Mala. Young Neebray also use the moon as a nursery before their long migration through space."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d541f7dde686db42a848fb",
@@ -6630,9 +6630,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 6784,
-            "durasteel": 1765,
-            "minerals": 680
+            "credits": 8322,
+            "durasteel": 3303,
+            "minerals": 2218
           },
           "automation": true,
           "status": "waiting",
@@ -6696,7 +6696,7 @@
             "description": "Marleyvane is a forest asteroid too small for planet status. It still holds a shipyard, winding rivers, fertile ground, and varied docile wildlife. Agriculture and naval service share the same small habitat, making it an unusual and partly self-sufficient logistics post."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d541c98b5a08c733c6a060",
@@ -7825,9 +7825,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -7891,7 +7891,7 @@
             "description": "Eadu is an Outer Rim mountain world trapped beneath an endless maelstrom. Its isolation keeps suspicious eyes away, making the planet suitable for secret facilities and hidden work. The same hostile weather that makes access costly also buys natural concealment."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d53c09e5d27a7e3f5517cd",
@@ -8139,9 +8139,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 6159,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -8205,7 +8205,7 @@
             "description": "Raydonia is a small overlooked mild-world, colorful and overgrown like Felucia. Several unaligned settlements depend on scheduled supply ships. Rich native life surrounds them, but reliance on imported goods keeps the communities from true self-sufficiency."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d53b6415d480a8b2d69c2c",
@@ -8277,9 +8277,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 6159,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -8343,7 +8343,7 @@
             "description": "Yalbeck Prime is home to the bee-like Yalbec. Beyond that confirmed native species, reliable ledgers say almost nothing of its surface, climate, resources, or history. Any richer claim must wait for a new survey."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d53b46150c4e075a741263",
@@ -8923,9 +8923,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -8989,7 +8989,7 @@
             "description": "Zeffo is a rocky water-rich world with a stable ecosystem. Electromagnetic winds repeatedly strike its small settlements, threatening comms and machinery. Many buildings are cut into rock faces, using the land itself as protection from the hostile weather."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d538f742a0181010a85af8",
@@ -9075,9 +9075,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1765,
-            "minerals": 892
+            "credits": 6159,
+            "durasteel": 3303,
+            "minerals": 2430
           },
           "automation": true,
           "status": "waiting",
@@ -9141,7 +9141,7 @@
             "description": "Pabu is a tiny overlooked world of bright blue ocean and scattered islands. Several islands hold small settlements; one offers refuge to people driven from their homes. The planet's quiet isolation has become a humanitarian asset greater than any market wealth."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d538afb12a42c6caf6ea8c",
@@ -9215,9 +9215,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 7226,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -9281,7 +9281,7 @@
             "description": "Ajan Kloss is a moon sheltered from stellar radiation by its gas giant. One immense forest covers the surface, broken by old clearings and cliff-bound growth. Constant moisture damages electronics and breeds fungal infection, making every long stay expensive in maintenance and medicine."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d5371d62f8a2d24625dc79",
@@ -10016,9 +10016,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3365,
-            "durasteel": 1665,
-            "minerals": 852
+            "credits": 4903,
+            "durasteel": 3203,
+            "minerals": 2390
           },
           "automation": true,
           "status": "waiting",
@@ -10089,7 +10089,7 @@
             "description": "Jabiim suffers near-constant storms, acid rain, and electrical vortices that destroy light machines. Ionized air blocks long comms, gunships, and repulsors. Republica largely abandoned stewardship for rapid extraction of rich resources. Former oceans and bamboo rainforests now yield to ruin and desert, feeding Jabiimi nationalist anger."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d0f75c39413806d5d3224c",
@@ -10340,9 +10340,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2458,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 3996,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -10406,7 +10406,7 @@
             "description": "Ruusan has sparse plant life, bright green waters, and land shining lavender and gold in sunlight. Jedi records speak of the Valley of the Jedi. A nearby nebula severs hyperspace routes, guarding the world through isolation and preserving its near-mythic character."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69d0f6bf343749238620a9ce",
@@ -12165,9 +12165,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1765,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3303,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -12231,7 +12231,7 @@
             "description": "Carlac is a snowy world of mountains and plains where trees keep bright pink leaves through the cold year. The peaceful human Ming Po clan lives among them. White land and vivid canopies form the planet's unmistakable image."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69bdb58e526704f98af2aa99",
@@ -13090,9 +13090,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 1911,
-            "durasteel": 1199,
-            "minerals": 610
+            "credits": 3449,
+            "durasteel": 2737,
+            "minerals": 2148
           },
           "automation": true,
           "status": "waiting",
@@ -13156,7 +13156,7 @@
             "description": "Rakata Prime, or Lehon, is an isolated ocean-world of islands and the only habitable planet in its system. Rakatan technology rose swiftly, but tribal wars consumed the civilization. The world now stands silent, holding artifacts, relics, and remnants of ancient superstructures as its final inheritance."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b75c87a7e3b59956f4128a",
@@ -13529,9 +13529,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7226,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -13595,7 +13595,7 @@
             "description": "Zondula has rolling mountains crowned by green plateaus and small near-black seas beneath sheer coasts. Jedi guard its many temples. Natural defense, sacred inheritance, and isolation make the world valuable beyond ordinary resources."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b75b4ce00099c66fc2ddf2",
@@ -13969,9 +13969,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -14035,7 +14035,7 @@
             "description": "Lorta's bright blue plant life makes it resemble an ocean-world from orbit, though it has no seas—only fields, forests, canyons, and mountains. Violent Lortans repeatedly threaten nearby systems, making their world a regional danger."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b75abc462938b98d344061",
@@ -14398,9 +14398,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7226,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -14464,7 +14464,7 @@
             "description": "Castilion is a warm tropica ocean-world with facilities beneath the sea. Native life reaches leviathan size and is highly aggressive. Every underwater operation requires strong walls, constant watch, and expensive protection."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b759696e0943e106675d16",
@@ -14692,9 +14692,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7226,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -14758,7 +14758,7 @@
             "description": "Delphania is a colorful red world of deep valleys, many shallow lakes, immense native trees, and varied fauna. Its mosaic of water and forest is the chief known wealth; economy and political history remain poorly recorded."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b758fd847a58a3e5e9ace8",
@@ -14843,9 +14843,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 6159,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -14909,7 +14909,7 @@
             "description": "Pam'ba contains marshes, rainforests, tall dry mountains, and equatorial deserts. This diversity supports rich life but forces settlements to maintain different infrastructure for radically different environments."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b758e8e53b9308928d59af",
@@ -14983,9 +14983,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3266,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 4804,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -15049,7 +15049,7 @@
             "description": "Codia is a desolate world with two moons. One is tidally locked to the star; the other carries forests and moss. The contrast offers scientific interest, but records name no lasting settlement or developed market."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b758901c46c2c2033d5826",
@@ -15155,9 +15155,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3825,
-            "durasteel": 1966,
-            "minerals": 781
+            "credits": 5363,
+            "durasteel": 3504,
+            "minerals": 2319
           },
           "automation": true,
           "status": "conflict",
@@ -15221,7 +15221,7 @@
             "description": "Xala is a poorly surveyed independent world in Wild Space. Records confirm the system and nearby moon but not shared conditions. Surface, population, resources, and earlier history remain unknown. Remote position and connected hyperspace routes define its present strategic value."
           }
         },
-        "updated_date": "2026-10-12T13:30:01.846Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b7586edea18a101ee80552",
@@ -15322,9 +15322,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5488,
-            "durasteel": 2232,
-            "minerals": 656
+            "credits": 7026,
+            "durasteel": 3770,
+            "minerals": 2194
           },
           "automation": true,
           "status": "active",
@@ -15388,7 +15388,7 @@
             "description": "Batuu is a lush mountain-and-forest world used as a CIS smuggling hub, with suspected hidden factories. An abandoned Jedi temple and plant life gathered from across the galaxy add historical and biological value. Secret production, shadow trade, and ruins share one world."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b7584e4c8d2e455264948d",
@@ -15475,9 +15475,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -15541,7 +15541,7 @@
             "description": "Seatos is a verdant world of broad oceans and red-leaf forests. An ancient coastal henge surrounds a mechanism tied to an old star map, giving the quiet planet value to archaeologists and Force traditions. Clone Wars population and economy remain unknown; later events lie outside the campaign."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b75809c1d78890787947cb",
@@ -15628,9 +15628,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4421,
-            "durasteel": 2232,
-            "minerals": 867
+            "credits": 5959,
+            "durasteel": 3770,
+            "minerals": 2405
           },
           "automation": true,
           "status": "active",
@@ -15694,7 +15694,7 @@
             "description": "Bakura is an agricultural and mining world of plains and high mountains. Western plantations, eastern mines, and factories producing vital repulsorlift coils divide its three continents. The immense circular capital Salis D'aar anchors administration and industry."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b757f39b9a61911b2cb88f",
@@ -15781,9 +15781,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5063,
+            "durasteel": 3304,
+            "minerals": 2219
           },
           "automation": true,
           "status": "waiting",
@@ -15847,7 +15847,7 @@
             "description": "Dalna circles two suns, causing sun sickness in unadapted visitors. Unstable weather brings flooding rain, while the world appears blue and white from orbit. Agriculture sustains the population despite excessive light and unpredictable water."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b757789b7bcfe55e0e2629",
@@ -15922,9 +15922,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5064,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -15988,7 +15988,7 @@
             "description": "Ponemah is a sand-world near Ogem and Jakku. Constant electromagnetic storms rage at the southern pole, where sandworms move beneath the dunes. Energy interference and dangerous fauna make the region costly for travel, settlement, and research."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b756d5db9dfa7302182f80",
@@ -16936,9 +16936,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 7850,
-            "durasteel": 4031,
-            "minerals": 1561
+            "credits": 9389,
+            "durasteel": 5570,
+            "minerals": 3100
           },
           "automation": true,
           "status": "waiting",
@@ -17002,7 +17002,7 @@
             "description": "Minfar is the Zixon homeworld, with communities spread through vast tunnels and the underground city Ghikjil. Records confirm native civilization and preference for life below, but not climate, census, or trade resources. It remains a little-known independent world; later Imperial activity lies outside the campaign."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b24895a4f144aa1121c7c7",
@@ -17670,9 +17670,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 892
+            "credits": 6160,
+            "durasteel": 3305,
+            "minerals": 2431
           },
           "automation": true,
           "status": "waiting",
@@ -17736,7 +17736,7 @@
             "description": "Bandomeer is a major farming and mining world troubled by corporate abuse of workers. Its planetwide farms provide crucial rations to the Grand Army and clone troopers. Without them, Republica supply lines would face hunger, making agriculture a strategic asset."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b226980660fa427f1cb039",
@@ -18413,9 +18413,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 6160,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -18479,7 +18479,7 @@
             "description": "Daiyu is an urban crime-world sheltering the galaxy's most ruthless fugitives. A planetwide jammer blocks all outside communication and protects those hiding below. Anonymity, silence, and weak law are the services upon which its shadow economy is built."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b21c90bd4d55f45802363b",
@@ -20965,9 +20965,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 6160,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -21031,7 +21031,7 @@
             "description": "Kriselist is highly urbanized without Coruscant's vertical towers. Broad low cities spread across the surface, leaving little vegetation. Its settlement scale is immense, and natural land has paid the price."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69b20e07eda64c6eae3b4eaf",
@@ -22351,9 +22351,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 8398,
-            "durasteel": 4031,
-            "minerals": 1561
+            "credits": 9937,
+            "durasteel": 5570,
+            "minerals": 3100
           },
           "automation": true,
           "status": "waiting",
@@ -22417,7 +22417,7 @@
             "description": "Milagro sits where Corellian Run meets Harrin Trade Corridor. Noble houses rule human cities of glass domes and minarets above scenic silicon plains. Strong defenses deter pirates and offer whoever controls them a valuable staging ground."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "699ef17ab2bf94d9d4f28047",
@@ -23346,9 +23346,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4421,
-            "durasteel": 2232,
-            "minerals": 656
+            "credits": 5960,
+            "durasteel": 3771,
+            "minerals": 2195
           },
           "automation": true,
           "status": "active",
@@ -23412,7 +23412,7 @@
             "description": "After the 32 BBY invasion of Naboo, Techno Union and Trade Federation remade Hypori into a droid-factory world. Mass production now defines its economy and makes it a pillar of Separatista war koona."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6994b942a8264fad8ee5a8e9",
@@ -24532,9 +24532,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4507,
-            "durasteel": 5064,
-            "minerals": 1536
+            "credits": 6046,
+            "durasteel": 6603,
+            "minerals": 3075
           },
           "automation": true,
           "status": "active",
@@ -24598,7 +24598,7 @@
             "description": "Couronne is a cold desert Imzig world dependent on imported food. High King Valois rules from a palace tower through an elite guard, playing Republica and CIS against each other. Republic-backed Duke Juori and CIS-backed Duke Lesanne turn court unrest into a dangerous political market."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6991375e550ff89415907f82",
@@ -25398,9 +25398,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 4031,
-            "minerals": 1561
+            "credits": 7227,
+            "durasteel": 5570,
+            "minerals": 3100
           },
           "automation": true,
           "status": "waiting",
@@ -25464,7 +25464,7 @@
             "description": "Bestoon is an arida wasteland with almost no air or surface water outside polar concentrations. Native Bestoonians adapted to drought. Few outsiders stay willingly; those who do are usually criminals buying isolation rather than prosperity."
           }
         },
-        "updated_date": "2026-10-01T14:04:12.644Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "69912ab14fdcfc308214bfcd",
@@ -26588,9 +26588,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 12176,
-            "durasteel": 8940,
-            "minerals": 3322
+            "credits": 13715,
+            "durasteel": 10479,
+            "minerals": 4861
           },
           "automation": true,
           "status": "waiting",
@@ -26658,7 +26658,7 @@
             "description": "N'Zoth is a Core desert homeworld of the brutal, xenophobic Yevetha and other dangerous species. Hostility keeps outsiders away and has opened a deep rift with Republica."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "698a791072de358da1c5c79c",
@@ -27241,9 +27241,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -27307,7 +27307,7 @@
             "description": "Zonama Sekot is a living nomadic planet able to move between systems. One near-global continent holds lakes, seas, tropica jungle, and a snowy north. Its location and ecology obey the will of a living world rather than ordinary charts."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b275e39e9219026083e3",
@@ -28202,9 +28202,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 1363,
-            "durasteel": 1766,
-            "minerals": 1138
+            "credits": 2902,
+            "durasteel": 3305,
+            "minerals": 2677
           },
           "automation": true,
           "status": "waiting",
@@ -28268,7 +28268,7 @@
             "description": "Polis Massa is a fragment of a destroyed world in a remote asteroid field. The subterranean Eellayin civilization vanished with the planet. Kallidahin excavation sites and laboratories collect relics and seek the cause of destruction."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b275e39e9219026083ee",
@@ -29497,9 +29497,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 6160,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -29567,7 +29567,7 @@
             "description": "Ossus is tied to the first Jedi Temple. An Old Republic battle devastated the world, and surviving Jedi became the tribal Ysanna. Grasslands and a strong bond with Force-sensitive people preserve its sacred value."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b261e39e9219026083c6",
@@ -31398,9 +31398,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5064,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -31464,7 +31464,7 @@
             "description": "Lah'mu is a remote farming world of broad soil plains and scattered grass mounds. Small farms sustain a modest economy. Fertile but difficult ground rewards cultivation while complicating travel and infrastructure."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b261e39e9219026083c3",
@@ -32341,9 +32341,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -32407,7 +32407,7 @@
             "description": "Myrkr's metal-rich trees interfere with most sensors. Plains, low mountains, and a few port cities lie beyond the forests. Natural concealment makes the world useful to anyone whose cargo or business should remain unseen."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b261e39e9219026083cb",
@@ -34872,9 +34872,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 12176,
-            "durasteel": 4031,
-            "minerals": 2019
+            "credits": 13715,
+            "durasteel": 5570,
+            "minerals": 3558
           },
           "automation": true,
           "status": "waiting",
@@ -34949,7 +34949,7 @@
             "description": "Mimban's ionized atmosphere keeps the world overcast. Fog blankets marshes, rainforest, and swamp, while valuable hyperbaride draws extensive CIS mining rigs. Difficult ground protects ore only until profit justifies the machinery."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b261e39e9219026083c2",
@@ -35021,9 +35021,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 10013,
-            "durasteel": 4031,
-            "minerals": 2019
+            "credits": 11552,
+            "durasteel": 5570,
+            "minerals": 3558
           },
           "automation": true,
           "status": "waiting",
@@ -35087,7 +35087,7 @@
             "description": "Manaan is the ocean home of the Selkath. Floating Ahto serves air-breathing visitors, while kolto supplies a cheaper rival to bacta. Medicine makes this water-world valuable to every army and honest broker."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b261e39e9219026083d2",
@@ -35642,9 +35642,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 10463,
-            "durasteel": 4031,
-            "minerals": 1636
+            "credits": 12002,
+            "durasteel": 5570,
+            "minerals": 3175
           },
           "automation": true,
           "status": "waiting",
@@ -35708,7 +35708,7 @@
             "description": "Hapes rules an independent consortium hidden for three millennia behind the Transitory Mists. Its matriarchal society hoards advanced ship and shield technology. Green mountains and isolated cities reflect a culture that values beauty, secrecy, and strong borders."
           }
         },
-        "updated_date": "2026-09-14T06:00:26.062Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e92190260836f",
@@ -37040,9 +37040,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -37106,7 +37106,7 @@
             "description": "Endor's forest moon combines mountains and giant trees with deserts, small oceans, and secluded lakes. Much life survives above ground in the canopy, safely beyond the reach of the enormous Gorax roaming below."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e92190260836c",
@@ -37349,9 +37349,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -37415,7 +37415,7 @@
             "description": "Concordia is a fertile Mandalorian moon of mountains, forests, farms, and deadly nocturnal predators. It once fed the sector. Clan Vizsla's rule turned many fields into forts or ash, exchanging harvest for coercion."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608392",
@@ -37831,9 +37831,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 4621,
-            "durasteel": 1766,
-            "minerals": 892
+            "credits": 6160,
+            "durasteel": 3305,
+            "minerals": 2431
           },
           "automation": true,
           "status": "waiting",
@@ -37901,7 +37901,7 @@
             "description": "Lothal is a rural world of prairies, rounded stone, mountains, seas, polar tundra, and equatorial savanna. An abandoned Jedi temple keeps old secrets, while mines rumored to hold kyber attract modern interest."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608374",
@@ -38835,9 +38835,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 2098,
-            "durasteel": 1541,
-            "minerals": 591
+            "credits": 3637,
+            "durasteel": 3080,
+            "minerals": 2130
           },
           "automation": true,
           "status": "waiting",
@@ -38901,7 +38901,7 @@
             "description": "Hoth appears barren, but geothermal caves shelter wildlife from lethal nights and blizzards. Vast wreck graveyards draw scavengers and corporations hunting parts or ancient technology. Cold preserves both danger and salvage."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608370",
@@ -39156,9 +39156,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 1795,
-            "durasteel": 1199,
-            "minerals": 469
+            "credits": 3334,
+            "durasteel": 2738,
+            "minerals": 2008
           },
           "automation": true,
           "status": "waiting",
@@ -39222,7 +39222,7 @@
             "description": "Concord Dawn is a Mandalorian frontier world of farms, jungle, desert, mountain, and plain. Death Watch burned much of it during civil war. Slow recovery continues under Journeyman Protectors and True Mandalorians who reject both rival political camps."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e92190260838f",
@@ -39317,9 +39317,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -39383,7 +39383,7 @@
             "description": "Dathomir is a red, mist-shrouded Outer Rim world steeped in the dark side. Zabrak clans, witches, rancors, and predators share its hostile lands. The Nightsisters practice Magick in deep caves, far from unwanted witnesses."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608393",
@@ -40112,9 +40112,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 5064,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -40178,7 +40178,7 @@
             "description": "Ryloth is the hot, rocky Twi'lek homeworld of jungle, desert, mesa valleys, caves, and dangerous fauna. Though nominally neutral, its place in CIS-held space makes it a defended supply hub and control point."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608377",
@@ -40267,9 +40267,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 1651,
-            "durasteel": 1766,
-            "minerals": 892
+            "credits": 3190,
+            "durasteel": 3305,
+            "minerals": 2431
           },
           "automation": true,
           "status": "waiting",
@@ -40333,7 +40333,7 @@
             "description": "Crait is a small uninhabited mineral world of slippery salt flats. Windblown white salt reveals red rhodochrosite below. A few mining and processing stations profit from the deposits despite difficult travel and almost no life."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e92190260836e",
@@ -40909,9 +40909,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -40975,7 +40975,7 @@
             "description": "Felucia is a living fungal world joined into one Force-bound mind. Native clans understand its moods; invaders meet poisonous flora, rancors, sarlaccs, and an entire forest willing to fight. Occupation is a ruinously expensive proposition."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e92190260837e",
@@ -41392,9 +41392,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 1651,
-            "durasteel": 1199,
-            "minerals": 469
+            "credits": 3190,
+            "durasteel": 2738,
+            "minerals": 2008
           },
           "automation": true,
           "status": "waiting",
@@ -41458,7 +41458,7 @@
             "description": "Mandalore is the ancestral Mandalorian homeworld, reduced by ancient war from fertile land to desert and domed cities. Duchess Satine's neutral pacifism clashes with Death Watch traditionalists who seek to restore the warrior creed."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608390",
@@ -41720,9 +41720,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 3525,
-            "durasteel": 1766,
-            "minerals": 892
+            "credits": 5064,
+            "durasteel": 3305,
+            "minerals": 2431
           },
           "automation": true,
           "status": "waiting",
@@ -41786,7 +41786,7 @@
             "description": "Bespin is a vast gas giant and premier tibanna producer. A narrow life zone supports Incom mining operations and Cloud City amid otherwise lethal pressure. Native tibannucks feed on the gas, but old miners' bounties have made the species scarce."
           }
         },
-        "updated_date": "2026-09-10T13:31:01.283Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "6986b22de39e921902608375",
@@ -42183,9 +42183,9 @@
           "version": 1,
           "name": "",
           "treasury": {
-            "credits": 5688,
-            "durasteel": 1766,
-            "minerals": 681
+            "credits": 7227,
+            "durasteel": 3305,
+            "minerals": 2220
           },
           "automation": true,
           "status": "waiting",
@@ -42249,7 +42249,7 @@
             "description": "Dagobah is a remote swamp world, hot, humid, and exceptionally strong in the Force. Life fills every forest and bog. At the Shelter, descendants of an old survey team call themselves the Children; their isolated cannibal cult makes poor trading company."
           }
         },
-        "updated_date": "2026-09-14T05:56:37.168Z"
+        "updated_date": "2026-11-25T19:35:12.305Z"
       },
       {
         "id": "planet_1787568896673_cjuflqymi",
@@ -46432,97 +46432,6 @@
     ],
     "HoloNetArticle": [
       {
-        "id": "holonetarticle_1793298186689_jctzvaarv",
-        "date_posted": "2026-10-24T08:00:00.000Z",
-        "campaign_date": "2026-10-24",
-        "publication_status": "current",
-        "is_active": true,
-        "is_pinned": false,
-        "image_url": "",
-        "summary": "Komisja bada łańcuch transportów łączący Baktoid, Techno Union i Trade Federation. Poszlaki są silne, ale nie stanowią jeszcze rozstrzygającego dowodu świadomego wsparcia wojennego.",
-        "description": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
-        "category_key": "investigation",
-        "category_color": "#8b5cf6",
-        "category": "INVESTIGATION",
-        "title": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
-        "headline": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
-        "body": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
-        "planet": "Geonosis",
-        "sector": "",
-        "faction_keys": [
-          "Republic",
-          "CIS"
-        ],
-        "unit_mentions": [],
-        "glitch_intensity": 1,
-        "display_order": 1,
-        "source_language": "pl",
-        "translations": {
-          "pl": {
-            "title": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
-            "summary": "Komisja bada łańcuch transportów łączący Baktoid, Techno Union i Trade Federation. Poszlaki są silne, ale nie stanowią jeszcze rozstrzygającego dowodu świadomego wsparcia wojennego.",
-            "body": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań."
-          },
-          "en": {
-            "title": "Baktoid Under Scrutiny: Who Supplies Separatist Factories?",
-            "summary": "A commission is investigating a transport chain linking Baktoid, the Techno Union, and the Trade Federation. The circumstantial case is strong, but does not yet prove deliberate wartime support.",
-            "body": "GEONOSIS — Secured supply records indicate that some underground factories received components through intermediaries linked to Baktoid Armor Workshop. Batch numbers correspond to orders for servomotors, armor, and control modules placed in the months before the Republic attack. Investigators have not found a contract explicitly ordering production for the CIS military.\n\nThey are also examining transports connected to Techno Union facilities on Balmorra and commercial documents from companies using Trade Federation infrastructure. Cargo repeatedly changed owner, designation, and destination. The pattern impedes oversight, but does not by itself prove that corporate boards knew the ultimate purpose of the parts they sold.\n\nBaktoid maintains that it fulfilled lawful industrial contracts and fell victim to falsified manifests. The Techno Union invokes technological confidentiality, while the Trade Federation claims responsibility only for transporting sealed containers. All three deny knowingly and directly supporting Separatist military production.\n\nThe commission possesses a strong circumstantial chain: matching dates, recurring intermediaries, and components suited to the reactivated droid lines. It still lacks decisive evidence connecting executive decisions with specific deliveries. Pending the audit, the Republic has filed no charges but frozen some new orders. The inquiry may expose a corporate scheme—or controls so weak that companies sustained the war without ever asking where their goods went."
-          },
-          "hut": {
-            "title": "Baktoid Under Watch: Who Feeds Separatista Factories?",
-            "summary": "A commission follows cargo between Baktoid, Techno Union, and Trade Federation. The clues are strong, but no final proof shows deliberate mala support.",
-            "body": "GEONOSIS — Captured supply records show that underground factories received parts through middlemen linked to Baktoid Armor Workshop. Batch numbers match orders for servos, armor, and control modules made before the Republica attack. No contract openly orders production for CIS armies.\n\nInvestigators also trace cargo to Techno Union works on Balmorra and companies using Trade Federation koona. Ownership, labels, and destinations changed again and again. This hides the path but does not prove corporate bosses knew the final purpose.\n\nBaktoid claims lawful contracts and false manifests. Techno Union hides behind technological secrecy. Trade Federation says it only moved sealed containers. All deny knowing support for Separatista mala production.\n\nThe commission holds a strong chain of clues: matching dates, recurring middlemen, and parts fitting active droid lines. It still lacks the decisive link between executive choices and named deliveries. Republica has frozen some new orders without filing charges. The audit may expose conspiracy—or controls so weak that corporations fed the war and never asked who ate. The distinction matters beyond one company. If ignorance excuses every supplier, corporate koona can arm any front while responsibility vanishes between invoices. If suspicion is enough for punishment, lawful trade across contested systems may freeze before evidence is heard."
-          }
-        },
-        "updated_date": "2026-11-06T15:04:47.531Z"
-      },
-      {
-        "id": "holonetarticle_1793298182337_8ersuv5ev",
-        "date_posted": "2026-02-02T09:00:00.000Z",
-        "campaign_date": "2026-02-02",
-        "publication_status": "current",
-        "is_active": true,
-        "is_pinned": false,
-        "image_url": "",
-        "summary": "Po pierwszych walkach Senat spiera się o mandat operacji, los ludności Geonosis i administrację terenów zajętych przez Republikę.",
-        "description": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
-        "category_key": "politics",
-        "category_color": "#06b6d4",
-        "category": "POLITICS",
-        "title": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
-        "headline": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
-        "body": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
-        "planet": "Coruscant",
-        "sector": "",
-        "faction_keys": [
-          "Republic",
-          "CIS",
-          "Neutral"
-        ],
-        "unit_mentions": [],
-        "glitch_intensity": 1,
-        "display_order": 2,
-        "source_language": "pl",
-        "translations": {
-          "pl": {
-            "title": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
-            "summary": "Po pierwszych walkach Senat spiera się o mandat operacji, los ludności Geonosis i administrację terenów zajętych przez Republikę.",
-            "body": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji."
-          },
-          "en": {
-            "title": "Geonosis Divides the Senate: Defensive Operation or Beginning of Occupation?",
-            "summary": "After the first battles, the Senate disputes the operation's mandate, the fate of the Geonosian population, and the government of territories occupied by the Republic.",
-            "body": "CORUSCANT — Capturing the first positions on Geonosis has not ended the dispute over the operation's mandate. Supporters argue that the Republic is removing an immediate threat to Outer Rim routes and worlds. The opposition asks when destroying factories will become the indefinite administration of a foreign planet.\n\nReports of Geonosian casualties and fighting near inhabited hives have drawn the strongest reaction. Figures remain incomplete and are challenged by both sides. The humanitarian commission demands evacuation corridors, a register of detainees, and permission for independent observers to attend searches of underground complexes.\n\nNor has anyone determined who will govern secured territory. The military wants full control until the siege ends, while several senators propose a temporary civilian administration with local representation. The CIS calls the entire debate an attempt to legalize invasion and promises to exploit every abuse in its propaganda.\n\nDelegates of the Independent Worlds warn against a precedent in which suspicion of military production justifies intervention without a prior observer mission. The government answers that there was no time. The battle's result will shape regional security; the conduct of the operation will decide whether the Republic retains the support of planets that fear both CIS expansion and Republic occupation."
-          },
-          "hut": {
-            "title": "Geonosis Divides the Senate: Defense or Occupation?",
-            "summary": "After the first battles, senators dispute the mandate, Geonosiana lives, and rule over territory taken by Republica.",
-            "body": "CORUSCANT — Taking the first Geonosis positions did not settle the mandate. Supporters say Republica removes a threat to Outer Rim routes and worlds. Opponents ask when breaking factories becomes governing a foreign world without an end date.\n\nGeonosiana casualties and fighting near inhabited hives bring the fiercest argument. Numbers remain incomplete and disputed. The humanitarian commission demands evacuation lanes, a detainee ledger, and free observers during searches below ground.\n\nNo one has named the ruler of secured territory. The military wants full control until the siege ends; senators propose temporary civilian bosses with local voices. CIS calls this debate a polite mask for invasion.\n\nIndependent Worlds warn that suspected mala production may become an excuse to enter any planet without observers. Government says there was no time. Battle will decide regional security, but conduct will decide whether Republica keeps worlds that fear both CIS expansion and Republica occupation. A temporary occupation can become permanent through routine alone: another checkpoint, another security order, another delayed handover. The Senate must define the ending while it still controls the means, before military necessity becomes the only law anyone remembers."
-          }
-        },
-        "updated_date": "2026-11-06T15:04:47.531Z"
-      },
-      {
         "id": "holonet_post_altis_10_geonosis",
         "date_posted": "2026-01-19T10:00:00.000Z",
         "campaign_date": "2026-01-19",
@@ -46549,7 +46458,7 @@
           "41. Elitarny Legion"
         ],
         "glitch_intensity": 1,
-        "display_order": 3,
+        "display_order": 1,
         "source_language": "pl",
         "translations": {
           "pl": {
@@ -46569,6 +46478,52 @@
           }
         },
         "updated_date": "2026-11-06T15:04:47.531Z"
+      },
+      {
+        "id": "holonetarticle_1793298182337_8ersuv5ev",
+        "date_posted": "2026-02-02T08:00:00.000Z",
+        "campaign_date": "2026-01-15",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Po pierwszych walkach Senat spiera się o mandat operacji, los ludności Geonosis i administrację terenów zajętych przez Republikę.",
+        "description": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
+        "category_key": "politics",
+        "category_color": "#06b6d4",
+        "category": "POLITICS",
+        "title": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
+        "headline": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
+        "body": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji.",
+        "planet": "Coruscant",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS",
+          "Neutral"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Geonosis dzieli Senat: operacja obronna czy początek okupacji?",
+            "summary": "Po pierwszych walkach Senat spiera się o mandat operacji, los ludności Geonosis i administrację terenów zajętych przez Republikę.",
+            "body": "CORUSCANT — Zdobycie pierwszych pozycji na Geonosis nie zakończyło sporu o mandat operacji. Zwolennicy uderzenia twierdzą, że Republika usuwa bezpośrednie zagrożenie dla szlaków i planet Zewnętrznych Rubieży. Opozycja pyta, w którym momencie niszczenie fabryk zamieni się w administrowanie obcym światem bez wyraźnej daty zakończenia.\n\nNajwiększe emocje budzą doniesienia o stratach wśród Geonosian oraz walkach prowadzonych w pobliżu zamieszkanych uli. Liczby pozostają niepełne i są kwestionowane przez obie strony. Komisja humanitarna domaga się korytarzy ewakuacyjnych, rejestru zatrzymanych i zgody na obecność niezależnych obserwatorów przy przeszukiwaniu podziemnych kompleksów.\n\nNie ustalono również, kto ma zarządzać zabezpieczonymi obszarami. Wojsko chce utrzymać pełną kontrolę do końca oblężenia, podczas gdy część senatorów proponuje tymczasową administrację cywilną z udziałem lokalnych przedstawicieli. CIS określa całą debatę jako próbę zalegalizowania inwazji i zapowiada wykorzystanie każdego przypadku nadużycia w swojej propagandzie.\n\nDelegaci Independent Worlds ostrzegają przed precedensem, w którym podejrzenie produkcji wojennej wystarcza do wkroczenia bez wcześniejszej misji obserwacyjnej. Rząd odpowiada, że czasu na taką misję nie było. Wynik starcia przesądzi o bezpieczeństwie regionu, ale sposób prowadzenia operacji zdecyduje, czy Republika zachowa poparcie planet, które obawiają się zarówno ekspansji CIS, jak i republikańskiej okupacji."
+          },
+          "en": {
+            "title": "Geonosis Divides the Senate: Defensive Operation or Beginning of Occupation?",
+            "summary": "After the first battles, the Senate disputes the operation's mandate, the fate of the Geonosian population, and the government of territories occupied by the Republic.",
+            "body": "CORUSCANT — Capturing the first positions on Geonosis has not ended the dispute over the operation's mandate. Supporters argue that the Republic is removing an immediate threat to Outer Rim routes and worlds. The opposition asks when destroying factories will become the indefinite administration of a foreign planet.\n\nReports of Geonosian casualties and fighting near inhabited hives have drawn the strongest reaction. Figures remain incomplete and are challenged by both sides. The humanitarian commission demands evacuation corridors, a register of detainees, and permission for independent observers to attend searches of underground complexes.\n\nNor has anyone determined who will govern secured territory. The military wants full control until the siege ends, while several senators propose a temporary civilian administration with local representation. The CIS calls the entire debate an attempt to legalize invasion and promises to exploit every abuse in its propaganda.\n\nDelegates of the Independent Worlds warn against a precedent in which suspicion of military production justifies intervention without a prior observer mission. The government answers that there was no time. The battle's result will shape regional security; the conduct of the operation will decide whether the Republic retains the support of planets that fear both CIS expansion and Republic occupation."
+          },
+          "hut": {
+            "title": "Geonosis Divides the Senate: Defense or Occupation?",
+            "summary": "After the first battles, senators dispute the mandate, Geonosiana lives, and rule over territory taken by Republica.",
+            "body": "CORUSCANT — Taking the first Geonosis positions did not settle the mandate. Supporters say Republica removes a threat to Outer Rim routes and worlds. Opponents ask when breaking factories becomes governing a foreign world without an end date.\n\nGeonosiana casualties and fighting near inhabited hives bring the fiercest argument. Numbers remain incomplete and disputed. The humanitarian commission demands evacuation lanes, a detainee ledger, and free observers during searches below ground.\n\nNo one has named the ruler of secured territory. The military wants full control until the siege ends; senators propose temporary civilian bosses with local voices. CIS calls this debate a polite mask for invasion.\n\nIndependent Worlds warn that suspected mala production may become an excuse to enter any planet without observers. Government says there was no time. Battle will decide regional security, but conduct will decide whether Republica keeps worlds that fear both CIS expansion and Republica occupation. A temporary occupation can become permanent through routine alone: another checkpoint, another security order, another delayed handover. The Senate must define the ending while it still controls the means, before military necessity becomes the only law anyone remembers."
+          }
+        },
+        "updated_date": "2026-11-25T02:08:51.940Z",
+        "display_order": 2
       },
       {
         "id": "holonetarticle_1793298177677_7e8gv5pwb",
@@ -46594,7 +46549,7 @@
         ],
         "unit_mentions": [],
         "glitch_intensity": 1,
-        "display_order": 4,
+        "display_order": 3,
         "source_language": "pl",
         "translations": {
           "pl": {
@@ -46614,6 +46569,51 @@
           }
         },
         "updated_date": "2026-11-06T15:04:47.531Z"
+      },
+      {
+        "id": "holonetarticle_1793298186689_jctzvaarv",
+        "date_posted": "2026-10-24T06:00:00.000Z",
+        "campaign_date": "2026-01-01",
+        "publication_status": "current",
+        "is_active": true,
+        "is_pinned": false,
+        "image_url": "",
+        "summary": "Komisja bada łańcuch transportów łączący Baktoid, Techno Union i Trade Federation. Poszlaki są silne, ale nie stanowią jeszcze rozstrzygającego dowodu świadomego wsparcia wojennego.",
+        "description": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
+        "category_key": "investigation",
+        "category_color": "#8b5cf6",
+        "category": "INVESTIGATION",
+        "title": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
+        "headline": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
+        "body": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań.",
+        "planet": "Geonosis",
+        "sector": "",
+        "faction_keys": [
+          "Republic",
+          "CIS"
+        ],
+        "unit_mentions": [],
+        "glitch_intensity": 1,
+        "source_language": "pl",
+        "translations": {
+          "pl": {
+            "title": "Baktoid pod lupą: kto zaopatruje separatystyczne fabryki?",
+            "summary": "Komisja bada łańcuch transportów łączący Baktoid, Techno Union i Trade Federation. Poszlaki są silne, ale nie stanowią jeszcze rozstrzygającego dowodu świadomego wsparcia wojennego.",
+            "body": "GEONOSIS — Zabezpieczone rejestry dostaw wskazują, że część podziemnych fabryk otrzymywała komponenty przez sieć pośredników powiązanych z Baktoid Armor Workshop. Numery partii odpowiadają zamówieniom na serwomechanizmy, pancerze i moduły sterowania składanym w miesiącach poprzedzających republikański atak. Nie odnaleziono jednak umowy wprost nakazującej produkcję dla armii CIS.\n\nŚledczy analizują też transporty prowadzące do zakładów Techno Union na Balmorrze oraz dokumenty handlowe firm korzystających z infrastruktury Trade Federation. Ładunki wielokrotnie zmieniały właściciela, oznaczenie i planetę docelową. Ten schemat utrudnia kontrolę, lecz sam w sobie nie dowodzi, że zarządy korporacji znały ostateczne przeznaczenie sprzedawanych części.\n\nBaktoid utrzymuje, że realizował legalne kontrakty przemysłowe i padł ofiarą fałszowania manifestów. Techno Union powołuje się na tajemnicę technologiczną, a Trade Federation twierdzi, że odpowiada wyłącznie za przewóz zaplombowanych kontenerów. Wszystkie trzy podmioty zaprzeczają świadomemu, bezpośredniemu wsparciu separatystycznej produkcji wojennej.\n\nKomisja posiada silny łańcuch poszlak: zgodne terminy, powtarzalnych pośredników i komponenty pasujące do uruchomionych linii droidów. Nadal brakuje rozstrzygającego dowodu łączącego decyzje kierownictwa z konkretnymi dostawami. Do czasu zakończenia audytu Republika nie postawiła zarzutów, lecz zamroziła część nowych zamówień. Śledztwo może wykazać korporacyjny proceder albo system kontroli tak słaby, że firmy wspierały wojnę, nie zadając pytań."
+          },
+          "en": {
+            "title": "Baktoid Under Scrutiny: Who Supplies Separatist Factories?",
+            "summary": "A commission is investigating a transport chain linking Baktoid, the Techno Union, and the Trade Federation. The circumstantial case is strong, but does not yet prove deliberate wartime support.",
+            "body": "GEONOSIS — Secured supply records indicate that some underground factories received components through intermediaries linked to Baktoid Armor Workshop. Batch numbers correspond to orders for servomotors, armor, and control modules placed in the months before the Republic attack. Investigators have not found a contract explicitly ordering production for the CIS military.\n\nThey are also examining transports connected to Techno Union facilities on Balmorra and commercial documents from companies using Trade Federation infrastructure. Cargo repeatedly changed owner, designation, and destination. The pattern impedes oversight, but does not by itself prove that corporate boards knew the ultimate purpose of the parts they sold.\n\nBaktoid maintains that it fulfilled lawful industrial contracts and fell victim to falsified manifests. The Techno Union invokes technological confidentiality, while the Trade Federation claims responsibility only for transporting sealed containers. All three deny knowingly and directly supporting Separatist military production.\n\nThe commission possesses a strong circumstantial chain: matching dates, recurring intermediaries, and components suited to the reactivated droid lines. It still lacks decisive evidence connecting executive decisions with specific deliveries. Pending the audit, the Republic has filed no charges but frozen some new orders. The inquiry may expose a corporate scheme—or controls so weak that companies sustained the war without ever asking where their goods went."
+          },
+          "hut": {
+            "title": "Baktoid Under Watch: Who Feeds Separatista Factories?",
+            "summary": "A commission follows cargo between Baktoid, Techno Union, and Trade Federation. The clues are strong, but no final proof shows deliberate mala support.",
+            "body": "GEONOSIS — Captured supply records show that underground factories received parts through middlemen linked to Baktoid Armor Workshop. Batch numbers match orders for servos, armor, and control modules made before the Republica attack. No contract openly orders production for CIS armies.\n\nInvestigators also trace cargo to Techno Union works on Balmorra and companies using Trade Federation koona. Ownership, labels, and destinations changed again and again. This hides the path but does not prove corporate bosses knew the final purpose.\n\nBaktoid claims lawful contracts and false manifests. Techno Union hides behind technological secrecy. Trade Federation says it only moved sealed containers. All deny knowing support for Separatista mala production.\n\nThe commission holds a strong chain of clues: matching dates, recurring middlemen, and parts fitting active droid lines. It still lacks the decisive link between executive choices and named deliveries. Republica has frozen some new orders without filing charges. The audit may expose conspiracy—or controls so weak that corporations fed the war and never asked who ate. The distinction matters beyond one company. If ignorance excuses every supplier, corporate koona can arm any front while responsibility vanishes between invoices. If suspicion is enough for punishment, lawful trade across contested systems may freeze before evidence is heard."
+          }
+        },
+        "updated_date": "2026-11-25T02:09:19.775Z",
+        "display_order": 4
       },
       {
         "id": "holonetarticle_1793298173338_9m9gz7n5b",
@@ -48922,7 +48922,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 287,
+        "revision": 299,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -49288,7 +49288,7 @@
       "independent_worlds_version": 1,
       "specialization_version": 1,
       "administration_version": 1,
-      "updated_date": "2026-11-03T18:56:29.274Z"
+      "updated_date": "2026-11-25T19:36:02.228Z"
     },
     "HighPriorityTarget": [
       {
@@ -49548,16 +49548,16 @@
         "transport_icon": "/images/transports/1787589542654_obraz_2026-08-24_183902631.webp",
         "is_hidden": false,
         "treasury": {
-          "credits": 50952,
-          "durasteel": 256672,
-          "minerals": 17186
+          "credits": 100000,
+          "durasteel": 100000,
+          "minerals": 100000
         },
         "military_reserves": [
           {
             "id": "reserve_f598cea7-da92-49a4-bfd1-6edabd9e015e",
             "planet_id": "6986b22de39e921902608373",
             "formation_id": "",
-            "strength": 996000000,
+            "strength": 994000000,
             "readiness": "unprepared"
           },
           {
@@ -49575,6 +49575,14 @@
             "strength": 1919136,
             "readiness": "ready",
             "profile_key": "line"
+          },
+          {
+            "id": "reserve_02130943-a0ad-4abe-b01f-63a2fbdd727b",
+            "planet_id": "6986b22de39e921902608373",
+            "formation_id": "formation_72e09fc4-ba25-434f-bb4d-c65d3b08a72c",
+            "strength": 2000000,
+            "readiness": "ready",
+            "profile_key": "defensive"
           }
         ],
         "military_totals": {
@@ -49723,7 +49731,7 @@
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-10-09T21:54:28.689Z"
+        "updated_date": "2026-11-25T19:36:02.228Z"
       },
       {
         "id": "faction_hutt_cartel",
@@ -49886,9 +49894,9 @@
         "fleet_icon": "/images/fleets/1787571255979_obraz_2026-08-24_133415946.webp",
         "transport_icon": "/images/transports/1787589702244_obraz_2026-08-24_184142221.webp",
         "treasury": {
-          "credits": 34196,
-          "durasteel": 12250,
-          "minerals": 4804
+          "credits": 100000,
+          "durasteel": 100000,
+          "minerals": 100000
         },
         "military_reserves": [
           {
@@ -49958,7 +49966,7 @@
             "locked_until_turn": 0
           }
         },
-        "updated_date": "2026-09-30T18:54:51.145Z"
+        "updated_date": "2026-11-25T19:34:12.581Z"
       },
       {
         "id": "unknown-faction",
@@ -49988,11 +49996,11 @@
         "composition": "",
         "area_of_operations": "",
         "current_order": "",
-        "planet_id": "6986b22de39e921902608373",
-        "origin_planet": "Geonosis",
+        "planet_id": "6986b22de39e921902608372",
+        "origin_planet": "Tatooine",
         "destination_planet": "",
         "route": [
-          "Geonosis"
+          "Tatooine"
         ],
         "waypoints": [],
         "movement_order": null,
@@ -51509,37 +51517,7 @@
       }
     ],
     "FleetOrder": [],
-    "NavalBattle": [
-      {
-        "id": "naval_battle_fleet_1793284276508_nasbs2z6",
-        "naval_battle_version": 2,
-        "planet_id": "6986b22de39e921902608373",
-        "status": "paused",
-        "rounds_completed": 0,
-        "next_round_approved": true,
-        "started_turn": 4,
-        "sides": {
-          "attacker": {
-            "faction_keys": [
-              "Republic"
-            ],
-            "fleet_ids": [
-              "fleet_1787557051705_grr5y58hc"
-            ]
-          },
-          "defender": {
-            "faction_keys": [
-              "CIS"
-            ],
-            "fleet_ids": [
-              "fleet_1787568224564_8q6xlqqsf"
-            ]
-          }
-        },
-        "reports": [],
-        "retreats": []
-      }
-    ],
+    "NavalBattle": [],
     "UnitTransport": [],
     "GARFormation": [
       {
@@ -52256,6 +52234,25 @@
         "military_version": 1,
         "profile_key": "line",
         "updated_date": "2026-10-09T17:04:45.215Z"
+      },
+      {
+        "id": "formation_72e09fc4-ba25-434f-bb4d-c65d3b08a72c",
+        "type": "command",
+        "name": "żelazna straż",
+        "parent_id": "",
+        "icon": "",
+        "commander": "",
+        "readiness": "READY",
+        "current_task": "",
+        "allocated_units": 2000000,
+        "authorized_strength": 2000000,
+        "current_strength": 0,
+        "location_planet": "",
+        "planet_id": null,
+        "faction_key": "CIS",
+        "military_version": 1,
+        "profile_key": "line",
+        "updated_date": "2026-11-25T19:32:24.538Z"
       }
     ],
     "ArmaScenario": [],
@@ -97140,6 +97137,1500 @@
           }
         },
         "updated_date": "2026-11-03T18:56:29.274Z"
+      },
+      {
+        "id": "84ca248c-e2ff-430c-b54a-2e94eafb9c2a",
+        "type": "military_create",
+        "turn": 4,
+        "result": {
+          "id": "formation_72e09fc4-ba25-434f-bb4d-c65d3b08a72c",
+          "military_version": 1,
+          "faction_key": "CIS",
+          "type": "command",
+          "parent_id": "",
+          "name": "żelazna straż",
+          "current_strength": 0,
+          "planet_id": null,
+          "profile_key": "line",
+          "icon": "",
+          "commander": "",
+          "current_task": "",
+          "allocated_units": 0,
+          "authorized_strength": 2000000,
+          "location_planet": "",
+          "readiness": "SHATTERED / UNMANNED"
+        },
+        "updated_date": "2026-11-25T17:38:41.873Z"
+      },
+      {
+        "id": "movement_instant_movement_1795630275229_64gabq01_fleet_fleet_1787557051705_grr5y58hc",
+        "type": "movement_instant",
+        "turn": 4,
+        "planet_id": "6986b22de39e921902608372"
+      },
+      {
+        "id": "c8c22c2c-eccf-4bdc-87d6-6cb299bdb453",
+        "type": "military_army_mobilize",
+        "turn": 4,
+        "result": {
+          "id": "military_order_114b7540-1062-49c3-8598-ffafb9ef0510",
+          "military_version": 1,
+          "kind": "mobilize",
+          "faction_key": "CIS",
+          "planet_id": "6986b22de39e921902608373",
+          "producer_type": "droid_factory",
+          "status": "queued",
+          "priority": 100,
+          "target_formation_id": "formation_72e09fc4-ba25-434f-bb4d-c65d3b08a72c",
+          "target_planet_id": "6986b22de39e921902608373",
+          "profile_key": "defensive",
+          "units": 2000000,
+          "package_count": 1,
+          "reserved_strength": 2000000,
+          "reserve_owner_id": "",
+          "reserve_preparation": {
+            "readiness": "unprepared"
+          },
+          "cost_basis": "reserve",
+          "cost_snapshot": {
+            "credits": 50579,
+            "durasteel": 30347,
+            "minerals": 15174
+          },
+          "corporate_effect_snapshot": {
+            "reinforcement_credit_cost": 0,
+            "reinforcement_material_cost": 0,
+            "reinforcement_mineral_cost": 0
+          },
+          "pricing_version": 4,
+          "cost_integrity": "military-v4",
+          "allocation_version": 1,
+          "work_total": 2000000,
+          "work_done": 0,
+          "turns_total": 8,
+          "turns_remaining": 8,
+          "created_turn": 4,
+          "started_turn": null,
+          "completed_turn": null
+        },
+        "updated_date": "2026-11-25T19:32:24.538Z"
+      },
+      {
+        "id": "f80ed84f-fa94-4dc8-ab40-e0f075e09262",
+        "type": "treasury_admin",
+        "turn": 4,
+        "result": {
+          "factionId": "faction_cis",
+          "before": {
+            "credits": 373,
+            "durasteel": 226325,
+            "minerals": 2012
+          },
+          "after": {
+            "credits": 1000000,
+            "durasteel": 1000000,
+            "minerals": 1000000
+          }
+        },
+        "updated_date": "2026-11-25T19:33:23.591Z"
+      },
+      {
+        "id": "718597e2-b760-4067-a640-9d70930389bb",
+        "type": "treasury_admin",
+        "turn": 4,
+        "result": {
+          "factionId": "faction_1787553141064_pd25xo37h",
+          "before": {
+            "credits": 34196,
+            "durasteel": 12250,
+            "minerals": 4804
+          },
+          "after": {
+            "credits": 100000,
+            "durasteel": 100000,
+            "minerals": 100000
+          }
+        },
+        "updated_date": "2026-11-25T19:34:12.581Z"
+      },
+      {
+        "id": "b5f15faf-5726-4dc2-b5ee-5dcce4726b2a",
+        "type": "treasury_admin",
+        "turn": 4,
+        "result": {
+          "factionId": "faction_cis",
+          "before": {
+            "credits": 1000000,
+            "durasteel": 1000000,
+            "minerals": 1000000
+          },
+          "after": {
+            "credits": 100000,
+            "durasteel": 100000,
+            "minerals": 100000
+          }
+        },
+        "updated_date": "2026-11-25T19:34:22.095Z"
+      },
+      {
+        "id": "adf9ec88-206d-41d4-a3bc-2406eb44418b",
+        "type": "treasury_admin",
+        "turn": 4,
+        "result": {
+          "scope": "all",
+          "amount": {
+            "credits": 100000,
+            "durasteel": 100000,
+            "minerals": 100000
+          },
+          "allocations": [
+            {
+              "planetId": "6986b22de39e921902608377",
+              "name": "Crait",
+              "before": {
+                "credits": 1651,
+                "durasteel": 1766,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 3190,
+                "durasteel": 3305,
+                "minerals": 2431
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608379",
+              "name": "Hoth",
+              "before": {
+                "credits": 2098,
+                "durasteel": 1541,
+                "minerals": 591
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 3637,
+                "durasteel": 3080,
+                "minerals": 2130
+              }
+            },
+            {
+              "planetId": "6986b22de39e92190260837a",
+              "name": "Bespin",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 5064,
+                "durasteel": 3305,
+                "minerals": 2431
+              }
+            },
+            {
+              "planetId": "6986b22de39e92190260837b",
+              "name": "Endor",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608385",
+              "name": "Mandalore",
+              "before": {
+                "credits": 1651,
+                "durasteel": 1199,
+                "minerals": 469
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 3190,
+                "durasteel": 2738,
+                "minerals": 2008
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608386",
+              "name": "Concordia",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608387",
+              "name": "Concord Dawn",
+              "before": {
+                "credits": 1795,
+                "durasteel": 1199,
+                "minerals": 469
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 3334,
+                "durasteel": 2738,
+                "minerals": 2008
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608389",
+              "name": "Lothal",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6160,
+                "durasteel": 3305,
+                "minerals": 2431
+              }
+            },
+            {
+              "planetId": "6986b22de39e92190260838b",
+              "name": "Ryloth",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 5064,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b22de39e92190260838d",
+              "name": "Felucia",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b22de39e92190260838f",
+              "name": "Dathomir",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b22de39e921902608391",
+              "name": "Dagobah",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083c2",
+              "name": "Manaan",
+              "before": {
+                "credits": 10013,
+                "durasteel": 4031,
+                "minerals": 2019
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 11552,
+                "durasteel": 5570,
+                "minerals": 3558
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083c5",
+              "name": "Hapes",
+              "before": {
+                "credits": 10463,
+                "durasteel": 4031,
+                "minerals": 1636
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 12002,
+                "durasteel": 5570,
+                "minerals": 3175
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083c8",
+              "name": "Myrkr",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083ca",
+              "name": "Mimban",
+              "before": {
+                "credits": 12176,
+                "durasteel": 4031,
+                "minerals": 2019
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 13715,
+                "durasteel": 5570,
+                "minerals": 3558
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083cd",
+              "name": "Lah'mu",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 5064,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b261e39e9219026083d4",
+              "name": "Ossus",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6160,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "6986b275e39e9219026083e5",
+              "name": "Polis Massa",
+              "before": {
+                "credits": 1363,
+                "durasteel": 1766,
+                "minerals": 1138
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 2902,
+                "durasteel": 3305,
+                "minerals": 2677
+              }
+            },
+            {
+              "planetId": "6986b275e39e9219026083ec",
+              "name": "Zonama Sekot",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "698a7a71b4057cbebc9d6704",
+              "name": "N'Zoth",
+              "before": {
+                "credits": 12176,
+                "durasteel": 8940,
+                "minerals": 3322
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 13715,
+                "durasteel": 10479,
+                "minerals": 4861
+              }
+            },
+            {
+              "planetId": "69912c8593de5998576472d4",
+              "name": "Bestoon",
+              "before": {
+                "credits": 5688,
+                "durasteel": 4031,
+                "minerals": 1561
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 7227,
+                "durasteel": 5570,
+                "minerals": 3100
+              }
+            },
+            {
+              "planetId": "69913e4dbc351055b8d0313a",
+              "name": "Couronne",
+              "before": {
+                "credits": 4507,
+                "durasteel": 5064,
+                "minerals": 1536
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6046,
+                "durasteel": 6603,
+                "minerals": 3075
+              }
+            },
+            {
+              "planetId": "699eebe1c7edd3bfdda3ad59",
+              "name": "Hypori",
+              "before": {
+                "credits": 4421,
+                "durasteel": 2232,
+                "minerals": 656
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 5960,
+                "durasteel": 3771,
+                "minerals": 2195
+              }
+            },
+            {
+              "planetId": "699f1fb84e0434ec378a458a",
+              "name": "Milagro",
+              "before": {
+                "credits": 8398,
+                "durasteel": 4031,
+                "minerals": 1561
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 9937,
+                "durasteel": 5570,
+                "minerals": 3100
+              }
+            },
+            {
+              "planetId": "69b20e8ac046358b10f861cf",
+              "name": "Kriselist",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6160,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "69b21d5db62efac2db1b5f72",
+              "name": "Daiyu",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6160,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "69b227179257e5b1be6274ec",
+              "name": "Bandomeer",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 6160,
+                "durasteel": 3305,
+                "minerals": 2431
+              }
+            },
+            {
+              "planetId": "69b248a5e53469ecf9608287",
+              "name": "Minfar",
+              "before": {
+                "credits": 7850,
+                "durasteel": 4031,
+                "minerals": 1561
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 9389,
+                "durasteel": 5570,
+                "minerals": 3100
+              }
+            },
+            {
+              "planetId": "69b757789b7bcfe55e0e2629",
+              "name": "Ponemah",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1539,
+                "durasteel": 1539,
+                "minerals": 1539
+              },
+              "after": {
+                "credits": 5064,
+                "durasteel": 3305,
+                "minerals": 2220
+              }
+            },
+            {
+              "planetId": "69b757f39b9a61911b2cb88f",
+              "name": "Dalna",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b75809c1d78890787947cb",
+              "name": "Bakura",
+              "before": {
+                "credits": 4421,
+                "durasteel": 2232,
+                "minerals": 867
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5959,
+                "durasteel": 3770,
+                "minerals": 2405
+              }
+            },
+            {
+              "planetId": "69b7584e4c8d2e455264948d",
+              "name": "Seatos",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b7586edea18a101ee80552",
+              "name": "Batuu",
+              "before": {
+                "credits": 5488,
+                "durasteel": 2232,
+                "minerals": 656
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 7026,
+                "durasteel": 3770,
+                "minerals": 2194
+              }
+            },
+            {
+              "planetId": "69b758901c46c2c2033d5826",
+              "name": "Xala",
+              "before": {
+                "credits": 3825,
+                "durasteel": 1966,
+                "minerals": 781
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5363,
+                "durasteel": 3504,
+                "minerals": 2319
+              }
+            },
+            {
+              "planetId": "69b758e8e53b9308928d59af",
+              "name": "Codia",
+              "before": {
+                "credits": 3266,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 4804,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b758fd847a58a3e5e9ace8",
+              "name": "Pam'ba",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b7593cdf396e8a6cb4fd91",
+              "name": "Delphania",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 7226,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b7599dc8ae0297afb6f66e",
+              "name": "Castilion",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 7226,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b75ae0e516eb2b5dba1354",
+              "name": "Lorta",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b75baa19da7af4af764d5b",
+              "name": "Zondula",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1766,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 7226,
+                "durasteel": 3304,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69b75d8aac7705d0e07ddef2",
+              "name": "Rakata Prime",
+              "before": {
+                "credits": 1911,
+                "durasteel": 1199,
+                "minerals": 610
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 3449,
+                "durasteel": 2737,
+                "minerals": 2148
+              }
+            },
+            {
+              "planetId": "69bdb5cdf0fad27c2ec1a777",
+              "name": "Carlac",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d0f71b153d14c1228b3c78",
+              "name": "Ruusan",
+              "before": {
+                "credits": 2458,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 3996,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d0f799971c10b0bd407052",
+              "name": "Jabiim",
+              "before": {
+                "credits": 3365,
+                "durasteel": 1665,
+                "minerals": 852
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 4903,
+                "durasteel": 3203,
+                "minerals": 2390
+              }
+            },
+            {
+              "planetId": "69d538afb12a42c6caf6ea8c",
+              "name": "Ajan Kloss",
+              "before": {
+                "credits": 5688,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 7226,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d538f742a0181010a85af8",
+              "name": "Pabu",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1765,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3303,
+                "minerals": 2430
+              }
+            },
+            {
+              "planetId": "69d53900f82b4b1546cf071f",
+              "name": "Zeffo",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d53b6415d480a8b2d69c2c",
+              "name": "Yalbeck Prime",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d53b7a1d1098bd8df757b1",
+              "name": "Raydonia",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d53d500b6dde93658b9abf",
+              "name": "Eadu",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 681
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2219
+              }
+            },
+            {
+              "planetId": "69d541f7dde686db42a848fb",
+              "name": "Marleyvane",
+              "before": {
+                "credits": 6784,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 8322,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "69d54823494b702ee39755fd",
+              "name": "Rugosa",
+              "before": {
+                "credits": 2458,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 3996,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "69d548d5138bafdeeab65be4",
+              "name": "Orto Plutonia",
+              "before": {
+                "credits": 2098,
+                "durasteel": 1540,
+                "minerals": 590
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 3636,
+                "durasteel": 3078,
+                "minerals": 2128
+              }
+            },
+            {
+              "planetId": "69d54acf7d947cfbd3929d7b",
+              "name": "Farstine",
+              "before": {
+                "credits": 3125,
+                "durasteel": 2112,
+                "minerals": 610
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 4663,
+                "durasteel": 3650,
+                "minerals": 2148
+              }
+            },
+            {
+              "planetId": "69d690320019f0a0adc38936",
+              "name": "Savareen",
+              "before": {
+                "credits": 2891,
+                "durasteel": 1765,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 4429,
+                "durasteel": 3303,
+                "minerals": 2430
+              }
+            },
+            {
+              "planetId": "69d6952bd7175baf7df9ffe9",
+              "name": "Triffis",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "69d794a4770a786d668e6b1b",
+              "name": "Tehar",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "69e8b1697045264047017a35",
+              "name": "Kotab",
+              "before": {
+                "credits": 10013,
+                "durasteel": 4031,
+                "minerals": 1561
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 11551,
+                "durasteel": 5569,
+                "minerals": 3099
+              }
+            },
+            {
+              "planetId": "6a0dd65a7282a262a9e79fd2",
+              "name": "Borosk",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "6a0de3e27c6f98547e354f15",
+              "name": "Quarzite",
+              "before": {
+                "credits": 7850,
+                "durasteel": 4031,
+                "minerals": 2019
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 9388,
+                "durasteel": 5569,
+                "minerals": 3557
+              }
+            },
+            {
+              "planetId": "6a0e458f06cee3498359defb",
+              "name": "Kakra",
+              "before": {
+                "credits": 3365,
+                "durasteel": 1665,
+                "minerals": 640
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 4903,
+                "durasteel": 3203,
+                "minerals": 2178
+              }
+            },
+            {
+              "planetId": "6a0e92ef1e79fbb719868687",
+              "name": "Csilla",
+              "before": {
+                "credits": 2098,
+                "durasteel": 1540,
+                "minerals": 590
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 3636,
+                "durasteel": 3078,
+                "minerals": 2128
+              }
+            },
+            {
+              "planetId": "6a0e968d305d3bf1a8e67636",
+              "name": "Silla",
+              "before": {
+                "credits": 4621,
+                "durasteel": 1765,
+                "minerals": 680
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 6159,
+                "durasteel": 3303,
+                "minerals": 2218
+              }
+            },
+            {
+              "planetId": "6a11219ce0619d5ff528146c",
+              "name": "Nyriaan",
+              "before": {
+                "credits": 3525,
+                "durasteel": 1765,
+                "minerals": 892
+              },
+              "grant": {
+                "credits": 1538,
+                "durasteel": 1538,
+                "minerals": 1538
+              },
+              "after": {
+                "credits": 5063,
+                "durasteel": 3303,
+                "minerals": 2430
+              }
+            }
+          ]
+        },
+        "updated_date": "2026-11-25T19:35:12.305Z"
+      },
+      {
+        "id": "998c79e0-1d82-4f44-988c-c0d1f90d9a6c",
+        "type": "military_arma_finish",
+        "turn": 4,
+        "result": {
+          "id": "arma_4968b23b-175b-4cbf-b05b-52e071c5bd47",
+          "military_version": 1,
+          "name": "TESTOWA SESJA",
+          "planet_id": "6986b22de39e921902608373",
+          "planet_name": "Geonosis",
+          "status": "awaiting_report",
+          "session_key": "session_1f9c7253-108d-4ba9-aaec-4bcde9f75e40",
+          "major_order_id": "6a1ce27c71eb650e4f8b1940",
+          "major_order_target_id": "phase_3:0",
+          "side_mappings": {
+            "WEST": "Republic",
+            "EAST": "CIS",
+            "INDEPENDENT": ""
+          },
+          "formation_ids": {
+            "WEST": [
+              "gar_legion_1788084133422_mcp2n",
+              "legion_1787575609635_74rusc"
+            ],
+            "EAST": [
+              "formation_49539ec6-387a-45f5-9696-8c0d435dad8c"
+            ],
+            "INDEPENDENT": []
+          },
+          "participant_sources": {
+            "WEST": {
+              "type": "formations",
+              "ids": [
+                "gar_legion_1788084133422_mcp2n",
+                "legion_1787575609635_74rusc"
+              ]
+            },
+            "EAST": {
+              "type": "formations",
+              "ids": [
+                "formation_49539ec6-387a-45f5-9696-8c0d435dad8c"
+              ]
+            }
+          },
+          "arma_force_profiles": {
+            "WEST": [
+              {
+                "profile_key": "LS_13TH",
+                "weight": 100,
+                "role": "MAIN"
+              }
+            ],
+            "EAST": [
+              {
+                "profile_key": "CIS_STANDARD",
+                "weight": 100,
+                "role": "MAIN"
+              }
+            ]
+          },
+          "committed_units": {
+            "WEST": 7216,
+            "EAST": 40432,
+            "INDEPENDENT": 0
+          },
+          "casualties": {
+            "WEST": 0,
+            "EAST": 0,
+            "INDEPENDENT": 0
+          },
+          "processed_event_ids": [],
+          "recent_events": [],
+          "started_at": "2026-11-03T18:56:29.278Z",
+          "widmo_initial_war_effort": 47,
+          "widmo_initial_captured_at": "2026-11-03T18:56:29.278Z",
+          "widmo_side_context": {
+            "activeSides": [
+              "WEST",
+              "EAST"
+            ],
+            "sideMappings": {
+              "WEST": "Republic",
+              "EAST": "CIS"
+            },
+            "shares": {
+              "WEST": 47,
+              "EAST": 53
+            },
+            "warEffortSides": [
+              "WEST",
+              "EAST"
+            ]
+          },
+          "updated_date": "2026-11-03T18:56:29.274Z",
+          "ended_at": "2026-11-25T19:35:28.877Z"
+        },
+        "updated_date": "2026-11-25T19:35:28.874Z"
+      },
+      {
+        "id": "4e514f8a-15d0-42ba-aca4-cd782b74c23a",
+        "type": "military_order_complete_instant",
+        "turn": 4,
+        "result": {
+          "order_id": "military_order_114b7540-1062-49c3-8598-ffafb9ef0510",
+          "units": 2000000,
+          "completed": true
+        },
+        "updated_date": "2026-11-25T19:36:02.228Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -97279,6 +98770,41 @@
         "started_turn": 4,
         "completed_turn": 4,
         "updated_date": "2026-10-09T21:54:28.689Z",
+        "blocked_reason": null
+      },
+      {
+        "id": "military_order_114b7540-1062-49c3-8598-ffafb9ef0510",
+        "military_version": 1,
+        "kind": "mobilize",
+        "faction_key": "CIS",
+        "planet_id": "6986b22de39e921902608373",
+        "producer_type": "droid_factory",
+        "status": "completed",
+        "priority": 100,
+        "target_formation_id": "formation_72e09fc4-ba25-434f-bb4d-c65d3b08a72c",
+        "target_planet_id": "6986b22de39e921902608373",
+        "profile_key": "defensive",
+        "units": 2000000,
+        "package_count": 1,
+        "reserved_strength": 0,
+        "reserve_owner_id": "",
+        "allocation_version": 1,
+        "cost_basis": "reserve",
+        "cost_snapshot": {
+          "credits": 50579,
+          "durasteel": 30347,
+          "minerals": 15174
+        },
+        "pricing_version": 4,
+        "cost_integrity": "military-v4",
+        "work_total": 2000000,
+        "work_done": 2000000,
+        "turns_total": 8,
+        "turns_remaining": 0,
+        "created_turn": 4,
+        "started_turn": 4,
+        "completed_turn": 4,
+        "updated_date": "2026-11-25T19:36:02.228Z",
         "blocked_reason": null
       }
     ],
@@ -103891,7 +105417,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 217,
+    "revision": 228,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
@@ -103905,11 +105431,11 @@
       {
         "planetId": "6986b22de39e921902608373",
         "sides": {
-          "attacker": [
-            "Republic"
-          ],
           "defender": [
             "CIS"
+          ],
+          "attacker": [
+            "Republic"
           ]
         }
       }
