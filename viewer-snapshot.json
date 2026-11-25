@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "campaign_version": 1795635497088,
-  "published_at": "2026-11-25T19:54:21.670Z",
-  "source_data_updated_at": "2026-11-25T19:38:17.088Z",
+  "campaign_version": 1795639600285,
+  "published_at": "2026-11-25T20:48:29.016Z",
+  "source_data_updated_at": "2026-11-25T20:46:40.285Z",
   "entities": {
     "Planet": [
       {
@@ -48922,7 +48922,7 @@
       "public_settings": "public_without_login",
       "strategic_state": {
         "current_turn": 4,
-        "revision": 299,
+        "revision": 300,
         "market_prices": {
           "durasteel": 1.51,
           "minerals": 1.71,
@@ -98631,6 +98631,25 @@
           "completed": true
         },
         "updated_date": "2026-11-25T19:36:02.228Z"
+      },
+      {
+        "id": "669164d0-d9b4-4261-b93d-e3e832b07796",
+        "type": "treasury_admin",
+        "turn": 4,
+        "result": {
+          "factionId": "Unknown",
+          "before": {
+            "credits": 9818,
+            "durasteel": 2413,
+            "minerals": 6578
+          },
+          "after": {
+            "credits": 100000,
+            "durasteel": 100000,
+            "minerals": 100000
+          }
+        },
+        "updated_date": "2026-11-25T20:46:36.908Z"
       }
     ],
     "FleetRepairAssignment": [],
@@ -105417,7 +105436,7 @@
     "version": 1,
     "timelineEpoch": 4,
     "turn": 4,
-    "revision": 228,
+    "revision": 229,
     "senatePlanetId": "6986b22de39e92190260836a",
     "corporateLobbying": {
       "pending": {},
