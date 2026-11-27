@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "1795639600285-1795639709016-5fc7e61a0c68",
+  "version": "1795806811693-1795806979709-18e2b2dba642",
   "hashes": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "404.html": "de807444874be14b4caac8ec14e9aa89b5c5bdfec0b114bb28f5842efc8caad6",
@@ -80,6 +80,7 @@
     "images/fleets/1787568324057_obraz_2026-08-24_124524021.webp": "ca77fe4ab79ebb22a3c902483818beb5b39744bc86409bc2dd41c602ca56c5d6",
     "images/fleets/1787571255979_obraz_2026-08-24_133415946.webp": "beb0214b44626776e3cf7299e5aa6514df774750745e1a8845e1dbb68c84f7b1",
     "images/fleets/1787590778860_obraz_2026-08-24_185938837.webp": "03d7665b43ae03781f98f9c1f855918befea0b9b84a12b04a3890aa4329a53f9",
+    "images/fleets/1795805613172_obraz_2026-11-27_195332994.webp": "9519688c2b2f47815b9780d1d1879c4427029f98d6fb193038fa0dc86c61d9ac",
     "images/gar/1787739612236_obraz_2026-08-26_122012226.webp": "61f484b7685416b2f716d67d9e1fbd045f009cf0866180019da184a37e992207",
     "images/gar/1787741124001_obraz_2026-08-26_124523990.webp": "47509f38f875c142f6e97ee593794dfab255392768ee96df2ae45d778d8ff5b9",
     "images/gar/1787741653038_obraz_2026-08-26_125413025.webp": "9ae6baa61d54070a1eaac7dfa6231dee5a7640072da20ccba158287c067211dc",
@@ -1178,14 +1179,14 @@
     "sounds/ground-battle/radio/hutts.mp3": "46999878d19cd7641cc5743f4f5d270aae656c69bb461fabf2b9604321569fdc",
     "sounds/ground-battle/radio/independent.mp3": "abc584530769424c9c0301ca32f47a0bf0585418ad5d82bfe9c412f481157bbc",
     "sounds/ground-battle/radio/unsc.mp3": "3d1380e3c6a7b66593b236afca02171b1403f378f09a20697ce036e0a4e736b9",
-    "viewer-release.json": "bc576aa7b0b4d23d1a731df6a2a0f7c58c4d4996065b43372ec104481acc4812",
-    "viewer-snapshot.json": "65b25e6a07bdac8261778d96cfcf9700239fac4fe9fe26d98e2c1cb4b92ac7cf"
+    "viewer-release.json": "3ac6530ee87749dae49252d88f587471078cc07a0f7279319f5426b98fb48b20",
+    "viewer-snapshot.json": "345653dd9dfb823d0be430b989c0ea66eaca694e646447f855c6896f95b821f9"
   },
-  "campaign_version": 1795639600285,
-  "published_at": "2026-11-25T20:48:29.016Z",
+  "campaign_version": 1795806811693,
+  "published_at": "2026-11-27T19:16:19.709Z",
   "base_path": "/Mapa-Galaktyczna-Offline/",
-  "total_files": 1180,
-  "total_bytes": 118663027,
+  "total_files": 1181,
+  "total_bytes": 119358190,
   "files": [
     ".nojekyll",
     "404.html",
@@ -1265,6 +1266,7 @@
     "images/fleets/1787568324057_obraz_2026-08-24_124524021.webp",
     "images/fleets/1787571255979_obraz_2026-08-24_133415946.webp",
     "images/fleets/1787590778860_obraz_2026-08-24_185938837.webp",
+    "images/fleets/1795805613172_obraz_2026-11-27_195332994.webp",
     "images/gar/1787739612236_obraz_2026-08-26_122012226.webp",
     "images/gar/1787741124001_obraz_2026-08-26_124523990.webp",
     "images/gar/1787741653038_obraz_2026-08-26_125413025.webp",
